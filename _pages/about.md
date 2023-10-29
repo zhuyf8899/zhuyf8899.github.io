@@ -23,11 +23,11 @@ My research interests include datamining, recommendation systems, graph represen
 For my full (and timely) publication list, please refer to my google scholar <a href='https://scholar.google.com/citations?user=pAfNfScAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
-# News
+# 🔥 News
 - *2023.09*: &nbsp; I have been admintted as a master supervisor, and there is still one vacancy for the master candidate enrollment in 2024 (only for students taking the postgraduate entrance examination).
 - *2023.09*: &nbsp; As an assistant professor, I joined the School of Computer Science, Beijing University of Posts and Telecommunications, and worked closely with <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm'>Prof. Meina Song</a>,  <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm'>Prof. Zhonghong Ou</a>, and  <a href='https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm'>Prof. Haihong E</a>. 
 
-# Publications 
+# 📚 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,14 +47,14 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 
 - ``ICDM 2023`` Z. Han, Z. Ou, ***Y. Zhu***, X. Li, and M. Song. ***FM-IGNN: Interaction Graph Neural Network with Fine-grained Matching for Session-based Recommendation***, In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2023.
 
-- ``ECML-PKDD 2023`` M. Zhou, W. Feng, ***Y. Zhu***, D. Zhang, Y. Dong and J. Tang. ***Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks***, In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML PKDD), 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_13) (Runner-up best paper award).
+- ``ECML-PKDD 2023`` M. Zhou, W. Feng, ***Y. Zhu***, D. Zhang, Y. Dong and J. Tang. ***Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks***, In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML PKDD), 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_13) (Runner-up best paper award)
 
-- ``KDD 2023`` ***Y. Zhu***, F. Cong, D. Zhang, W. Gong, Q. Lin, W. Feng, Y. Dong, and J. Tang.  ***WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window***, 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23), 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599551) [Code](https://github.com/THUDM/WinGNN) 
-<div class="badge">CCF-A</div>
+- ``KDD 2023`` ***Y. Zhu***, F. Cong, D. Zhang, W. Gong, Q. Lin, W. Feng, Y. Dong, and J. Tang.  ***WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window***, 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23), 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599551) [Code](https://github.com/THUDM/WinGNN) (CCF-A)
+
 
 - ```IEEE TKDE``` ***Y. Zhu***, Q. Lin, H. Lu, K. Shi, D. Liu, J. Chambua, S. Wan, and Z. Niu, ***Recommending Learning Objects through Attentive Heterogeneous Graph Convolution and Operation-Aware Neural Network***, IEEE Transactions on Knowledge and Data Engineering, 2023, 35(4):4178-4189. [Paper](https://ieeexplore.ieee.org/abstract/document/9606527) (CCF-A)
 
-- ```IEEE TNNLS``` G. Shi, ***Y. Zhu***, J. Liu, X. Li. ***HeGCL: Advance Self-Supervised Learning in Heterogeneous Graph-level Representation***, IEEE Transactions on Neural Networks and Learning Systems, 2023 [Paper](https://ieeexplore.ieee.org/document/10135109) (IF: 14.255).
+- ```IEEE TNNLS``` G. Shi, ***Y. Zhu***, J. Liu, X. Li. ***HeGCL: Advance Self-Supervised Learning in Heterogeneous Graph-level Representation***, IEEE Transactions on Neural Networks and Learning Systems, 2023. [Paper](https://ieeexplore.ieee.org/document/10135109) (IF: 14.255)
 
 
 - ```WWW 2023``` D. Zhang, ***Y. Zhu***, Y. Dong, Y. Wang, W. Feng, E. Kharlamov, J. Tang. ***ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation***, In Proceedings of the Web Conference 2023 (WWW'23), 759--769. [Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583530) [Code](https://github.com/THUDM/ApeGNN) (CCF-A)
@@ -123,16 +123,16 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 - Q. Lin, ***Y. Zhu***, S. Zhang, P. Shi, Q. Guo, Z. Niu, ***Lexical based automated teaching evaluation via students’ short reviews***, Computer Applications in Engineering Education, 2019, 27(1): 194-205. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22068)
 
 
-# Honors and Awards
+# 🎖 Honors and Awards
 - *2023.10* Runner-up best paper award (ADS Track), ECML-PKDD 2023.
 
-# Educations & Work Experiences
+# 🔍 Educations & Work Experiences
 - *2023.09 - (now)*, Assistant professor at School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China. 
 - *2021.10 - 2013.09*, Postdoc research fellow at Department of Computer Science and Technology, Tsinghua University, Beijing, China. (Supervisor: [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) )
 - *2016.09 - 2021.06*, Ph.D. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
 - *2012.09 - 2016.06*, B.E. at Computer School, Beijing Information Science & Technology University, Beijing, China. 
 
-# Invited Talks
+# 🎤 Invited Talks
 - *2023.10*, 基础模型时代下隐私保护与可信数据要素流通, 第一届中国（成都）数智金融高峰论坛 [Slides](files/大模型时代下隐私保护与可信数据要素流通_数智论坛.pdf)
 
 <!-- # Lectures -->
