@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifan Zhu"
-  avatar           : "images/android-chrome-192x192.png"
-  bio              : "Beijing University of Posts and Telecommunications"
+  name             : "Yifan Zhu, 朱一凡"
+  avatar           : "images/zhuyifan-avator.png"
+  bio              : "Assistant Professor @ Beijing University of Posts and Telecommunications"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pAfNfScAAAAJ"
-  email            : "yifan_zhu [a t] bupt.edu.cn"
+  email            : "yifan_zhu@bupt.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yifan-Zhu-7"
   uri              : "https://teacher.bupt.edu.cn/zhuyifan/zh_CN/index.htm"
   bitbucket        :

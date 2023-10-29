@@ -49,7 +49,8 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 
 - ``ECML-PKDD 2023`` M. Zhou, W. Feng, ***Y. Zhu***, D. Zhang, Y. Dong and J. Tang. ***Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks***, In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML PKDD), 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_13) (Runner-up best paper award).
 
-- ``KDD 2023`` ***Y. Zhu***, F. Cong, D. Zhang, W. Gong, Q. Lin, W. Feng, Y. Dong, and J. Tang.  ***WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window***, 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23), 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599551) [Code](https://github.com/THUDM/WinGNN) <div class="badge">CCF-A</div>
+- ``KDD 2023`` ***Y. Zhu***, F. Cong, D. Zhang, W. Gong, Q. Lin, W. Feng, Y. Dong, and J. Tang.  ***WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window***, 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23), 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599551) [Code](https://github.com/THUDM/WinGNN) 
+<div class="badge">CCF-A</div>
 
 - ```IEEE TKDE``` ***Y. Zhu***, Q. Lin, H. Lu, K. Shi, D. Liu, J. Chambua, S. Wan, and Z. Niu, ***Recommending Learning Objects through Attentive Heterogeneous Graph Convolution and Operation-Aware Neural Network***, IEEE Transactions on Knowledge and Data Engineering, 2023, 35(4):4178-4189. [Paper](https://ieeexplore.ieee.org/abstract/document/9606527) (CCF-A)
 
@@ -80,39 +81,59 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 
 - ```IEEE TCDS``` ***Y. Zhu***, X. Li ,  Y. Sun, H. Wang, H. Guo, and J. Sui, ***Investigating Neural Substrates of Individual Independence and Interdependence Orientations via Efficiency-based Dynamic Functional Connectivity: A Machine Learning Approach***, IEEE Transactions on Cognitive and Developmental Systems, 2022, 14(2):761-771. [Paper](https://ieeexplore.ieee.org/abstract/document/9502838)
 
-- ```MIA``` ***Y. Zhu***, X. Li, Y. Qiao, R. Shang, G. Shi, Y. Shang, and H. Guo, ***Widespread Plasticity of Cognition-Related Brain Networks in Single-Sided Deafness Revealed by Randomized Window-Based Dynamic Functional Connectivity***, Medical Image Analysis, 2021, 73(474):102163. (IF:13.828)
+- ```MIA``` ***Y. Zhu***, X. Li, Y. Qiao, R. Shang, G. Shi, Y. Shang, and H. Guo, ***Widespread Plasticity of Cognition-Related Brain Networks in Single-Sided Deafness Revealed by Randomized Window-Based Dynamic Functional Connectivity***, Medical Image Analysis, 2021, 73(474):102163. (IF:13.828) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521002097)
 
-- ```KBS``` ***Y. Zhu***, Q. Lin, H. Lu, K. Shi, P. Qiu, and Z. Niu, ***Recommending scientific paper via heterogeneous knowledge embedding based attentive recurrent neural networks***, Knowledge-Based Systems, 2021, 215: 106744. 
+- ```KBS``` ***Y. Zhu***, Q. Lin, H. Lu, K. Shi, P. Qiu, and Z. Niu, ***Recommending scientific paper via heterogeneous knowledge embedding based attentive recurrent neural networks***, Knowledge-Based Systems, 2021, 215: 106744. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121000071) 
 
-- ```FGCS``` Lin, Q., ***Y. Zhu***, H. Lu, K. Shi, and Z. Niu, ***Improving University Faculty Evaluations via multi-view Knowledge Graph***, Future Generation Computer Systems, 2021, 117:181-192. 
+- ```FGCS``` Lin, Q., ***Y. Zhu***, H. Lu, K. Shi, and Z. Niu, ***Improving University Faculty Evaluations via multi-view Knowledge Graph***, Future Generation Computer Systems, 2021, 117:181-192. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20330454)
 
-- ```Neuroimage``` G. Shi, X. Li, ***Y. Zhu***, R. Shang, Y. Sun, H. Guo, J. Sui, ***The divided brain: Functional brain asymmetry underlying self-construal***, NeuroImage, 2021, 240:118382.  
+- ```NeuroImage``` G. Shi, X. Li, ***Y. Zhu***, R. Shang, Y. Sun, H. Guo, J. Sui, ***The divided brain: Functional brain asymmetry underlying self-construal***, NeuroImage, 2021, 240:118382. [Paper](https://www.sciencedirect.com/science/article/pii/S1053811921006583)
 
-- ```IP&M``` K. Shi, Y. Wang, H. Lu, ***Y. Zhu***, Z. Niu, ***EKGTF: A knowledge-enhanced model for optimizing social network-based meteorological briefings***, Information Processing & Management, 2021, 58(4):102564. 
+- ```IP&M``` K. Shi, Y. Wang, H. Lu, ***Y. Zhu***, Z. Niu, ***EKGTF: A knowledge-enhanced model for optimizing social network-based meteorological briefings***, Information Processing & Management, 2021, 58(4):102564. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457321000637)
 
-- ```TCSS``` H. Lu, ***Y. Zhu***, Y. Yuan, W. Gong, J. Li, K. Shi, Y. Lv, Z. Niu, F.-Y. Wang, ***Social Signal-Driven Knowledge Automation: A Focus on Social Transportation***, IEEE Transactions on Computational Social Systems, 2021, 8(3): 737-753.
+- ```TCSS``` H. Lu, ***Y. Zhu***, Y. Yuan, W. Gong, J. Li, K. Shi, Y. Lv, Z. Niu, F.-Y. Wang, ***Social Signal-Driven Knowledge Automation: A Focus on Social Transportation***, IEEE Transactions on Computational Social Systems, 2021, 8(3): 737-753. [Paper](https://ieeexplore.ieee.org/abstract/document/9374560)
 
-- Y. Mao, \textbf{Y. Zhu}, Y. Liu, Q. Lin, H. Lu, F. Zhang, Classifying user connections through social media avatars and users social activities: a case study in identifying sellers on social media, Enterprise Information Systems, 2021, 16(8-9): 1856420.
-
-
+- Y. Mao, ***Y. Zhu***, Y. Liu, Q. Lin, H. Lu, F. Zhang, ***Classifying user connections through social media avatars and users social activities: a case study in identifying sellers on social media***, Enterprise Information Systems, 2021, 16(8-9): 1856420. [Paper](https://www.tandfonline.com/doi/abs/10.1080/17517575.2020.1856420)
 
 
+## 2020
+
+- ***Y. Zhu***, H. Lu, P. Qiu, K. Shi, J. Chambua, Z. Niu, ***Heterogeneous teaching evaluation network based offline course recommendation with graph learning and tensor factorization***, Neurocomputing 415, 84-95. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220311723)
+
+- ***Y. Zhu***, S. Zhang, Y. Li, H. Lu, K. Shi, Z. Niu, ***Social weather: A review of crowdsourcing‐assisted meteorological knowledge services through social cyberspace***, Geoscience Data Journal, 2020, 7(1): 61-79. [Paper](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.85)
+
+- ```KBS``` K. Shi, H. Lu, ***Y. Zhu***, Z. Niu, ***Automatic generation of meteorological briefing by event knowledge guided summarization model***, Knowledge-Based Systems, 2020, 192: 105379. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119306276)
+
+## 2019
+
+- ```ISPA 2019``` Y. Mao, ***Y. Zhu***, S. Zhang, D. Zhang, F. Zhang, X. Fan, ***Detecting interest-factor influenced abnormal evaluation of teaching via multimodal embedding and priori knowledge based neural network***, IEEE-ISPA 2019, 1201-1209. [Paper](https://ieeexplore.ieee.org/abstract/document/9047381)
+
+- ```ISPA 2019``` Y. Li, F. Zhang, ***Y. Zhu***, S. Zhang, Y. Mao, Z. Niu, ***Chinese Lexical Based Sentiment Analysis Framework in Meteorology***, IEEE-ISPA 2019, 1652-1658. [Paper](https://ieeexplore.ieee.org/abstract/document/9047329)
 
 
+- ***Y. Zhu***, J. Chambua, H. Lu, K. Shi, Z. Niu, ***An opinion based cross‐regional meteorological event detection model***, Weather, 2019, 74(2): 51-55. [Paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/wea.3295)
 
 
+- ```FGCS``` K. Shi, C. Gong, H. Lu, ***Y. Zhu***, Z. Niu. ***Wide-grained capsule network with sentence-level feature to detect meteorological event in social network***, Future Generation Computer Systems, 2020, 102:323-332. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19310908)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ```ESWA``` J. Chambua, Z. Niu, ***Y. Zhu***, ***User preferences prediction approach based on embedded deep summaries***, Expert Systems with Applications, 2019, 132: 87-98. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419302775)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Y. Nie, ***Y. Zhu***, Q. Lin, S. Zhang, P. Shi, Z. Niu, ***Academic rising star prediction via scholar’s evaluation model and machine learning techniques***, Scientometrics, 2019, 120(2): 461-476. [Paper](https://link.springer.com/article/10.1007/s11192-019-03131-x)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Q. Lin, ***Y. Zhu***, S. Zhang, P. Shi, Q. Guo, Z. Niu, ***Lexical based automated teaching evaluation via students’ short reviews***, Computer Applications in Engineering Education, 2019, 27(1): 194-205. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22068)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# Honors and Awards
+- *2023.10* Runner-up best paper award (ADS Track), ECML-PKDD 2023.
+
+# Educations & Work Experiences
+- *2023.09 - (now)*, Assistant professor at School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China. 
+- *2021.10 - 2013.09*, Postdoc research fellow at Department of Computer Science and Technology, Tsinghua University, Beijing, China. (Supervisor: [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) )
+- *2016.09 - 2021.06*, Ph.D. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
+- *2012.09 - 2016.06*, B.E. at Computer School, Beijing Information Science & Technology University, Beijing, China. 
+
+# Invited Talks
+- *2023.10*, 基础模型时代下隐私保护与可信数据要素流通, 第一届中国（成都）数智金融高峰论坛 [Slides](files/大模型时代下隐私保护与可信数据要素流通_数智论坛.pdf)
+
+<!-- # Lectures -->
+<!-- # Students -->
