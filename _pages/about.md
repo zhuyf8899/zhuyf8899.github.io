@@ -24,10 +24,12 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 
 
 # 🔥 News
+<span class='anchor' id='-news'></span>
 - *2023.09*: &nbsp; I have been admintted as a master supervisor, and there is still one vacancy for the master candidate enrollment in 2024 (only for students taking the postgraduate entrance examination).
 - *2023.09*: &nbsp; As an assistant professor, I joined the School of Computer Science, Beijing University of Posts and Telecommunications, and worked closely with <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm'>Prof. Meina Song</a>,  <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm'>Prof. Zhonghong Ou</a>, and  <a href='https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm'>Prof. Haihong E</a>. 
 
 # 📚 Publications 
+<span class='anchor' id='-publications'></span>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -124,16 +126,35 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 
 
 # 🎖 Honors and Awards
+<span class='anchor' id='-honors-and-awards'></span>
 - *2023.10* Runner-up best paper award (ADS Track), ECML-PKDD 2023.
 
 # 🔍 Educations & Work Experiences
+
+<span class='anchor' id='-educations'></span>
+
 - *2023.09 - (now)*, Assistant professor at School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China. 
 - *2021.10 - 2013.09*, Postdoc research fellow at Department of Computer Science and Technology, Tsinghua University, Beijing, China. (Supervisor: [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) )
 - *2016.09 - 2021.06*, Ph.D. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
 - *2012.09 - 2016.06*, B.E. at Computer School, Beijing Information Science & Technology University, Beijing, China. 
 
 # 🎤 Invited Talks
+<span class='anchor' id='-invited-talks'></span>
 - *2023.10*, 基础模型时代下隐私保护与可信数据要素流通, 第一届中国（成都）数智金融高峰论坛 [Slides](files/大模型时代下隐私保护与可信数据要素流通_数智论坛.pdf)
+
+# 🎁 Social Services
+
+<span class='anchor' id='-social'></span>
+
+## Guest Editor Service
+
+- * 2022.03 - 2022.12*, ***Guest Editor*** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/si/149297/)
+- * 2021.10 - 2022.02*, ***Guest Editor*** of [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/page/dsn/collections/special-issues/intelligent-sensing-fusion-and-processing-in-cyber-physical-social-systems)
+
+## Program Committee & Reviewer Service
+
+- ***Program committee member*** of WWW'24, AAAI'22-24, IJCAI'23, ECML-PKDD'22
+- ***Reviewer*** of IEEE TITS, ACM TKDD, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, Expert System with Applications, Computational Intelligence, Scientometics.
 
 <!-- # Lectures -->
 <!-- # Students -->
