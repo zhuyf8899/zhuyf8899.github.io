@@ -22,6 +22,9 @@ I currently work as an assistant professor with Beijing University of Posts and 
 My research interests include datamining, recommendation systems, graph representation learning, etc.
 For my full (and timely) publication list, please refer to my google scholar <a href='https://scholar.google.com/citations?user=pAfNfScAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+<!-- https://img.shields.io/badge/Google%20Scholar-Yifan%20Zhu-blue?logo=Google%20Scholar -->
+<!-- https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhuyf8899%2Fzhuyf8899.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations -->
+<!-- https://cdn.jsdelivr.net/gh/zhuyf8899/zhuyf8899.github.io@google-scholar-stats/gs_data_shieldsio.json -->
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
