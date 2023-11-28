@@ -30,7 +30,7 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 <span class='anchor' id='-news'></span>
 
 - *2023.10*: &nbsp; We have organized a special issue entitiled "Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors" on [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7), and we warmly welcome submissions!
-- *2023.09*: &nbsp; As an assistant professor, I joined the School of Computer Science, Beijing University of Posts and Telecommunications, and worked closely with <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm'>Prof. Meina Song</a>,  <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm'>Prof. Zhonghong Ou</a>, and  <a href='https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm'>Prof. Haihong E</a>. 
+- *2023.09*: &nbsp; As an assistant professor, I joined in the School of Computer Science, Beijing University of Posts and Telecommunications, and worked closely with <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm'>Prof. Meina Song</a>,  <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm'>Prof. Zhonghong Ou</a>, and  <a href='https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm'>Prof. Haihong E</a>. 
 
 # 📚 Publications 
 <span class='anchor' id='-publications'></span>
@@ -71,7 +71,7 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 
 - ```BIBM 2022``` G. Shi, ***Y. Zhu***, F. Zhang, W. Liu, Y. Yao, X. Li. ***Fusion Learning of Multimodal Neuroimaging with Weighted Graph AutoEncoder***, In proceedings of the International Conference on Bioinformatics and Biomedicine (BIBM'2022), 2467-2473. [Paper](https://ieeexplore.ieee.org/abstract/document/9995243)
 
-- ```SIGIR 2022``` Q. Lin, J. Liu, F. Xu, Y. Pan, ***Y. Zhu***, L. Zhang and T. Zhao. ***Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction***, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'22), 893-903. (CCF-A) 
+- ```SIGIR 2022``` Q. Lin, J. Liu, F. Xu, Y. Pan, ***Y. Zhu***, L. Zhang and T. Zhao. ***Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction***, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'22), 893-903. (CCF-A). [Paper](https://dl.acm.org/doi/10.1145/3477495.3531996)
 
 - ```IEEE TCSS``` T. Wang, ***Y. Zhu***, P. Ye, W. Gong, H. Lu, H. Mo, F.-Y. Wang, ***A New Perspective for Computational Systems:Fuzzy Modeling and Reasoning for Social Computing in CPSS***, IEEE Transactions on Computational Social Systems, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9894383)
 
@@ -138,17 +138,16 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 <span class='anchor' id='-educations'></span>
 
 - *2023.09 - (now)*, Assistant professor at School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China. 
-- *2021.10 - 2013.09*, Postdoc research fellow at Department of Computer Science and Technology, Tsinghua University, Beijing, China. (Supervisor: [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) )
+- *2021.10 - 2023.09*, Postdoc research fellow at Department of Computer Science and Technology, Tsinghua University, Beijing, China. (Supervisor: [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) )
 - *2016.09 - 2021.06*, Ph.D. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
 - *2012.09 - 2016.06*, B.E. at Computer School, Beijing Information Science & Technology University, Beijing, China. 
 
-# 🎤 Invited Talks
-<span class='anchor' id='-invited-talks'></span>
-- *2023.10*, 基础模型时代下隐私保护与可信数据要素流通, 第一届中国（成都）数智金融高峰论坛 [Slides](files/大模型时代下隐私保护与可信数据要素流通_数智论坛.pdf)
-
-# 🎁 Social Services
-
+# 🎤 Lecture, Talk, and Services
 <span class='anchor' id='-social'></span>
+
+## Invited Talks
+
+- *2023.10*, 基础模型时代下隐私保护与可信数据要素流通, 第一届中国（成都）数智金融高峰论坛 [Slides](files/大模型时代下隐私保护与可信数据要素流通_数智论坛.pdf)
 
 ## Guest Editor Service
 
@@ -158,8 +157,8 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 
 ## Program Committee & Reviewer Service
 
-- ***Program committee member*** of WWW'24, AAAI'22-24, IJCAI'23, ECML-PKDD'22
-- ***Reviewer*** of IEEE TITS, ACM TKDD, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, Expert System with Applications, Computational Intelligence, Scientometics.
+- ***Program committee member*** of WWW'24, AAAI'22-24, IJCAI'23, ECML-PKDD'22, ICWSM'24
+- ***Reviewer*** of IEEE TMC, IEEE TITS, ACM TKDD, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing.
 
 <!-- # Lectures -->
 <!-- # Students -->

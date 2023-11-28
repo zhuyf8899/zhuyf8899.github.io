@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yifan Zhu"
-description              : "IEEE Member <br/>CCF Member <br/> CAAI Member"
+description              : "IEEE Member <br/>CCF Member <br/> CAAI Member <br/><br/> Room 819, Science Buliding, <br/> No.10 Xitucheng Rd. <br/> Beijing, China"
 repository               : "zhuyf8899/zhuyf8899.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifan Zhu <br/> 朱一凡"
   avatar           : "images/zhuyifan-avator.png"
-  bio              : "Assistant Professor @ Beijing University of Posts and Telecommunications"
+  bio              : "Assistant Professor @ BUPT"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
