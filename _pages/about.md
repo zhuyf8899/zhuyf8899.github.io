@@ -20,7 +20,7 @@ redirect_from:
 I currently work as an assistant professor with Beijing University of Posts and Telecommunications. Before that, I was a postdoc research fellow with Department of Computer Science and Technology, Tsinghua University from 2021 to 2023. I received the PhD degree at Beijing Institute of Technology in 2021, and received the bachelor degree at Beijing Information Science & Technology University, in 2016. 
 
 My research interests include datamining, recommendation systems, graph representation learning, etc.
-For my full (and timely) publication list, please refer to my google scholar <a href='https://scholar.google.com/citations?user=pAfNfScAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=pAfNfScAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <!-- https://img.shields.io/badge/Google%20Scholar-Yifan%20Zhu-blue?logo=Google%20Scholar -->
 <!-- https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhuyf8899%2Fzhuyf8899.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations -->
@@ -29,6 +29,7 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2023.12*: &nbsp; I have joined as a editorial board member of the [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board). 
 - *2023.10*: &nbsp; We have organized a special issue entitiled "Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors" on [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7), and we warmly welcome submissions!
 - *2023.09*: &nbsp; As an assistant professor, I joined in the School of Computer Science, Beijing University of Posts and Telecommunications, and worked closely with <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm'>Prof. Meina Song</a>,  <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm'>Prof. Zhonghong Ou</a>, and  <a href='https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm'>Prof. Haihong E</a>. 
 
@@ -149,8 +150,9 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 
 - *2023.10*, 基础模型时代下隐私保护与可信数据要素流通, 第一届中国（成都）数智金融高峰论坛 [Slides](files/大模型时代下隐私保护与可信数据要素流通_数智论坛.pdf)
 
-## Guest Editor Service
+## Editor Service
 
+- *2023.12 - present*, ***Editorial Board Member*** of [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board)
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7)
 - *2022.03 - 2022.12*, ***Guest Editor*** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/si/149297/)
 - *2021.10 - 2022.02*, ***Guest Editor*** of [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/page/dsn/collections/special-issues/intelligent-sensing-fusion-and-processing-in-cyber-physical-social-systems)
@@ -158,7 +160,7 @@ For my full (and timely) publication list, please refer to my google scholar <a 
 ## Program Committee & Reviewer Service
 
 - ***Program committee member*** of WWW'24, AAAI'22-24, IJCAI'23, ECML-PKDD'22, ICWSM'24
-- ***Reviewer*** of IEEE TMC, IEEE TITS, ACM TKDD, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing.
+- ***Reviewer*** of IEEE TMC, IEEE TITS, ACM TKDD, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
 
 <!-- # Lectures -->
 <!-- # Students -->
