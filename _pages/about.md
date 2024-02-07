@@ -29,8 +29,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
-- *2023.12*: &nbsp; I have joined as a editorial board member of the [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board). 
-- *2023.10*: &nbsp; We have organized a special issue entitiled "Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors" on [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7), and we warmly welcome submissions!
+- *2023.12*: &nbsp; I have joined as an editorial board member of the [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board). 
+<!-- - *2023.10*: &nbsp; We have organized a special issue entitiled "Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors" on [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7), and we warmly welcome submissions! -->
 - *2023.09*: &nbsp; As an assistant professor, I joined in the School of Computer Science, Beijing University of Posts and Telecommunications, and worked closely with <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm'>Prof. Meina Song</a>,  <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm'>Prof. Zhonghong Ou</a>, and  <a href='https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm'>Prof. Haihong E</a>. 
 
 # 📚 Publications 
@@ -52,7 +52,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2023
 
-- ``ICDM 2023`` Z. Han, Z. Ou, ***Y. Zhu***, X. Li, and M. Song. ***FM-IGNN: Interaction Graph Neural Network with Fine-grained Matching for Session-based Recommendation***, In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2023.
+- ``ICDM 2023`` Z. Han, Z. Ou, ***Y. Zhu***, X. Li, and M. Song. ***FM-IGNN: Interaction Graph Neural Network with Fine-grained Matching for Session-based Recommendation***, In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2023. [Paper](https://ieeexplore.ieee.org/document/10415758/)
 
 - ``ECML-PKDD 2023`` M. Zhou, W. Feng, ***Y. Zhu***, D. Zhang, Y. Dong and J. Tang. ***Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks***, In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML PKDD), 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_13) (Runner-up best paper award)
 
@@ -68,7 +68,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2022
 
-- ```CIKM 2022``` Z. Huai, Z. Wang, ***Y. Zhu***, P. Zhang. ***AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query***, Proceedings of the 31st ACM International Conference on Information \& Knowledge Management (CIKM'22), 4039-4043. [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557544)
+- ```CIKM 2022``` Z. Huai, Z. Wang, ***Y. Zhu***, P. Zhang. ***AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query***, Proceedings of the 31st ACM International Conference on Information & Knowledge Management (CIKM'22), 4039-4043. [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557544)
 
 - ```BIBM 2022``` G. Shi, ***Y. Zhu***, F. Zhang, W. Liu, Y. Yao, X. Li. ***Fusion Learning of Multimodal Neuroimaging with Weighted Graph AutoEncoder***, In proceedings of the International Conference on Bioinformatics and Biomedicine (BIBM'2022), 2467-2473. [Paper](https://ieeexplore.ieee.org/abstract/document/9995243)
 
@@ -159,7 +159,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## Program Committee & Reviewer Service
 
-- ***Program committee member*** of WWW'24, AAAI'22-24, IJCAI'23, ECML-PKDD'22, ICWSM'24
+- ***Program committee member*** of WWW'24, AAAI'22-24, IJCAI'23-24, ECML-PKDD'22, ICWSM'24
 - ***Reviewer*** of IEEE TMC, IEEE TITS, ACM TKDD, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
 
 <!-- # Lectures -->
