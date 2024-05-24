@@ -19,7 +19,7 @@ redirect_from:
 
 I currently work as an assistant professor with Beijing University of Posts and Telecommunications. Before that, I was a postdoc research fellow with Department of Computer Science and Technology, Tsinghua University from 2021 to 2023. I received the PhD degree at Beijing Institute of Technology in 2021, and received the bachelor degree at Beijing Information Science & Technology University, in 2016. 
 
-My research interests include datamining, recommendation systems, graph representation learning, etc.
+My research interests include AIGC-powered datamining, graph representation learning, recommendation systems, etc.
 For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=pAfNfScAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <!-- https://img.shields.io/badge/Google%20Scholar-Yifan%20Zhu-blue?logo=Google%20Scholar -->
@@ -28,11 +28,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-
+- *2024.05* : &nbsp; Congratulations to [Fanjin](https://zfjsail.github.io/) and [Haoran](https://lhrlab.github.io/) for their outstanding paper been accepted by KDD'24 and ACL'24!
 - *2024.01* : &nbsp; I have been elected as an executive member of [CCF Data Governance Development Committee](https://www.ccf.org.cn/sjzlfzwyh/).
 - *2023.12*: &nbsp; I have joined as an editorial board member of the [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board). 
 <!-- - *2023.10*: &nbsp; We have organized a special issue entitiled "Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors" on [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7), and we warmly welcome submissions! -->
-- *2023.09*: &nbsp; As an assistant professor, I joined in the School of Computer Science, Beijing University of Posts and Telecommunications, and worked closely with <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm'>Prof. Meina Song</a>,  <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm'>Prof. Zhonghong Ou</a>, and  <a href='https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm'>Prof. Haihong E</a>. 
+<!-- - *2023.09*: &nbsp; As an assistant professor, I joined in the School of Computer Science, Beijing University of Posts and Telecommunications, and worked closely with <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm'>Prof. Meina Song</a>,  <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm'>Prof. Zhonghong Ou</a>, and  <a href='https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm'>Prof. Haihong E</a>.  -->
 
 # 📚 Publications 
 <span class='anchor' id='-publications'></span>
@@ -62,10 +62,6 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2023
 
-- ``ICDM 2023`` Zongzhi Han, Zhonghong Ou, ***Yifan Zhu***, Xiaodong Li, and Meina Song. ***FM-IGNN: Interaction Graph Neural Network with Fine-grained Matching for Session-based Recommendation***. In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2023. [Paper](https://ieeexplore.ieee.org/document/10415758/)
-
-- ``ECML-PKDD 2023`` Ming Zhou, Wenzheng Feng, ***Yifan Zhu***, Dan Zhang, Yuxiao Dong and Jie Tang. ***Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks***. In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML PKDD), 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_13) (Runner-up best paper award)
-
 - ``KDD 2023`` ***Yifan Zhu***, Fangpeng Cong, Dan Zhang, Wenwen Gong, Qika Lin, Wenzheng Feng, Yuxiao Dong, and Jie Tang.  ***WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window***. In 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23), 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599551) [Code](https://github.com/THUDM/WinGNN) 
 
 
@@ -75,6 +71,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 
 - ```WWW 2023``` Dan Zhang, ***Yifan Zhu***, Yuxiao Dong, Yuandong Wang, Wenzheng Feng, Evgeny Kharlamov, Jie Tang. ***ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation***. In Proceedings of the Web Conference 2023 (WWW'23), 759--769. [Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583530) [Code](https://github.com/THUDM/ApeGNN)
+
+
+- ``ECML-PKDD 2023`` Ming Zhou, Wenzheng Feng, ***Yifan Zhu***, Dan Zhang, Yuxiao Dong and Jie Tang. ***Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks***. In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML PKDD), 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_13) (Runner-up best paper award)
+
+- ``ICDM 2023`` Zongzhi Han, Zhonghong Ou, ***Yifan Zhu***, Xiaodong Li, and Meina Song. ***FM-IGNN: Interaction Graph Neural Network with Fine-grained Matching for Session-based Recommendation***. In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2023. [Paper](https://ieeexplore.ieee.org/document/10415758/)
+
 
 ## 2022
 
@@ -96,11 +98,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2021
 
-- ```IEEE TCDS``` ***Yifan Zhu***, Xuesong Li , Yang Sun, Haixu Wang, Hua Guo, and Jie Sui, ***Investigating Neural Substrates of Individual Independence and Interdependence Orientations via Efficiency-based Dynamic Functional Connectivity: A Machine Learning Approach***. IEEE Transactions on Cognitive and Developmental Systems, 2022, 14(2):761-771. [Paper](https://ieeexplore.ieee.org/abstract/document/9502838)
-
 - ```MIA``` ***Yifan Zhu***, Xuesong Li, Yufei Qiao, Ruihong Shang, Gen Shi, Yingying Shang, and Hua Guo, ***Widespread Plasticity of Cognition-Related Brain Networks in Single-Sided Deafness Revealed by Randomized Window-Based Dynamic Functional Connectivity***. Medical Image Analysis, 2021, 73(474):102163. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521002097)
 
 - ```KBS``` ***Yifan Zhu***, Qika Lin, Hao Lu, Kaize Shi, Ping Qiu, and Zhendong Niu, ***Recommending scientific paper via heterogeneous knowledge embedding based attentive recurrent neural networks***. Knowledge-Based Systems, 2021, 215: 106744. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121000071) 
+
+- ```IEEE TCDS``` ***Yifan Zhu***, Xuesong Li , Yang Sun, Haixu Wang, Hua Guo, and Jie Sui, ***Investigating Neural Substrates of Individual Independence and Interdependence Orientations via Efficiency-based Dynamic Functional Connectivity: A Machine Learning Approach***. IEEE Transactions on Cognitive and Developmental Systems, 2022, 14(2):761-771. [Paper](https://ieeexplore.ieee.org/abstract/document/9502838)
 
 - ```FGCS``` Qika Lin, ***Yifan Zhu***, Hao Lu, Kaize Shi, and Zhendong Niu, ***Improving University Faculty Evaluations via multi-view Knowledge Graph***. Future Generation Computer Systems, 2021, 117:181-192. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20330454)
 
