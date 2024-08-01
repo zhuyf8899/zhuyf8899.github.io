@@ -28,6 +28,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2024.07* : &nbsp; Congratulations to Yu! our study CP-Prompt has been accepted by MM'24!
 - *2024.07* : &nbsp; Congratulations to Weibin for our outstanding work (RevGNN) been accepted by ACM TOIS!
 - *2024.05* : &nbsp; Congratulations to [Fanjin](https://zfjsail.github.io/) and [Haoran](https://lhrlab.github.io/) for our outstanding work (OAG-Bench and ChatKBQA) been accepted by KDD'24 and ACL'24!
 - *2024.01* : &nbsp; I have been elected as an executive member of [CCF Data Governance Development Committee](https://www.ccf.org.cn/sjzlfzwyh/).
@@ -54,7 +55,9 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2024
 
-- ``ACM TOIS`` Weibin Liao, ***Yifan Zhu***, Yanyan Li, Zhonghong Ou, Xuesong Li.  ***RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation***. ACM Transactions on Information Systems, 2024. [Paper](#) [Data](https://www.aminer.cn/data/) 
+- ``MM 2024`` Yu Feng, Zhen Tian, ***Yifan Zhu***, Zongfu Han, Haoran Luo, Guangwei Zhang, Meina Song. ***CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning***. In ACM Multimedia, 2024. [Paper](http://arxiv.org/abs/2407.21043) [Code](https://github.com/dannis97500/CP_Prompt)
+
+- ``ACM TOIS`` Weibin Liao, ***Yifan Zhu***, Yanyan Li, Zhonghong Ou, Xuesong Li.  ***RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation***. ACM Transactions on Information Systems, 2024. [Paper](https://arxiv.org/pdf/2407.20684) [Data](https://www.aminer.cn/data/) 
 
 - ``KDD 2024`` Fanjin Zhang, Shijie Shi, ***Yifan Zhu***, Bo Chen, Yukuo Cen, Jifan Yu, Yelin Chen, Lulu Wang, Qingfei Zhao, Yuqing Cheng, Tianyi Han, Yuwei An, Dan Zhang, Weng Lam Tam, Kun Cao, Yunhe Pang, Xinyu Guan, Huihui Yuan, Jian Song, XiaoYan Li, Yuxiao Dong, Jie Tang.  ***OAG-Bench: A Human-Curated Benchmark for Academic Graph Mining***. In 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'24), 2024. [Paper](https://arxiv.org/pdf/2402.15810) [Data](https://www.aminer.cn/data/) 
 
