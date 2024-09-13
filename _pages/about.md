@@ -29,7 +29,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 - *2024.09* : &nbsp; Congratulations to [Dan](https://zhangdan0602.github.io/)! The study of MCAP model has been accepted by ACM TOIS!
-- *2024.08* : &nbsp; I have been elected as an executive member of [CCF CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/).
+- *2024.08* : &nbsp; I have been elected as an executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/).
 - *2024.07* : &nbsp; Congratulations to Yu! our study CP-Prompt has been accepted by MM'24!
 - *2024.07* : &nbsp; Congratulations to Weibin for our outstanding work (RevGNN) been accepted by ACM TOIS!
 <!-- - *2024.05* : &nbsp; Congratulations to [Fanjin](https://zfjsail.github.io/) and [Haoran](https://lhrlab.github.io/) for our outstanding work (OAG-Bench and ChatKBQA) been accepted by KDD'24 and ACL'24! -->
