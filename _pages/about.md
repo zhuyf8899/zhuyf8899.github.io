@@ -28,6 +28,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2024.10* : &nbsp; We appreciate Zhipu AI and the Chinese Information Processing Society of China for their funding support to our research through the [SMP-Zhipu AI Large Model Interdisciplinary Fund](http://www.cips-smp.org:8090/archives/ping-shen-jie-guo-gong-shi).
 - *2024.09* : &nbsp; Congratulations to [Dan](https://zhangdan0602.github.io/)! The study of MCAP model has been accepted by ACM TOIS!
 - *2024.08* : &nbsp; I have been elected as an executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/).
 - *2024.07* : &nbsp; Congratulations to Yu! our study CP-Prompt has been accepted by MM'24!
@@ -90,21 +91,23 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2022
 
-- ```CIKM 2022``` Zepeng Huai, Zhe Wang, ***Yifan Zhu***, Peng Zhang. ***AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query***. In 31st ACM International Conference on Information & Knowledge Management (CIKM'22), 4039-4043. [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557544)
-
 - ```BIBM 2022``` Gen Shi, ***Yifan Zhu***, Fuquan Zhang, Wenjin Liu, Yuxiang Yao, Xuesong Li. ***Fusion Learning of Multimodal Neuroimaging with Weighted Graph AutoEncoder***. In proceedings of the International Conference on Bioinformatics and Biomedicine (BIBM'2022), 2467-2473. [Paper](https://ieeexplore.ieee.org/abstract/document/9995243)
+
+- ```IEEE TITS``` Hao Lu, ***Yifan Zhu***, Qika Lin, Tan Wang, Zhendong Niu, Enrique Herrera-Viedma. ***Heterogeneous knowledge learning of predictive academic intelligence in transportation***. IEEE Transactions on Intelligent Transportation Systems, 2022, 23(4):3737-3755. [Paper](https://ieeexplore.ieee.org/abstract/document/9298476/)
+
+- ```IEEE TCDS``` Gen Shi, ***Yifan Zhu***, Zhensen Chen, Jinyan Liu, Xuesong Li, ***Are Non-image Data Really Necessary for Disease Prediction with Graph Convolutional Networks?***. IEEE Transactions on Cognitive and Developmental Systems, 2022, 15(1):252-260. [Paper](https://ieeexplore.ieee.org/abstract/document/9717290)
 
 - ```SIGIR 2022``` Qika Lin, Jun Liu, Fangzhi Xu, Yudai Pan, ***Yifan Zhu***, Lingling Zhang and Tianzhe Zhao. ***Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction***. In 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'22), 893-903. [Paper](https://dl.acm.org/doi/10.1145/3477495.3531996)
 
-- ```IEEE TCSS``` Tan Wang, ***Yifan Zhu***, Peijun Ye, Weichao Gong, Hao Lu, Hong Mo, Fei-Yue Wang, ***A New Perspective for Computational Systems:Fuzzy Modeling and Reasoning for Social Computing in CPSS***. IEEE Transactions on Computational Social Systems, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9894383)
+- ```CIKM 2022``` Zepeng Huai, Zhe Wang, ***Yifan Zhu***, Peng Zhang. ***AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query***. In 31st ACM International Conference on Information & Knowledge Management (CIKM'22), 4039-4043. [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557544)
+
+- ```IEEE TCSS``` Tan Wang, ***Yifan Zhu***, Peijun Ye, Weichao Gong, Hao Lu, Hong Mo, Fei-Yue Wang, ***A New Perspective for Computational Systems: Fuzzy Modeling and Reasoning for Social Computing in CPSS***. IEEE Transactions on Computational Social Systems, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9894383)
 
 - ```IEEE TCSS``` Kaize Shi, Hao Lu, ***Yifan Zhu***, Zhendong Niu, ***Application of Social Sensors in Natural Disasters Emergency Management: A Review***. IEEE Transactions on Computational Social Systems, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9923419)
 
 - ```IEEE TCSS``` Donglei Liu, Yong Yuan, Rui Qin, ***Yifan Zhu***, Chunxia Zhang, Zhendong Niu, ***A Local Self-Attention Sentence Model for Answer Selection Task in CQA Systems***. IEEE Transactions on Computational Social Systems, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9861392)
 
-- ```IEEE TITS``` Hao Lu, ***Yifan Zhu***, Qika Lin, Tan Wang, Zhendong Niu, Enrique Herrera-Viedma. ***Heterogeneous knowledge learning of predictive academic intelligence in transportation***. IEEE Transactions on Intelligent Transportation Systems, 2022, 23(4):3737-3755. [Paper](https://ieeexplore.ieee.org/abstract/document/9298476/)
 
-- ```IEEE TCDS``` Gen Shi, ***Yifan Zhu***, Zhensen Chen, Jinyan Liu, Xuesong Li, ***Are Non-image Data Really Necessary for Disease Prediction with Graph Convolutional Networks?***. IEEE Transactions on Cognitive and Developmental Systems, 2022, 15(1):252-260. [Paper](https://ieeexplore.ieee.org/abstract/document/9717290)
 
 ## 2021
 
@@ -184,10 +187,22 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2022.03 - 2022.12*, ***Guest Editor*** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/si/149297/)
 - *2021.10 - 2022.02*, ***Guest Editor*** of [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/page/dsn/collections/special-issues/intelligent-sensing-fusion-and-processing-in-cyber-physical-social-systems)
 
+## Social Service
+
+- Executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/)
+- Executive member of [CCF Data Governance Development Committee](https://www.ccf.org.cn/sjzlfzwyh/)
+
 ## Program Committee & Reviewer Service
 
 - ***Program committee member*** of WWW'24, MM'24, NeurIPS'24, AAAI'22-25, IJCAI'23-24, ECML-PKDD'22, ICWSM'24-25
 - ***Reviewer*** of IEEE TOIS, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, ACM ToMM, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
 
-<!-- # Lectures -->
-<!-- # Students -->
+# Students
+<span class='anchor' id='-students'></span>
+
+### Class of 2024
+- ***Master students***: Qingzhi Yu, Huiqiang Rong, Guanting Chen
+- ***Undergraduate students***: Yihao Wang (visiting), Xinyu Mu (visiting)
+
+### Class before 2023
+- ***PhD students***: Yu Feng (Co-advised with Prof. Meina Song), Weibin Liao (Co-advised with Prof. Xuesong Li), Gen Shi (Co-advised with Prof. Xuesong Li)
