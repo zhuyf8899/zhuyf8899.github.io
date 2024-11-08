@@ -28,11 +28,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2024.10* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper Text2NKG been accepted by NeurIPS'24!
 - *2024.10* : &nbsp; We appreciate Zhipu AI and the Chinese Information Processing Society of China for their funding support to our research through the [SMP-Zhipu AI Large Model Interdisciplinary Fund](http://www.cips-smp.org:8090/archives/ping-shen-jie-guo-gong-shi).
 - *2024.09* : &nbsp; Congratulations to [Dan](https://zhangdan0602.github.io/)! The study of MCAP model has been accepted by ACM TOIS!
 - *2024.08* : &nbsp; I have been elected as an executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/).
-- *2024.07* : &nbsp; Congratulations to Yu! our study CP-Prompt has been accepted by MM'24!
-- *2024.07* : &nbsp; Congratulations to Weibin for our outstanding work (RevGNN) been accepted by ACM TOIS!
+<!-- - *2024.07* : &nbsp; Congratulations to Yu! our study CP-Prompt has been accepted by MM'24! -->
+<!-- - *2024.07* : &nbsp; Congratulations to Weibin for our outstanding work (RevGNN) been accepted by ACM TOIS! -->
 <!-- - *2024.05* : &nbsp; Congratulations to [Fanjin](https://zfjsail.github.io/) and [Haoran](https://lhrlab.github.io/) for our outstanding work (OAG-Bench and ChatKBQA) been accepted by KDD'24 and ACL'24! -->
 <!-- - *2024.01* : &nbsp; I have been elected as an executive member of [CCF Data Governance Development Committee](https://www.ccf.org.cn/sjzlfzwyh/). -->
 <!-- - *2023.12*: &nbsp; I have joined as an editorial board member of the [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board).  -->
@@ -58,15 +59,17 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2024
 
+- ``NeurIPS 2024`` Haoran Luo, Haihong E, Yuhao Yang, Tianyu Yao, Yikai Guo, Zichen Tang, Wentai Zhang, Shiyao Peng, Kaiyang Wan, Meina Song, Wei Lin, ***Yifan Zhu***, Anh Tuan Luu. ***Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction***. In Advances in Neural Information Processing Systems (NeurIPS'24), 2024. [Paper](https://arxiv.org/pdf/2310.05185) [Code](https://github.com/LHRLAB/Text2NKG)
+
 - ``ACM TOIS`` Dan Zhang, Shaojie Zhen, ***Yifan Zhu***, Huihui Yuan, Jibing Gong, Jie Tang.  ***MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations***. ACM Transactions on Information Systems, 2024. [Paper(to be released)](#) [Data](https://github.com/THUDM/MCAP) 
 
 - ``MM 2024`` Yu Feng, Zhen Tian, ***Yifan Zhu***, Zongfu Han, Haoran Luo, Guangwei Zhang, Meina Song. ***CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning***. In ACM Multimedia, 2024. [Paper](http://arxiv.org/abs/2407.21043) [Code](https://github.com/dannis97500/CP_Prompt)
 
-- ``ACM TOIS`` Weibin Liao, ***Yifan Zhu***, Yanyan Li, Zhonghong Ou, Xuesong Li.  ***RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation***. ACM Transactions on Information Systems, 2024. [Paper](https://arxiv.org/pdf/2407.20684) [Data](https://www.aminer.cn/data/) 
+- ``ACM TOIS`` Weibin Liao, ***Yifan Zhu***, Yanyan Li, Zhonghong Ou, Xuesong Li.  ***RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation***. ACM Transactions on Information Systems, 2024, 43(1):168. [Paper](https://arxiv.org/pdf/2407.20684) [Data](https://www.aminer.cn/data/) 
 
 - ``KDD 2024`` Fanjin Zhang, Shijie Shi, ***Yifan Zhu***, Bo Chen, Yukuo Cen, Jifan Yu, Yelin Chen, Lulu Wang, Qingfei Zhao, Yuqing Cheng, Tianyi Han, Yuwei An, Dan Zhang, Weng Lam Tam, Kun Cao, Yunhe Pang, Xinyu Guan, Huihui Yuan, Jian Song, XiaoYan Li, Yuxiao Dong, Jie Tang.  ***OAG-Bench: A Human-Curated Benchmark for Academic Graph Mining***. In 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'24), 2024. [Paper](https://arxiv.org/pdf/2402.15810) [Data](https://www.aminer.cn/data/) 
 
-- ``ACL 2024`` Haoran Luo, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, Guanting Dong, Meina Song, Wei Lin, ***Yifan Zhu***, Luu Anh Tuan. ***ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models,*** In Fingdings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24), 2024. [Paper](https://arxiv.org/pdf/2310.08975) [Code](https://github.com/LHRLAB/ChatKBQA) 
+- ``ACL 2024`` Haoran Luo, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, Guanting Dong, Meina Song, Wei Lin, ***Yifan Zhu***, Luu Anh Tuan. ***ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models***. In Fingdings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24), 2024. [Paper](https://arxiv.org/pdf/2310.08975) [Code](https://github.com/LHRLAB/ChatKBQA) 
 
 - ```IEEE TCSS``` Gen Shi, Yuxiang Yao, ***Yifan Zhu***, Xinyue Lin, Lanxin Li, Wenjin Liu, Xuesong Li, ***Contrastive Hierarchical Augmentation Learning for Modeling Cognitive and Multimodal Brain Network***. IEEE Transactions on Computational Social Systems, 2024. [Paper](https://doi.org/10.1109/TCSS.2024.3402328) [Code](https://github.com/LeifYaoYuXiang/BrainNetworkCL) 
 
@@ -75,14 +78,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ``KDD 2023`` ***Yifan Zhu***, Fangpeng Cong, Dan Zhang, Wenwen Gong, Qika Lin, Wenzheng Feng, Yuxiao Dong, and Jie Tang.  ***WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window***. In 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23), 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599551) [Code](https://github.com/THUDM/WinGNN) 
 
-
 - ```IEEE TKDE``` ***Yifan Zhu***, Qika Lin, Hao Lu, Kaize Shi, Donglei Liu, James Chambua, Shanshan Wan, and Zhendong Niu, ***Recommending Learning Objects through Attentive Heterogeneous Graph Convolution and Operation-Aware Neural Network***. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(4):4178-4189. [Paper](https://ieeexplore.ieee.org/abstract/document/9606527) [Poster](https://ieeexplore.ieee.org/document/10598126)
 
 - ```IEEE TNNLS``` Gen Shi, ***Yifan Zhu***, Jian K. Liu, Xuesong Li. ***HeGCL: Advance Self-Supervised Learning in Heterogeneous Graph-level Representation***, IEEE Transactions on Neural Networks and Learning Systems. 2023. [Paper](https://ieeexplore.ieee.org/document/10135109)
 
-
 - ```WWW 2023``` Dan Zhang, ***Yifan Zhu***, Yuxiao Dong, Yuandong Wang, Wenzheng Feng, Evgeny Kharlamov, Jie Tang. ***ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation***. In Proceedings of the Web Conference 2023 (WWW'23), 759--769. [Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583530) [Code](https://github.com/THUDM/ApeGNN)
-
 
 - ``ECML-PKDD 2023`` Ming Zhou, Wenzheng Feng, ***Yifan Zhu***, Dan Zhang, Yuxiao Dong and Jie Tang. ***Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks***. In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML PKDD), 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_13) (Best student paper award)
 
@@ -142,9 +142,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```ISPA 2019``` Yinan Li, Fuquan Zhang, ***Y. Zhu***, S. Zhang, Y. Mao, Z. Niu, ***Chinese Lexical Based Sentiment Analysis Framework in Meteorology***, IEEE-ISPA 2019, 1652-1658. [Paper](https://ieeexplore.ieee.org/abstract/document/9047329)
 
-
 - ***Yifan Zhu***, James Chambua, Hao Lu, Kaize Shi, Zhendong Niu, ***An opinion based cross‐regional meteorological event detection model***. Weather, 2019, 74(2): 51-55. [Paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/wea.3295)
-
 
 - ```FGCS``` Kaize Shi, Changjin Gong, Hao Lu, ***Yifan Zhu***, Zhendong Niu. ***Wide-grained capsule network with sentence-level feature to detect meteorological event in social network***. Future Generation Computer Systems, 2020, 102:323-332. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19310908)
 
@@ -195,14 +193,23 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 ## Program Committee & Reviewer Service
 
 - ***Program committee member*** of WWW'24, MM'24, NeurIPS'24, AAAI'22-25, IJCAI'23-24, ECML-PKDD'22, ICWSM'24-25
-- ***Reviewer*** of IEEE TOIS, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, ACM ToMM, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
+- ***Reviewer*** of IEEE TOIS, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, ACM ToMM, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
 
 # Students
 <span class='anchor' id='-students'></span>
 
+## Messages for applying students
+- I am looking for ***self-motivated and team-worked*** students to work on the following topics: 
+  - **LoRA and Mixture of Experts**
+  - **Graph-based recommendation and data mining**
+  - **Graph-based social network analysis**
+  - **Graph-based brain activity analysis for medical use**
+- However, I received a lot of applications, and I am sorry that I cannot reply to all of them. Thus, I will set a priority queue to whom ***really cares aboout*** his/her application. To be specific, the applicant who place the nuber ```$709394``` ahead of the application email title will be given the priority of consideration.
+- （中文翻译）本团队长期欢迎对图神经网络、推荐系统、社交网络分析、脑科学等领域感兴趣的同学加入，希望同学们能以自驱和团队协作的精神，共同开展科研工作。遗憾的是，我们每次会收到大量的申请，无法一一回复。因此，为了照顾真正想来而非刷楼的申请，我们将优先考虑在申请邮件标题前面添加了字符```$709394```的同学（例如：$709394-研究生申请-张三-xxxx大学）。
+
 ### Class of 2024
 - ***Master students***: Qingzhi Yu, Huiqiang Rong, Guanting Chen
-- ***Undergraduate students***: Yihao Wang (visiting), Xinyu Mu (visiting)
+- ***Undergraduate students***: Yihao Wang (visiting student from BISTU), Xinyu Mu (visiting student from BISTU)
 
 ### Class before 2023
 - ***PhD students***: Yu Feng (Co-advised with Prof. Meina Song), Weibin Liao (Co-advised with Prof. Xuesong Li), Gen Shi (Co-advised with Prof. Xuesong Li)
