@@ -28,10 +28,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2024.11* : &nbsp; We have lunached a special issue on "Generative AI for Infornation Fusion" in [Information Fusion (IF:14.2)](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion), co-editored with [Dr. Qika Lin](https://qikalin.github.io/), [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and [Dr. Jie Ma](https://gr.xjtu.edu.cn/en/web/jiema).
 - *2024.10* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper Text2NKG been accepted by NeurIPS'24!
 - *2024.10* : &nbsp; We appreciate Zhipu AI and the Chinese Information Processing Society of China for their funding support to our research through the [SMP-Zhipu AI Large Model Interdisciplinary Fund](http://www.cips-smp.org:8090/archives/ping-shen-jie-guo-gong-shi).
 - *2024.09* : &nbsp; Congratulations to [Dan](https://zhangdan0602.github.io/)! The study of MCAP model has been accepted by ACM TOIS!
-- *2024.08* : &nbsp; I have been elected as an executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/).
+<!-- - *2024.08* : &nbsp; I have been elected as an executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/). -->
 <!-- - *2024.07* : &nbsp; Congratulations to Yu! our study CP-Prompt has been accepted by MM'24! -->
 <!-- - *2024.07* : &nbsp; Congratulations to Weibin for our outstanding work (RevGNN) been accepted by ACM TOIS! -->
 <!-- - *2024.05* : &nbsp; Congratulations to [Fanjin](https://zfjsail.github.io/) and [Haoran](https://lhrlab.github.io/) for our outstanding work (OAG-Bench and ChatKBQA) been accepted by KDD'24 and ACL'24! -->
@@ -59,7 +60,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2025
 
-- ``INFFUS`` Qika Lin, ***Yifan Zhu***, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey. Information Fusion, 116(2025):102795[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
+- ``INFFUS`` Qika Lin, ***Yifan Zhu***, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey. Information Fusion, 116(2025):102795. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
 
 ## 2024
 
@@ -185,6 +186,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 ## Editor Service
 
 - *2023.12 - present*, ***Editorial Board Member*** of [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board)
+- *2023.11 - 2025.06*. ***Guest Editor*** of [Information Fusion](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion)
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7)
 - *2022.03 - 2022.12*, ***Guest Editor*** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/si/149297/)
 - *2021.10 - 2022.02*, ***Guest Editor*** of [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/page/dsn/collections/special-issues/intelligent-sensing-fusion-and-processing-in-cyber-physical-social-systems)
@@ -196,7 +198,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## Program Committee & Reviewer Service
 
-- ***Program committee member*** of WWW'24, MM'24, NeurIPS'24, AAAI'22-25, IJCAI'23-24, ECML-PKDD'22, ICWSM'24-25
+- ***Program committee member*** of ICLR'25, CVPR'25, WWW'24-25, MM'24, NeurIPS'24, AAAI'22-25, IJCAI'23-24, ECML-PKDD'22, ICWSM'24-25, AISTATS'25
 - ***Reviewer*** of IEEE TOIS, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, ACM ToMM, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
 
 # Students
