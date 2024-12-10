@@ -28,10 +28,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2024.12* : &nbsp; Congratulations to [Wenwen](https://faculty.cau.edu.cn/gww/), Xiao and Shuai. Three papers have been accepted by AAAI 2025!
 - *2024.11* : &nbsp; We have lunached a special issue on "Generative AI for Infornation Fusion" in [Information Fusion (IF:14.2)](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion), co-editored with [Dr. Qika Lin](https://qikalin.github.io/), [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and [Dr. Jie Ma](https://gr.xjtu.edu.cn/en/web/jiema).
 - *2024.10* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper Text2NKG been accepted by NeurIPS'24!
 - *2024.10* : &nbsp; We appreciate Zhipu AI and the Chinese Information Processing Society of China for their funding support to our research through the [SMP-Zhipu AI Large Model Interdisciplinary Fund](http://www.cips-smp.org:8090/archives/ping-shen-jie-guo-gong-shi).
-- *2024.09* : &nbsp; Congratulations to [Dan](https://zhangdan0602.github.io/)! The study of MCAP model has been accepted by ACM TOIS!
+<!-- - *2024.09* : &nbsp; Congratulations to [Dan](https://zhangdan0602.github.io/)! The study of MCAP model has been accepted by ACM TOIS! -->
 <!-- - *2024.08* : &nbsp; I have been elected as an executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/). -->
 <!-- - *2024.07* : &nbsp; Congratulations to Yu! our study CP-Prompt has been accepted by MM'24! -->
 <!-- - *2024.07* : &nbsp; Congratulations to Weibin for our outstanding work (RevGNN) been accepted by ACM TOIS! -->
@@ -59,6 +60,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 ## 2025
+
+- ```AAAI 2025``` Zhonghong Ou, Xiao zhang, ***Yifan Zhu***, Shuai Lv, Jiahao Liu, Tu Ao. LS-TGNN: Long and Short-Term Temporal Graph Neural Network for Session-Based Recommendation. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#)
+
+- ```AAAI 2025``` Shuai Lv, Tian Zijing, Zhonghong Ou, ***Yifan Zhu***, Xiao zhang, HaQiankun, Haoran Luo, Meina Song. TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#)
+
+- ```AAAI 2025``` Wenwen Gong, Yangliao Geng, Dan Zhang, ***Yifan Zhu***, Xiaolong Xu, Haolong Xiang, Amin Beheshti, Xuyun Zhang, Lianyong Qi. DivGCL: A Graph Contrastive Learning Model for Diverse Recommendation. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#) [Code](https://github.com/submission-6077/DivGCL/tree/main)
 
 - ``INFFUS`` Qika Lin, ***Yifan Zhu***, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey. Information Fusion, 116(2025):102795. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
 
@@ -176,7 +183,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## Lectures
 
-- *2024.06*, 推荐系统基础
+- *2024.09-2025.01*, 大数据与数字经济前沿应用(研究生)
+- *2024.06*, 推荐系统基础(继续教育生)
 
 
 ## Invited Talks
