@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I currently work as an assistant professor with Beijing University of Posts and Telecommunications. Before that, I was a postdoc research fellow with Department of Computer Science and Technology, Tsinghua University from 2021 to 2023. I received the PhD degree at Beijing Institute of Technology in 2021, and received the bachelor degree at Beijing Information Science & Technology University, in 2016. 
+I am an assistant professor at Beijing University of Posts and Telecommunications. Before that, I was a postdoc research fellow with Department of Computer Science and Technology, Tsinghua University from 2021 to 2023. I received the PhD degree at Beijing Institute of Technology in 2021, and received the bachelor degree at Beijing Information Science & Technology University, in 2016. 
 
 My research interests include AIGC-powered datamining, graph representation learning, recommendation systems, etc.
 For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=pAfNfScAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -29,7 +29,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 - *2025.01* : &nbsp; Congratulations to Yu Feng! our study PM-MOE has been accepted by WWW'25!
-- *2024.12*: &nbsp; I have been awarded by the First Prize of China Association of Work Safety Safety Science and Technology Advancement Award [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
+- *2024.12*: &nbsp; I have been awarded by the First Prize of  Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
 - *2024.12* : &nbsp; Congratulations to [Wenwen](https://faculty.cau.edu.cn/gww/), Xiao and Shuai. Three papers have been accepted by AAAI 2025!
 - *2024.11* : &nbsp; We have lunached a special issue on "Generative AI for Infornation Fusion" in [Information Fusion (IF:14.2)](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion), co-editored with [Dr. Qika Lin](https://qikalin.github.io/), [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and [Dr. Jie Ma](https://gr.xjtu.edu.cn/en/web/jiema).
 <!-- - *2024.10* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper Text2NKG been accepted by NeurIPS'24! -->
@@ -63,7 +63,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2025
 
-- ```WWW 2025``` Yu Feng, Yangliao Geng, ***Yifan Zhu***, Zongfu Han, Xie Yu, Kaiwen Xue, Haoran Luo, Mengyang Sun, Guangwei Zhang, Meina Song, ***PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning***, In Proceedings of the Web Conference (WWW'25), 2025. [Paper(To be released)]() [Code(To be released)](#)
+- ```WWW 2025``` Yu Feng, Yangliao Geng, ***Yifan Zhu***, Zongfu Han, Xie Yu, Kaiwen Xue, Haoran Luo, Mengyang Sun, Guangwei Zhang, Meina Song, ***PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning***, In Proceedings of the Web Conference (WWW'25), 2025. [Paper](https://arxiv.org/abs/2502.00354) [Code](https://github.com/BUPT-CAD-Lab/PM-MOE)
 
 - ```ICLR 2025``` Ningyuan Li, Haihong E, Tianyu Yao, Tianyi Hu, Yuhan Li, Haoran Luo, Meina Song, ***Yifan Zhu***, ***INFER: A Neural-symbolic Model For Extrapolation Reasoning on Temporal Knowledge Graph***. In Proceedings of the International Conference on Learning Representations (ICLR'25), 2025. [Paper](https://openreview.net/pdf?id=ExHUtB2vnz)
 
@@ -174,7 +174,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
-- *2024.12* First Prize of China Association of Work Safety Safety Science and Technology Advancement Award [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
+- *2024.12* First Prize of Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
 - *2023.10* Runner-up best paper award (ADS Track), ECML-PKDD 2023.
 
 # 🔍 Educations & Work Experiences
@@ -215,8 +215,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 ## Program Committee & Reviewer Service
 
 - ***Area Chair*** of CCKS'25
-- ***Program committee member*** of ICLR'25, CVPR'25, WWW'24-25, MM'24, NeurIPS'24, ICML'25, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25
-- ***Reviewer*** of IEEE TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, ACM ToMM, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
+- ***Program committee member*** of KDD'25, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, MM'24, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25
+- ***Reviewer*** of IEEE TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, Information Sciences, ACM ToMM, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
 
 # Students
 <span class='anchor' id='-students'></span>
@@ -228,7 +228,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
   - **Graph-based social network analysis**
   - **Graph-based brain activity analysis for medical use**
 - However, I received a lot of applications, and I am sorry that I cannot reply to all of them. Thus, I will set a priority queue to whom ***really cares aboout*** his/her application. To be specific, the applicant who place the nuber ```$709394``` ahead of the application email title will be given the priority of consideration.
-- 我们欢迎需求对图神经网络、推荐系统、基础模型微调、脑科学等领域感兴趣，且有着自律与团队意识的同学加入。遗憾的是，我们每次会收到大量的申请，无法一一回复。因此，为了照顾真正想来而非刷楼的申请，我们将优先考虑在申请邮件标题前面添加了字符```$709394```的同学（例如：$709394-研究生申请-张三-克莱登大学）。
+- 我们欢迎对图神经网络、推荐系统、基础模型微调、脑科学等领域感兴趣，且有着自律与团队意识的同学加入。遗憾的是，我们每次会收到大量的申请，无法一一回复。因此，为了照顾真正想来而非刷楼的申请，我们将优先考虑在申请邮件标题前面添加了字符```$709394```的同学（例如：$709394-研究生申请-张三-克莱登大学）。
 
 ### Class of 2024
 - ***Master students***: Qingzhi Yu, Huiqiang Rong, Guanting Chen
