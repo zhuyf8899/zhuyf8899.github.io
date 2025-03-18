@@ -19,7 +19,7 @@ redirect_from:
 
 I am an assistant professor at Beijing University of Posts and Telecommunications. Before that, I was a postdoc research fellow with Department of Computer Science and Technology, Tsinghua University from 2021 to 2023. I received the PhD degree at Beijing Institute of Technology in 2021, and received the bachelor degree at Beijing Information Science & Technology University, in 2016. 
 
-My research interests include AIGC-powered datamining, graph representation learning, recommendation systems, etc.
+My research interests include AIGC-powered datamining, Safety on LLM, parameter-efficent finetune on LLM, graph representation learning, recommendation systems, etc.
 For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=pAfNfScAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <!-- https://img.shields.io/badge/Google%20Scholar-Yifan%20Zhu-blue?logo=Google%20Scholar -->
@@ -217,7 +217,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Area Chair*** of CCKS'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
 - ***Program Committee Member*** of KDD'25, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24-25, CVPR'25, ICCV'25, MM'24, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25
-- ***Reviewer*** of IEEE, TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, Information Sciences, ACM ToMM, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
+- ***Reviewer*** of IEEE, TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, ACM ToMM, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
 
 # Students
 <span class='anchor' id='-students'></span>
