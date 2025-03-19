@@ -28,9 +28,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+
+- *2025.01*: &nbsp; I have been nominated as an assistant editorial board member of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/en/Corp/5024.aspx).
 - *2025.01* : &nbsp; Congratulations to Yu Feng! our study PM-MOE has been accepted by WWW'25!
 - *2024.12*: &nbsp; I have been awarded by the First Prize of  Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
-- *2024.12* : &nbsp; Congratulations to [Wenwen](https://faculty.cau.edu.cn/gww/), Xiao and Shuai. Three papers have been accepted by AAAI 2025!
+<!-- - *2024.12* : &nbsp; Congratulations to [Wenwen](https://faculty.cau.edu.cn/gww/), Xiao and Shuai. Three papers have been accepted by AAAI 2025! -->
 - *2024.11* : &nbsp; We have lunached a special issue on "Generative AI for Infornation Fusion" in [Information Fusion (IF:14.2)](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion), co-editored with [Dr. Qika Lin](https://qikalin.github.io/), [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and [Dr. Jie Ma](https://gr.xjtu.edu.cn/en/web/jiema).
 <!-- - *2024.10* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper Text2NKG been accepted by NeurIPS'24! -->
 <!-- - *2024.10* : &nbsp; We appreciate Zhipu AI and the Chinese Information Processing Society of China for their funding support to our research through the [SMP-Zhipu AI Large Model Interdisciplinary Fund](http://www.cips-smp.org:8090/archives/ping-shen-jie-guo-gong-shi). -->
@@ -217,7 +219,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Area Chair*** of CCKS'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
 - ***Program Committee Member*** of KDD'25, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24-25, CVPR'25, ICCV'25, MM'24, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25
-- ***Reviewer*** of IEEE, TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, ACM ToMM, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
+- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, ACM ToMM, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
 
 # Students
 <span class='anchor' id='-students'></span>
