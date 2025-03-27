@@ -29,11 +29,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2025.03*: &nbsp; I have been nominated as an associate editor of the [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing).
 - *2025.01*: &nbsp; I have been nominated as an assistant editorial board member of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/en/Corp/5024.aspx).
 - *2025.01* : &nbsp; Congratulations to Yu Feng! our study PM-MOE has been accepted by WWW'25!
 - *2024.12*: &nbsp; I have been awarded by the First Prize of  Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
 <!-- - *2024.12* : &nbsp; Congratulations to [Wenwen](https://faculty.cau.edu.cn/gww/), Xiao and Shuai. Three papers have been accepted by AAAI 2025! -->
-- *2024.11* : &nbsp; We have lunached a special issue on "Generative AI for Infornation Fusion" in [Information Fusion (IF:14.2)](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion), co-editored with [Dr. Qika Lin](https://qikalin.github.io/), [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and [Dr. Jie Ma](https://gr.xjtu.edu.cn/en/web/jiema).
+<!-- - *2024.11* : &nbsp; We have lunached a special issue on "Generative AI for Infornation Fusion" in [Information Fusion (IF:14.2)](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion), co-editored with [Dr. Qika Lin](https://qikalin.github.io/), [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and [Dr. Jie Ma](https://gr.xjtu.edu.cn/en/web/jiema). -->
 <!-- - *2024.10* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper Text2NKG been accepted by NeurIPS'24! -->
 <!-- - *2024.10* : &nbsp; We appreciate Zhipu AI and the Chinese Information Processing Society of China for their funding support to our research through the [SMP-Zhipu AI Large Model Interdisciplinary Fund](http://www.cips-smp.org:8090/archives/ping-shen-jie-guo-gong-shi). -->
 <!-- - *2024.09* : &nbsp; Congratulations to [Dan](https://zhangdan0602.github.io/)! The study of MCAP model has been accepted by ACM TOIS! -->
@@ -71,7 +72,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```AAAI 2025``` Zhonghong Ou, Xiao zhang, ***Yifan Zhu***, Shuai Lv, Jiahao Liu, Tu Ao. ***LS-TGNN: Long and Short-Term Temporal Graph Neural Network for Session-Based Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#)
 
-- ```AAAI 2025``` Shuai Lv, Tian Zijing, Zhonghong Ou, ***Yifan Zhu***, Xiao zhang, HaQiankun, Haoran Luo, Meina Song. ***TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#)
+- ```AAAI 2025``` Shuai Lyu, Tian Zijing, Zhonghong Ou, ***Yifan Zhu***, Xiao zhang, HaQiankun, Haoran Luo, Meina Song. ***TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#)
 
 - ```AAAI 2025``` Wenwen Gong, Yangliao Geng, Dan Zhang, ***Yifan Zhu***, Xiaolong Xu, Haolong Xiang, Amin Beheshti, Xuyun Zhang, Lianyong Qi. ***DivGCL: A Graph Contrastive Learning Model for Diverse Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#) [Code](https://github.com/submission-6077/DivGCL/tree/main)
 
@@ -79,7 +80,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2024
 
-- ``NeurIPS 2024`` Haoran Luo, Haihong E, Yuhao Yang, Tianyu Yao, Yikai Guo, Zichen Tang, Wentai Zhang, Shiyao Peng, Kaiyang Wan, Meina Song, Wei Lin. ***Yifan Zhu***, Anh Tuan Luu. ***Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction***. In Advances in Neural Information Processing Systems (NeurIPS'24), 2024. [Paper](https://arxiv.org/pdf/2310.05185) [Code](https://github.com/LHRLAB/Text2NKG)
+- ``NeurIPS 2024`` Haoran Luo, Haihong E, Yuhao Yang, Tianyu Yao, Yikai Guo, Zichen Tang, Wentai Zhang, Shiyao Peng, Kaiyang Wan, Meina Song, Wei Lin, ***Yifan Zhu***, Anh Tuan Luu. ***Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction***. In Advances in Neural Information Processing Systems (NeurIPS'24), 2024. [Paper](https://arxiv.org/pdf/2310.05185) [Code](https://github.com/LHRLAB/Text2NKG)
 
 - ``ACM TOIS`` Dan Zhang, Shaojie Zhen, ***Yifan Zhu***, Huihui Yuan, Jibing Gong, Jie Tang.  ***MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations***. ACM Transactions on Information Systems, 2024. [Paper](https://dl.acm.org/doi/10.1145/3698193) [Data](https://github.com/THUDM/MCAP) 
 
@@ -192,19 +193,21 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 <span class='anchor' id='-social'></span>
 
 ## Lectures
-
+- *2025.02-2025.07*, 大数据技术与应用(本科生)
 - *2024.09-2025.01*, 大数据与数字经济前沿应用(研究生)
 - *2024.06*, 推荐系统基础(继续教育生)
 
 
-## Invited Talks
+<!-- ## Invited Talks
 
-- *2023.10*, 基础模型时代下隐私保护与可信数据要素流通, 第一届中国（成都）数智金融高峰论坛 [Slides](files/大模型时代下隐私保护与可信数据要素流通_数智论坛.pdf)
+- *2023.10*, 基础模型时代下隐私保护与可信数据要素流通, 第一届中国（成都）数智金融高峰论坛 [Slides](files/大模型时代下隐私保护与可信数据要素流通_数智论坛.pdf) -->
 
 ## Editor Service
 
+- *2025.03 - present*, ***Associate Editor*** of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing)
 - *2023.12 - present*, ***Editorial Board Member*** of [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board)
 - *2023.11 - 2025.06*. ***Guest Editor*** of [Information Fusion](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion)
+- *2025.01 - 2025.10*, ***Guest Editor*** of [Applied Sciences](https://www.mdpi.com/journal/applsci/special_issues/2A91X6650R)
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7)
 - *2022.03 - 2022.12*, ***Guest Editor*** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/si/149297/)
 - *2021.10 - 2022.02*, ***Guest Editor*** of [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/page/dsn/collections/special-issues/intelligent-sensing-fusion-and-processing-in-cyber-physical-social-systems)
