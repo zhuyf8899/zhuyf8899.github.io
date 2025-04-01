@@ -29,10 +29,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2025.04*: &nbsp; Congratulations to [Qika](https://qikalin.github.io/)!, our co-worked study "Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA" has been accepted by IEEE TIP!
 - *2025.03*: &nbsp; I have been nominated as an associate editor of the [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing).
-- *2025.01*: &nbsp; I have been nominated as an assistant editorial board member of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/en/Corp/5024.aspx).
+- *2025.01*: &nbsp; I have been nominated as an assistant editorial board member of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx).
 - *2025.01* : &nbsp; Congratulations to Yu Feng! our study PM-MOE has been accepted by WWW'25!
-- *2024.12*: &nbsp; I have been awarded by the First Prize of  Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
+<!-- - *2024.12*: &nbsp; I have been awarded by the First Prize of  Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf). -->
 <!-- - *2024.12* : &nbsp; Congratulations to [Wenwen](https://faculty.cau.edu.cn/gww/), Xiao and Shuai. Three papers have been accepted by AAAI 2025! -->
 <!-- - *2024.11* : &nbsp; We have lunached a special issue on "Generative AI for Infornation Fusion" in [Information Fusion (IF:14.2)](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion), co-editored with [Dr. Qika Lin](https://qikalin.github.io/), [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and [Dr. Jie Ma](https://gr.xjtu.edu.cn/en/web/jiema). -->
 <!-- - *2024.10* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper Text2NKG been accepted by NeurIPS'24! -->
@@ -66,11 +67,13 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2025
 
-- ```WWW 2025``` Yu Feng, Yangliao Geng, ***Yifan Zhu***, Zongfu Han, Xie Yu, Kaiwen Xue, Haoran Luo, Mengyang Sun, Guangwei Zhang, Meina Song. ***PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning***, In Proceedings of the Web Conference (WWW'25), 2025. [Paper](https://arxiv.org/abs/2502.00354) [Code](https://github.com/BUPT-CAD-Lab/PM-MOE)
+- ```IEEE TIP``` Qika Lin, Kai He, Yifan Zhu, Fangzhi Xu, Erik Cambria, Mengling Feng. ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. IEEE Transactions on Image Processing, 2025. [Paper (To be released)](#)  [Code (To be released)](#)
+
+- ```WWW 2025``` Yu Feng, Yangliao Geng, ***Yifan Zhu***, Zongfu Han, Xie Yu, Kaiwen Xue, Haoran Luo, Mengyang Sun, Guangwei Zhang, Meina Song. ***PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning***. In Proceedings of the Web Conference (WWW'25), 2025. [Paper](https://arxiv.org/abs/2502.00354) [Code](https://github.com/BUPT-CAD-Lab/PM-MOE)
 
 - ```ICLR 2025``` Ningyuan Li, Haihong E, Tianyu Yao, Tianyi Hu, Yuhan Li, Haoran Luo, Meina Song. ***Yifan Zhu***, ***INFER: A Neural-symbolic Model For Extrapolation Reasoning on Temporal Knowledge Graph***. In Proceedings of the International Conference on Learning Representations (ICLR'25), 2025. [Paper](https://openreview.net/pdf?id=ExHUtB2vnz)
 
-- ```AAAI 2025``` Zhonghong Ou, Xiao zhang, ***Yifan Zhu***, Shuai Lv, Jiahao Liu, Tu Ao. ***LS-TGNN: Long and Short-Term Temporal Graph Neural Network for Session-Based Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#)
+- ```AAAI 2025``` Zhonghong Ou, Xiao Zhang, ***Yifan Zhu***, Shuai Lv, Jiahao Liu, Tu Ao. ***LS-TGNN: Long and Short-Term Temporal Graph Neural Network for Session-Based Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#)
 
 - ```AAAI 2025``` Shuai Lyu, Tian Zijing, Zhonghong Ou, ***Yifan Zhu***, Xiao zhang, HaQiankun, Haoran Luo, Meina Song. ***TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#)
 
@@ -206,8 +209,9 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - *2025.03 - present*, ***Associate Editor*** of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing)
 - *2023.12 - present*, ***Editorial Board Member*** of [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board)
+- *2025.01 - present*, ***Assistant Editorial Board Member** of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx)
 - *2023.11 - 2025.06*. ***Guest Editor*** of [Information Fusion](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion)
-- *2025.01 - 2025.10*, ***Guest Editor*** of [Applied Sciences](https://www.mdpi.com/journal/applsci/special_issues/2A91X6650R)
+- *2025.01 - 2025.12*, ***Guest Editor*** of [Applied Sciences](https://www.mdpi.com/journal/applsci/special_issues/2A91X6650R)
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7)
 - *2022.03 - 2022.12*, ***Guest Editor*** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/si/149297/)
 - *2021.10 - 2022.02*, ***Guest Editor*** of [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/page/dsn/collections/special-issues/intelligent-sensing-fusion-and-processing-in-cyber-physical-social-systems)
@@ -220,6 +224,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 ## Program Committee & Reviewer Service
 
 - ***Area Chair*** of CCKS'25
+- ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
 - ***Program Committee Member*** of KDD'25, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24-25, CVPR'25, ICCV'25, MM'24, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25
 - ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, ACM ToMM, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
