@@ -67,19 +67,21 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2025
 
-- ```IEEE TIP``` Qika Lin, Kai He, Yifan Zhu, Fangzhi Xu, Erik Cambria, Mengling Feng. ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. IEEE Transactions on Image Processing, 2025. [Paper (To be released)](#)  [Code (To be released)](#)
+- ```IEEE TIP``` Qika Lin, Kai He, ***Yifan Zhu***, Fangzhi Xu, Erik Cambria, Mengling Feng. ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. IEEE Transactions on Image Processing, 2025. [Paper (To be released)](#)  [Code (To be released)](#)
 
 - ```WWW 2025``` Yu Feng, Yangliao Geng, ***Yifan Zhu***, Zongfu Han, Xie Yu, Kaiwen Xue, Haoran Luo, Mengyang Sun, Guangwei Zhang, Meina Song. ***PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning***. In Proceedings of the Web Conference (WWW'25), 2025. [Paper](https://arxiv.org/abs/2502.00354) [Code](https://github.com/BUPT-CAD-Lab/PM-MOE)
 
 - ```ICLR 2025``` Ningyuan Li, Haihong E, Tianyu Yao, Tianyi Hu, Yuhan Li, Haoran Luo, Meina Song. ***Yifan Zhu***, ***INFER: A Neural-symbolic Model For Extrapolation Reasoning on Temporal Knowledge Graph***. In Proceedings of the International Conference on Learning Representations (ICLR'25), 2025. [Paper](https://openreview.net/pdf?id=ExHUtB2vnz)
 
-- ```AAAI 2025``` Zhonghong Ou, Xiao Zhang, ***Yifan Zhu***, Shuai Lv, Jiahao Liu, Tu Ao. ***LS-TGNN: Long and Short-Term Temporal Graph Neural Network for Session-Based Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#)
+- ```AAAI 2025``` Zhonghong Ou, Xiao Zhang, ***Yifan Zhu***, Shuai Lv, Jiahao Liu, Tu Ao. ***LS-TGNN: Long and Short-Term Temporal Graph Neural Network for Session-Based Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33354)
 
-- ```AAAI 2025``` Shuai Lyu, Tian Zijing, Zhonghong Ou, ***Yifan Zhu***, Xiao zhang, HaQiankun, Haoran Luo, Meina Song. ***TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#)
+- ```AAAI 2025``` Shuai Lyu, Tian Zijing, Zhonghong Ou, ***Yifan Zhu***, Xiao zhang, HaQiankun, Haoran Luo, Meina Song. ***TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34121)
 
-- ```AAAI 2025``` Wenwen Gong, Yangliao Geng, Dan Zhang, ***Yifan Zhu***, Xiaolong Xu, Haolong Xiang, Amin Beheshti, Xuyun Zhang, Lianyong Qi. ***DivGCL: A Graph Contrastive Learning Model for Diverse Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper (to be released)](#) [Code](https://github.com/submission-6077/DivGCL/tree/main)
+- ```AAAI 2025``` Wenwen Gong, Yangliao Geng, Dan Zhang, ***Yifan Zhu***, Xiaolong Xu, Haolong Xiang, Amin Beheshti, Xuyun Zhang, Lianyong Qi. ***DivGCL: A Graph Contrastive Learning Model for Diverse Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33852) [Code](https://github.com/submission-6077/DivGCL/tree/main)
 
-- ``INFFUS`` Qika Lin, ***Yifan Zhu***, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. ***Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey***. Information Fusion, 116(2025):102795. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
+- ```IP&M``` Zijing Tian, Zhonghong Ou, ***Yifan Zhu***, Shuai Lyu, Hanyu Zhang, Jinghua Xiao, Meina Song. ***Multi-SEA: Multi-stage Semantic Enhancement and Aggregation for image–text retrieval***. Information Processing and Management, 2025, 62(5):104165. [Paper](https://authors.elsevier.com/c/1kx2j15hYd-jbc) 
+
+- ``INFFUS`` Qika Lin, ***Yifan Zhu***, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. ***Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey***. Information Fusion, 2025, 116: 102795. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
 
 ## 2024
 
@@ -104,7 +106,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```IEEE TKDE``` ***Yifan Zhu***, Qika Lin, Hao Lu, Kaize Shi, Donglei Liu, James Chambua, Shanshan Wan, and Zhendong Niu. ***Recommending Learning Objects through Attentive Heterogeneous Graph Convolution and Operation-Aware Neural Network***. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(4):4178-4189. [Paper](https://ieeexplore.ieee.org/abstract/document/9606527) [Poster](https://ieeexplore.ieee.org/document/10598126)
 
-- ```IEEE TNNLS``` Gen Shi, ***Yifan Zhu***, Jian K. Liu, Xuesong Li. ***HeGCL: Advance Self-Supervised Learning in Heterogeneous Graph-level Representation***, IEEE Transactions on Neural Networks and Learning Systems. 2023. [Paper](https://ieeexplore.ieee.org/document/10135109)
+- ```IEEE TNNLS``` Gen Shi, ***Yifan Zhu***, Jian K. Liu, Xuesong Li. ***HeGCL: Advance Self-Supervised Learning in Heterogeneous Graph-level Representation***, IEEE Transactions on Neural Networks and Learning Systems, 2023, 35(10): 13914-13925. [Paper](https://ieeexplore.ieee.org/document/10135109)
 
 - ```WWW 2023``` Dan Zhang, ***Yifan Zhu***, Yuxiao Dong, Yuandong Wang, Wenzheng Feng, Evgeny Kharlamov, Jie Tang. ***ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation***. In Proceedings of the Web Conference 2023 (WWW'23), 759--769. [Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583530) [Code](https://github.com/THUDM/ApeGNN)
 
@@ -125,11 +127,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```CIKM 2022``` Zepeng Huai, Zhe Wang, ***Yifan Zhu***, Peng Zhang. ***AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query***. In 31st ACM International Conference on Information & Knowledge Management (CIKM'22), 4039-4043. [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557544)
 
-- ```IEEE TCSS``` Tan Wang, ***Yifan Zhu***, Peijun Ye, Weichao Gong, Hao Lu, Hong Mo, Fei-Yue Wang. ***A New Perspective for Computational Systems: Fuzzy Modeling and Reasoning for Social Computing in CPSS***. IEEE Transactions on Computational Social Systems, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9894383)
+- ```IEEE TCSS``` Tan Wang, ***Yifan Zhu***, Peijun Ye, Weichao Gong, Hao Lu, Hong Mo, Fei-Yue Wang. ***A New Perspective for Computational Systems: Fuzzy Modeling and Reasoning for Social Computing in CPSS***. IEEE Transactions on Computational Social Systems, 2022, 11(1): 101-116. [Paper](https://ieeexplore.ieee.org/abstract/document/9894383)
 
-- ```IEEE TCSS``` Kaize Shi, Hao Lu, ***Yifan Zhu***, Zhendong Niu. ***Application of Social Sensors in Natural Disasters Emergency Management: A Review***. IEEE Transactions on Computational Social Systems, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9923419)
+- ```IEEE TCSS``` Kaize Shi, Hao Lu, ***Yifan Zhu***, Zhendong Niu. ***Application of Social Sensors in Natural Disasters Emergency Management: A Review***. IEEE Transactions on Computational Social Systems, 2022, 10(6): 3143-3158. [Paper](https://ieeexplore.ieee.org/abstract/document/9923419)
 
-- ```IEEE TCSS``` Donglei Liu, Yong Yuan, Rui Qin, ***Yifan Zhu***, Chunxia Zhang, Zhendong Niu. ***A Local Self-Attention Sentence Model for Answer Selection Task in CQA Systems***. IEEE Transactions on Computational Social Systems, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9861392)
+- ```IEEE TCSS``` Donglei Liu, Yong Yuan, Rui Qin, ***Yifan Zhu***, Chunxia Zhang, Zhendong Niu. ***A Local Self-Attention Sentence Model for Answer Selection Task in CQA Systems***. IEEE Transactions on Computational Social Systems, 2022, 10(6): 3283-3294. [Paper](https://ieeexplore.ieee.org/abstract/document/9861392)
 
 
 
@@ -223,10 +225,10 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## Program Committee & Reviewer Service
 
-- ***Area Chair*** of CCKS'25
+- ***Area Chair*** of NeurIPS'25, CCKS'25
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
-- ***Program Committee Member*** of KDD'25, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24-25, CVPR'25, ICCV'25, MM'24, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25
+- ***Program Committee Member*** of KDD'25, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25
 - ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, ACM ToMM, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
 
 # Students
