@@ -29,10 +29,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2025.01* : &nbsp; Congratulations to Jiangfeng! our study Stella to understand emotion revealed by EEG network has been accepted by IJCAI'25!
 - *2025.04*: &nbsp; Congratulations to [Qika](https://qikalin.github.io/)!, our co-worked study "Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA" has been accepted by IEEE TIP!
 - *2025.03*: &nbsp; I have been nominated as an associate editor of the [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing).
 - *2025.01*: &nbsp; I have been nominated as an assistant editorial board member of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx).
-- *2025.01* : &nbsp; Congratulations to Yu Feng! our study PM-MOE has been accepted by WWW'25!
+<!-- - *2025.01* : &nbsp; Congratulations to Yu Feng! our study PM-MOE has been accepted by WWW'25! -->
 <!-- - *2024.12*: &nbsp; I have been awarded by the First Prize of  Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf). -->
 <!-- - *2024.12* : &nbsp; Congratulations to [Wenwen](https://faculty.cau.edu.cn/gww/), Xiao and Shuai. Three papers have been accepted by AAAI 2025! -->
 <!-- - *2024.11* : &nbsp; We have lunached a special issue on "Generative AI for Infornation Fusion" in [Information Fusion (IF:14.2)](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion), co-editored with [Dr. Qika Lin](https://qikalin.github.io/), [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and [Dr. Jie Ma](https://gr.xjtu.edu.cn/en/web/jiema). -->
@@ -67,6 +68,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2025
 
+- ```IJCAI 2025``` Jiangfeng Sun, Kaiwen Xue, Qika Lin, Yufei Qiao, ***Yifan Zhu***, Zhonghong Ou, Meina Song. ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'25), 2025. [Paper (To be released)](#)  [Code (To be released)](#)
+
 - ```IEEE TIP``` Qika Lin, Kai He, ***Yifan Zhu***, Fangzhi Xu, Erik Cambria, Mengling Feng. ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. IEEE Transactions on Image Processing, 2025. [Paper (To be released)](#)  [Code (To be released)](#)
 
 - ```WWW 2025``` Yu Feng, Yangliao Geng, ***Yifan Zhu***, Zongfu Han, Xie Yu, Kaiwen Xue, Haoran Luo, Mengyang Sun, Guangwei Zhang, Meina Song. ***PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning***. In Proceedings of the Web Conference (WWW'25), 2025. [Paper](https://arxiv.org/abs/2502.00354) [Code](https://github.com/BUPT-CAD-Lab/PM-MOE)
@@ -75,9 +78,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```AAAI 2025``` Zhonghong Ou, Xiao Zhang, ***Yifan Zhu***, Shuai Lv, Jiahao Liu, Tu Ao. ***LS-TGNN: Long and Short-Term Temporal Graph Neural Network for Session-Based Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33354)
 
-- ```AAAI 2025``` Shuai Lyu, Tian Zijing, Zhonghong Ou, ***Yifan Zhu***, Xiao zhang, HaQiankun, Haoran Luo, Meina Song. ***TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34121)
+- ```AAAI 2025``` Shuai Lyu, Zijing Tian, Zhonghong Ou, ***Yifan Zhu***, Xiao Zhang, HaQiankun, Haoran Luo, Meina Song. ***TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34121)
 
-- ```AAAI 2025``` Wenwen Gong, Yangliao Geng, Dan Zhang, ***Yifan Zhu***, Xiaolong Xu, Haolong Xiang, Amin Beheshti, Xuyun Zhang, Lianyong Qi. ***DivGCL: A Graph Contrastive Learning Model for Diverse Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33852) [Code](https://github.com/submission-6077/DivGCL/tree/main)
+- ```AAAI 2025``` Wenwen Gong, Yangliao Geng, Dan Zhang, ***Yifan Zhu***, Xiaolong Xu, Haolong Xiang, Amin Beheshti, Xuyun Zhang, Lianyong Qi. ***DivGCL: A Graph Contrastive Learning Model for Diverse Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025, 6(2025): 82-92. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33852) [Code](https://github.com/submission-6077/DivGCL/tree/main)
+
+- ```AI Open``` Zongfu Han, Yu Feng, ***Yifan Zhu***, Zhen Tian, Fangyu Hao, Meina Song. ***FedGPA: Federated Learning with Global Personalized Aggregation***. AI Open, 2025. [Paper](https://www.sciencedirect.com/science/article/pii/S2666651025000063/pdfft?md5=4c47cbd49280b9b7ebb4f813ed5de38f&pid=1-s2.0-S2666651025000063-main.pdf) 
 
 - ```IP&M``` Zijing Tian, Zhonghong Ou, ***Yifan Zhu***, Shuai Lyu, Hanyu Zhang, Jinghua Xiao, Meina Song. ***Multi-SEA: Multi-stage Semantic Enhancement and Aggregation for image–text retrieval***. Information Processing and Management, 2025, 62(5):104165. [Paper](https://authors.elsevier.com/c/1kx2j15hYd-jbc) 
 
@@ -211,7 +216,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - *2025.03 - present*, ***Associate Editor*** of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing)
 - *2023.12 - present*, ***Editorial Board Member*** of [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board)
-- *2025.01 - present*, ***Assistant Editorial Board Member** of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx)
+- *2025.01 - present*, ***Assistant Editorial Board Member*** of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx)
 - *2023.11 - 2025.06*. ***Guest Editor*** of [Information Fusion](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion)
 - *2025.01 - 2025.12*, ***Guest Editor*** of [Applied Sciences](https://www.mdpi.com/journal/applsci/special_issues/2A91X6650R)
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7)
@@ -228,8 +233,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Area Chair*** of NeurIPS'25, CCKS'25
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
-- ***Program Committee Member*** of KDD'25, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25
-- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, ACM ToMM, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
+- ***Program Committee Member*** of KDD'25, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25
+- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, IEEE TAFFC, ACM ToMM, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
 
 # Students
 <span class='anchor' id='-students'></span>
