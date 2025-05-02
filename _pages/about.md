@@ -29,10 +29,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
-- *2025.01* : &nbsp; Congratulations to Jiangfeng! our study Stella to understand emotion revealed by EEG network has been accepted by IJCAI'25!
+- *2025.05* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/) and Mengyang! Two papers have been accepted by ICML'25!
+- *2025.05* : &nbsp; Congratulations to Jiangfeng! our study Stella to understand emotion revealed by EEG network has been accepted by IJCAI'25!
 - *2025.04*: &nbsp; Congratulations to [Qika](https://qikalin.github.io/)!, our co-worked study "Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA" has been accepted by IEEE TIP!
 - *2025.03*: &nbsp; I have been nominated as an associate editor of the [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing).
-- *2025.01*: &nbsp; I have been nominated as an assistant editorial board member of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx).
+<!-- - *2025.01*: &nbsp; I have been nominated as an assistant editorial board member of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx). -->
 <!-- - *2025.01* : &nbsp; Congratulations to Yu Feng! our study PM-MOE has been accepted by WWW'25! -->
 <!-- - *2024.12*: &nbsp; I have been awarded by the First Prize of  Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf). -->
 <!-- - *2024.12* : &nbsp; Congratulations to [Wenwen](https://faculty.cau.edu.cn/gww/), Xiao and Shuai. Three papers have been accepted by AAAI 2025! -->
@@ -67,6 +68,10 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 ## 2025
+
+- ```ICML 2025``` Haoran Luo, Haihong E, Yikai Guo, Qika Lin, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, ***Yifan Zhu***, Luu Anh Tuan. ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2501.18922) [Code](https://github.com/BUPT-CAD-Lab/KBQA-o1)
+
+- ```ICML 2025``` Mengyang Sun, Yihao Wang, Tao Feng, Dan Zhang, ***Yifan Zhu***, Jie Tang. ***A Stronger Mixture of Low-rank Experts for Fine-Tuning Foundation Models***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2502.15828) [Code](https://github.com/THUDM/MoELoRA_Riemannian)
 
 - ```IJCAI 2025``` Jiangfeng Sun, Kaiwen Xue, Qika Lin, Yufei Qiao, ***Yifan Zhu***, Zhonghong Ou, Meina Song. ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'25), 2025. [Paper (To be released)](#)  [Code (To be released)](#)
 
