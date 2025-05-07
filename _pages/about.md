@@ -75,7 +75,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```IJCAI 2025``` Jiangfeng Sun, Kaiwen Xue, Qika Lin, Yufei Qiao, ***Yifan Zhu***, Zhonghong Ou, Meina Song. ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'25), 2025. [Paper (To be released)](#)  [Code (To be released)](#)
 
-- ```IEEE TIP``` Qika Lin, Kai He, ***Yifan Zhu***, Fangzhi Xu, Erik Cambria, Mengling Feng. ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. IEEE Transactions on Image Processing, 2025. [Paper (To be released)](#)  [Code (To be released)](#)
+- ```IEEE TIP``` Qika Lin, Kai He, ***Yifan Zhu***, Fangzhi Xu, Erik Cambria, Mengling Feng. ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. IEEE Transactions on Image Processing, 2025. [Paper](https://ieeexplore.ieee.org/document/10964089)
 
 - ```WWW 2025``` Yu Feng, Yangliao Geng, ***Yifan Zhu***, Zongfu Han, Xie Yu, Kaiwen Xue, Haoran Luo, Mengyang Sun, Guangwei Zhang, Meina Song. ***PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning***. In Proceedings of the Web Conference (WWW'25), 2025. [Paper](https://arxiv.org/abs/2502.00354) [Code](https://github.com/BUPT-CAD-Lab/PM-MOE)
 
