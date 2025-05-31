@@ -70,7 +70,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2025
 
-- ```IEEE TKDE``` Gen Shi, ***Yifan Zhu***, Wenjing Liu, Quanmin Yao, Xuesong Li. ***Heterogeneous Graph-Based Multimodal Brain Network Learning***. IEEE Transactions on Knowledge and Data Engineering, 2025. [Paper (To be released)](#)
+- ```IEEE TKDE``` Gen Shi, ***Yifan Zhu***, Wenjing Liu, Quanmin Yao, Xuesong Li. ***Heterogeneous Graph-Based Multimodal Brain Network Learning***. IEEE Transactions on Knowledge and Data Engineering, 2025. [Paper](https://ieeexplore.ieee.org/document/11003156) [Code](https://github.com/shigen97/HeBrainGNN)
 
 - ```ICML 2025``` Haoran Luo, Haihong E, Yikai Guo, Qika Lin, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, ***Yifan Zhu***, Luu Anh Tuan. ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2501.18922) [Code](https://github.com/BUPT-CAD-Lab/KBQA-o1)
 
@@ -196,7 +196,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 <span class='anchor' id='-honors-and-awards'></span>
 
 - *2024.12* First Prize of Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
-- *2023.10* Runner-up best paper award (ADS Track), ECML-PKDD 2023.
+- *2023.10* Best Student Paper Award, ECML-PKDD 2023.
 
 # 🔍 Educations & Work Experiences
 
@@ -239,12 +239,13 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 ## Program Committee & Reviewer Service
 
 - ***Area Chair*** of NeurIPS'25, CCKS'25
+- ***Local Chair*** of CAIBDA'25
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
 - ***Program Committee Member*** of KDD'25, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25
-- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, IEEE TAFFC, ACM ToMM, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science.
+- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics.
 
-# Students
+# Students (with post-graduation position)
 <span class='anchor' id='-students'></span>
 
 ## Messages for applying students
@@ -256,10 +257,15 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - However, I received a lot of applications, and I am sorry that I cannot reply to all of them. Thus, I will set a priority queue to whom ***really cares aboout*** his/her application. To be specific, the applicant who place the number ```$709394``` ahead of the application email title will be given the priority of consideration.
 - 我们欢迎对图神经网络、推荐系统、基础模型微调、脑科学等领域感兴趣，且有着自律与团队意识的同学加入。遗憾的是，我们每次会收到大量的申请，无法一一回复。因此，为了照顾真正想来而非刷楼的申请，我们将优先考虑在申请邮件标题前面添加了字符```$709394```的同学（例如：$709394-研究生申请-张三-克莱登大学）。
 
+
+### Class of 2025
+- ***Master students***: Can Lin, Xu Zeng
+- ***Undergraduate students***: Xingmin Hu (visiting student from CUFE)
+
 ### Class of 2024
 - ***Master students***: Qingzhi Yu, Huiqiang Rong, Guanting Chen
 - ***Undergraduate students***: Yihao Wang (visiting student from BISTU), Xinyu Mu (visiting student from BISTU)
 
 ### Class before 2023
-- ***PhD students***: Yu Feng (Co-advised with Prof. Meina Song)
-- ***Master students***: Gen Shi (Co-advised with Prof. Xuesong Li), Weibin Liao (Co-advised with Prof. Xuesong Li)
+- ***PhD students***: Yu Feng (Co-advised with Prof. Meina Song), Jiangfeng Sun (Co-advised with Prof. Meina Song)
+- ***Master students***: Gen Shi (Co-advised with Prof. Xuesong Li)-PhD@BUAA, Weibin Liao (Co-advised with Prof. Xuesong Li)-PhD@PKU
