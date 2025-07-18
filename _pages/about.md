@@ -29,6 +29,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2025.07* : &nbsp; We have lunached a special issue on "Generative Computational Social Intelligence: Modeling, Simulation, and Applications" in [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2025/06/GENERA1.pdf) which leaded by [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and co-editored with [Prof. Xiaohui Tao](https://tao-xiaohui.com/), [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu), and [Prof. Qi Zhang](https://iip.tongji.edu.cn/info/1044/2610.htm).
 - *2025.05* : &nbsp; Congratulations to Shigen! Our study "Heterogeneous Graph-Based Multimodal Brain Network Learning" has been accepted by IEEE TKDE!
 - *2025.05* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/) and Mengyang! Two papers have been accepted by ICML'25!
 - *2025.05* : &nbsp; Congratulations to Jiangfeng! our study Stella to understand emotion revealed by EEG network has been accepted by IJCAI'25!
@@ -76,7 +77,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```ICML 2025``` Mengyang Sun, Yihao Wang, Tao Feng, Dan Zhang, ***Yifan Zhu***, Jie Tang. ***A Stronger Mixture of Low-rank Experts for Fine-Tuning Foundation Models***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2502.15828) [Code](https://github.com/THUDM/MoELoRA_Riemannian)
 
-- ```IJCAI 2025``` Jiangfeng Sun, Kaiwen Xue, Qika Lin, Yufei Qiao, ***Yifan Zhu***, Zhonghong Ou, Meina Song. ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'25), 2025. [Paper (To be released)](#)  [Code (To be released)](#)
+- ```IJCAI 2025``` Jiangfeng Sun, Kaiwen Xue, Qika Lin, Yufei Qiao, ***Yifan Zhu***, Zhonghong Ou, Meina Song. ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'25), 2025. [Paper (To be released)](#)  [Code](https://github.com/BUPT-CAD-Lab/EEGBrainNetwork)
 
 - ```IEEE TIP``` Qika Lin, Kai He, ***Yifan Zhu***, Fangzhi Xu, Erik Cambria, Mengling Feng. ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. IEEE Transactions on Image Processing, 2025. [Paper](https://ieeexplore.ieee.org/document/10964089)
 
@@ -90,7 +91,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```AAAI 2025``` Wenwen Gong, Yangliao Geng, Dan Zhang, ***Yifan Zhu***, Xiaolong Xu, Haolong Xiang, Amin Beheshti, Xuyun Zhang, Lianyong Qi. ***DivGCL: A Graph Contrastive Learning Model for Diverse Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025, 6(2025): 82-92. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33852) [Code](https://github.com/submission-6077/DivGCL/tree/main)
 
-- ```AI Open``` Zongfu Han, Yu Feng, ***Yifan Zhu***, Zhen Tian, Fangyu Hao, Meina Song. ***FedGPA: Federated Learning with Global Personalized Aggregation***. AI Open, 2025. [Paper](https://www.sciencedirect.com/science/article/pii/S2666651025000063/pdfft?md5=4c47cbd49280b9b7ebb4f813ed5de38f&pid=1-s2.0-S2666651025000063-main.pdf) 
+- ```AI Open``` Zongfu Han, Yu Feng, ***Yifan Zhu***, Zhen Tian, Fangyu Hao, Meina Song. ***FedGPA: Federated Learning with Global Personalized Aggregation***. AI Open, 2025. [Paper](https://www.sciencedirect.com/science/article/pii/S2666651025000063/pdfft?md5=4c47cbd49280b9b7ebb4f813ed5de38f&pid=1-s2.0-S2666651025000063-main.pdf) [Code](https://github.com/BUPT-CAD-Lab/fedgpa2025)
 
 - ```IP&M``` Zijing Tian, Zhonghong Ou, ***Yifan Zhu***, Shuai Lyu, Hanyu Zhang, Jinghua Xiao, Meina Song. ***Multi-SEA: Multi-stage Semantic Enhancement and Aggregation for image–text retrieval***. Information Processing and Management, 2025, 62(5):104165. [Paper](https://authors.elsevier.com/c/1kx2j15hYd-jbc) 
 
@@ -216,15 +217,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2024.06*, 推荐系统基础(继续教育生)
 
 
-<!-- ## Invited Talks
-
-- *2023.10*, 基础模型时代下隐私保护与可信数据要素流通, 第一届中国（成都）数智金融高峰论坛 [Slides](files/大模型时代下隐私保护与可信数据要素流通_数智论坛.pdf) -->
-
 ## Editor Service
 
 - *2025.03 - present*, ***Associate Editor*** of [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing)
 - *2023.12 - present*, ***Editorial Board Member*** of [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board)
 - *2025.01 - present*, ***Assistant Editorial Board Member*** of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx)
+- *2025.07 - 2026.09*. ***Guest Editor*** of [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2025/06/GENERA1.pdf)
 - *2023.11 - 2025.06*. ***Guest Editor*** of [Information Fusion](https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion)
 - *2025.01 - 2025.12*, ***Guest Editor*** of [Applied Sciences](https://www.mdpi.com/journal/applsci/special_issues/2A91X6650R)
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7)
@@ -267,5 +265,5 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Undergraduate students***: Yihao Wang (visiting student from BISTU), Xinyu Mu (visiting student from BISTU)
 
 ### Class before 2023
-- ***PhD students***: Yu Feng (Co-advised with Prof. Meina Song), Jiangfeng Sun (Co-advised with Prof. Meina Song)
+- ***PhD students***: Yu Feng (Co-advised with Prof. Meina Song)-Scientist@China Mobile, Jiangfeng Sun (Co-advised with Prof. Meina Song)
 - ***Master students***: Gen Shi (Co-advised with Prof. Xuesong Li)-PhD@BUAA, Weibin Liao (Co-advised with Prof. Xuesong Li)-PhD@PKU
