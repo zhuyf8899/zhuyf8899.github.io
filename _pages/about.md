@@ -29,11 +29,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2025.07* : &nbsp; Congratulations to Guoxin! One paper has been accepted by ACM MM'25!
 - *2025.07* : &nbsp; We have lunached a special issue on "Generative Computational Social Intelligence: Modeling, Simulation, and Applications" in [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2025/06/GENERA1.pdf) which leaded by [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and co-editored with [Prof. Xiaohui Tao](https://tao-xiaohui.com/), [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu), and [Prof. Qi Zhang](https://iip.tongji.edu.cn/info/1044/2610.htm).
 - *2025.05* : &nbsp; Congratulations to Shigen! Our study "Heterogeneous Graph-Based Multimodal Brain Network Learning" has been accepted by IEEE TKDE!
 - *2025.05* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/) and Mengyang! Two papers have been accepted by ICML'25!
 - *2025.05* : &nbsp; Congratulations to Jiangfeng! our study Stella to understand emotion revealed by EEG network has been accepted by IJCAI'25!
-- *2025.04*: &nbsp; Congratulations to [Qika](https://qikalin.github.io/)!, our co-worked study "Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA" has been accepted by IEEE TIP!
+<!-- - *2025.04*: &nbsp; Congratulations to [Qika](https://qikalin.github.io/)!, our co-worked study "Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA" has been accepted by IEEE TIP! -->
 <!-- - *2025.03*: &nbsp; I have been nominated as an associate editor of the [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing). -->
 <!-- - *2025.01*: &nbsp; I have been nominated as an assistant editorial board member of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx). -->
 <!-- - *2025.01* : &nbsp; Congratulations to Yu Feng! our study PM-MOE has been accepted by WWW'25! -->
@@ -71,6 +72,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2025
 
+- ```MM 2025``` Guoxin Zhang, Zhonghong Ou, Kaiwen Xue, Jiangfeng Sun, Siyuan Yao, Yiran Shen, Meina Song,  ***Yifan Zhu***. ***DGFSD: Bridging the Gap between Dense and Sparse for FullySparse 3D Object Detection***. In ACM Multimedia, 2025. [Paper (To be released)](#) [Code](https://github.com/Raiden-cn/DGFSD)
+
 - ```IEEE TKDE``` Gen Shi, ***Yifan Zhu***, Wenjing Liu, Quanmin Yao, Xuesong Li. ***Heterogeneous Graph-Based Multimodal Brain Network Learning***. IEEE Transactions on Knowledge and Data Engineering, 2025. [Paper](https://ieeexplore.ieee.org/document/11003156) [Code](https://github.com/shigen97/HeBrainGNN)
 
 - ```ICML 2025``` Haoran Luo, Haihong E, Yikai Guo, Qika Lin, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, ***Yifan Zhu***, Luu Anh Tuan. ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2501.18922) [Code](https://github.com/BUPT-CAD-Lab/KBQA-o1)
@@ -94,6 +97,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ```AI Open``` Zongfu Han, Yu Feng, ***Yifan Zhu***, Zhen Tian, Fangyu Hao, Meina Song. ***FedGPA: Federated Learning with Global Personalized Aggregation***. AI Open, 2025. [Paper](https://www.sciencedirect.com/science/article/pii/S2666651025000063/pdfft?md5=4c47cbd49280b9b7ebb4f813ed5de38f&pid=1-s2.0-S2666651025000063-main.pdf) [Code](https://github.com/BUPT-CAD-Lab/fedgpa2025)
 
 - ```IP&M``` Zijing Tian, Zhonghong Ou, ***Yifan Zhu***, Shuai Lyu, Hanyu Zhang, Jinghua Xiao, Meina Song. ***Multi-SEA: Multi-stage Semantic Enhancement and Aggregation for image–text retrieval***. Information Processing and Management, 2025, 62(5):104165. [Paper](https://authors.elsevier.com/c/1kx2j15hYd-jbc) 
+
+- ```IEEE TCE``` Kaize Shi, Xueping Peng, ***Yifan Zhu***, Hui He, Kun Yi, Zhendong Niu. ***Multi-KGS: Generating Social Network-Based Meteorological Decision Reports Fusing With Multiple Knowledge***. IEEE Transactions on Consumer Electronics, 2025. [Paper](https://ieeexplore.ieee.org/document/11104825) 
 
 - ``INFFUS`` Qika Lin, ***Yifan Zhu***, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. ***Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey***. Information Fusion, 2025, 116: 102795. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
 
@@ -240,8 +245,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Local Chair*** of CAIBDA'25
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
-- ***Program Committee Member*** of KDD'25, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-25, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25
-- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics.
+- ***Program Committee Member*** of KDD'25-26, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
+- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics.
 
 # Students (with post-graduation position)
 <span class='anchor' id='-students'></span>
