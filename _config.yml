@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yifan Zhu"
-description              : "IEEE Member <br/>CCF Member <br/> CAAI Member <br/><br/> Room 819, Science Buliding, <br/> No.10 Xitucheng Rd. <br/> Beijing, China"
+description              : "IEEE Member <br/>CGS Senior Member <br/>CCF Member <br/> CAAI Member <br/><br/> Room 821, Science Buliding, <br/> No.10 Xitucheng Rd. <br/> Beijing, China"
 repository               : "zhuyf8899/zhuyf8899.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "zhuyf8899"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.uni-trier.de/pid/94/1593-1.html"
   orcid            : "https://orcid.org/0000-0002-7695-1633"
   pinterest        :
   soundcloud       :

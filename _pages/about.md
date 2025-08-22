@@ -72,6 +72,10 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2025
 
+- ```EMNLP 2025``` Jun Zhang, Haihong E, Tianyi Hu, ***Yifan Zhu***, Meina Song, Haoran Luo. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper](https://openreview.net/pdf?id=1epaSm9QRs) 
+
+- ```EMNLP 2025``` Kechen Jiao, Zhirui Fang, Jiahao Liu, Bei Li, Qifan Wang, Xinyu Liu, Junhao Ruan, Zhongjian Qiao, ***Yifan Zhu***, Yaxin Xu, Jingang Wang, Xiu Li. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper (To be released)](#)
+
 - ```MM 2025``` Guoxin Zhang, Zhonghong Ou, Kaiwen Xue, Jiangfeng Sun, Siyuan Yao, Yiran Shen, Meina Song,  ***Yifan Zhu***. ***DGFSD: Bridging the Gap between Dense and Sparse for FullySparse 3D Object Detection***. In ACM Multimedia, 2025. [Paper (To be released)](#) [Code](https://github.com/Raiden-cn/DGFSD)
 
 - ```IEEE TKDE``` Gen Shi, ***Yifan Zhu***, Wenjing Liu, Quanmin Yao, Xuesong Li. ***Heterogeneous Graph-Based Multimodal Brain Network Learning***. IEEE Transactions on Knowledge and Data Engineering, 2025. [Paper](https://ieeexplore.ieee.org/document/11003156) [Code](https://github.com/shigen97/HeBrainGNN)
@@ -241,12 +245,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## Program Committee & Reviewer Service
 
-- ***Area Chair*** of NeurIPS'25, CCKS'25
+- ***Area Chair*** of ICLR'26, NeurIPS'25, CCKS'25
 - ***Local Chair*** of CAIBDA'25
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
 - ***Program Committee Member*** of KDD'25-26, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
-- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics.
+- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
 
 # Students (with post-graduation position)
 <span class='anchor' id='-students'></span>
