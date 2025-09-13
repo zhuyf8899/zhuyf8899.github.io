@@ -222,7 +222,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## Lectures
 - *2025.02-2025.07*, 大数据技术与应用(本科生)
-- *2024.09-2025.01*, 大数据与数字经济前沿应用(研究生)
+- *2024.09-2025.01*, *2025.09-2026.01* 大数据与数字经济前沿应用(研究生)
 - *2024.06*, 推荐系统基础(继续教育生)
 
 
@@ -262,17 +262,35 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
   - **Graph-based social network analysis**
   - **Graph-based brain activity analysis for medical use**
 - However, I received a lot of applications, and I am sorry that I cannot reply to all of them. Thus, I will set a priority queue to whom ***really cares aboout*** his/her application. To be specific, the applicant who place the number ```$709394``` ahead of the application email title will be given the priority of consideration.
-- 我们欢迎对图神经网络、推荐系统、基础模型微调、脑科学等领域感兴趣，且有着自律与团队意识的同学加入。遗憾的是，我们每次会收到大量的申请，无法一一回复。因此，为了照顾真正想来而非刷楼的申请，我们将优先考虑在申请邮件标题前面添加了字符```$709394```的同学（例如：$709394-研究生申请-张三-克莱登大学）。
-
+- 我们欢迎对大模型低秩微调、混合专家、图RAG、推荐系统、脑网络分析等领域感兴趣，且有着**自律与团队意识**的同学加入。遗憾的是，我们每次会收到大量的申请，无法一一回复。因此，为了照顾真正想来而非刷楼的申请，我们将优先考虑在申请邮件标题前面添加了字符```$709394-XX专精```的同学（例如：$709394-论文专精-研究生申请-张三-克莱登大学）：
+  - 论文专精（需要CCF-C类、中科院2区以上学生一作的论文支撑）
+  - 编程专精（需要提供Python、Web开发等主流编程项目演示作为支撑）
+  - 文档专精（需要提供LaTeX、Markdown等文档项目演示，或者提供自己曾经写作的公文、项目申请书、商业企划书、各类PPT作为支撑）
+其中“XX专精”是指我们所关注的核心技能，强烈建议申请同学在邮件中注明自己掌握以上的技能点，满足其一的申请将被优先处理（如果不满足也不用太担心，以```$709394```开头的邮件都会被及时处理）。
 
 ### Class of 2025
-- ***Master students***: Can Lin, Xu Zeng
-- ***Undergraduate students***: Xingmin Hu (visiting student from CUFE)
+- ***Master students***: 
+  - Can Lin
+  - Xu Zeng
+  - Jiawei Li
+  - Ashish Dotel
+  - Gharsallah Yassine
+- ***Undergraduate students***: 
+  - Xingmin Hu (visiting student from CUFE)
 
 ### Class of 2024
-- ***Master students***: Qingzhi Yu, Huiqiang Rong, Guanting Chen
-- ***Undergraduate students***: Yihao Wang (visiting student from BISTU), Xinyu Mu (visiting student from BISTU)
+- ***Master students***: 
+  - Qingzhi Yu
+  - Huiqiang Rong
+  - Guanting Chen
+- ***Undergraduate students***: 
+  - Yihao Wang (visiting student from BISTU), Master student @ ZJU
+  - Xinyu Mu (visiting student from BISTU)
 
 ### Class before 2023
-- ***PhD students***: Yu Feng (Co-advised with Prof. Meina Song)-Scientist@China Mobile, Jiangfeng Sun (Co-advised with Prof. Meina Song)
-- ***Master students***: Gen Shi (Co-advised with Prof. Xuesong Li)-PhD@BUAA, Weibin Liao (Co-advised with Prof. Xuesong Li)-PhD@PKU
+- ***PhD students***: 
+  - Dr. Yu Feng (Co-advised with Prof. Meina Song), Research Scientist @ China Mobile Research Institute, 
+  - Jiangfeng Sun (Co-advised with Prof. Meina Song)
+- ***Master students***: 
+  - Gen Shi (Co-advised with Prof. Xuesong Li), PhD student @ BUAA, 
+  - Weibin Liao (Co-advised with Prof. Xuesong Li)-PhD student @ PKU
