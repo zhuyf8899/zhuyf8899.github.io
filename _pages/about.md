@@ -29,11 +29,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2025.09* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper HyperGraphRAG been accepted by NeurIPS'25!
 - *2025.07* : &nbsp; Congratulations to Guoxin! One paper has been accepted by ACM MM'25!
 - *2025.07* : &nbsp; We have lunached a special issue on "Generative Computational Social Intelligence: Modeling, Simulation, and Applications" in [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2025/06/GENERA1.pdf) which leaded by [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and co-editored with [Prof. Xiaohui Tao](https://tao-xiaohui.com/), [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu), and [Prof. Qi Zhang](https://iip.tongji.edu.cn/info/1044/2610.htm).
 - *2025.05* : &nbsp; Congratulations to Shigen! Our study "Heterogeneous Graph-Based Multimodal Brain Network Learning" has been accepted by IEEE TKDE!
 - *2025.05* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/) and Mengyang! Two papers have been accepted by ICML'25!
-- *2025.05* : &nbsp; Congratulations to Jiangfeng! our study Stella to understand emotion revealed by EEG network has been accepted by IJCAI'25!
+<!-- - *2025.05* : &nbsp; Congratulations to Jiangfeng! our study Stella to understand emotion revealed by EEG network has been accepted by IJCAI'25! -->
 <!-- - *2025.04*: &nbsp; Congratulations to [Qika](https://qikalin.github.io/)!, our co-worked study "Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA" has been accepted by IEEE TIP! -->
 <!-- - *2025.03*: &nbsp; I have been nominated as an associate editor of the [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing). -->
 <!-- - *2025.01*: &nbsp; I have been nominated as an assistant editorial board member of the [CAAI Transactions on Intelligent Systems](https://tis.hrbeu.edu.cn/Corp/3300.aspx). -->
@@ -70,7 +71,10 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+
 ## 2025
+
+- ```NeurIPS 2025``` Haoran Luo, Haihong E, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, Qika Lin, Yu Feng, Zemin Kuang, Meina Song, ***Yifan Zhu***, Anh Tuan Luu. ***HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation***. In Advances in Neural Information Processing Systems (NeurIPS'25), 2025. [Paper](https://arxiv.org/pdf/2503.21322v2) [Code](https://github.com/BUPT-CAD-Lab/HyperGraphRAG)
 
 - ```EMNLP 2025``` Jun Zhang, Haihong E, Tianyi Hu, ***Yifan Zhu***, Meina Song, Haoran Luo. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper](https://openreview.net/pdf?id=1epaSm9QRs) 
 
@@ -110,7 +114,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ``NeurIPS 2024`` Haoran Luo, Haihong E, Yuhao Yang, Tianyu Yao, Yikai Guo, Zichen Tang, Wentai Zhang, Shiyao Peng, Kaiyang Wan, Meina Song, Wei Lin, ***Yifan Zhu***, Anh Tuan Luu. ***Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction***. In Advances in Neural Information Processing Systems (NeurIPS'24), 2024. [Paper](https://arxiv.org/pdf/2310.05185) [Code](https://github.com/LHRLAB/Text2NKG)
 
-- ``ACM TOIS`` Dan Zhang, Shaojie Zhen, ***Yifan Zhu***, Huihui Yuan, Jibing Gong, Jie Tang.  ***MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations***. ACM Transactions on Information Systems, 2024. [Paper](https://dl.acm.org/doi/10.1145/3698193) [Data](https://github.com/THUDM/MCAP) 
+- ```ACM TOIS``` Dan Zhang, Shaojie Zhen, ***Yifan Zhu***, Huihui Yuan, Jibing Gong, Jie Tang.  ***MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations***. ACM Transactions on Information Systems, 2024. [Paper](https://dl.acm.org/doi/10.1145/3698193) [Data](https://github.com/THUDM/MCAP) 
 
 - ``MM 2024`` Yu Feng, Zhen Tian, ***Yifan Zhu***, Zongfu Han, Haoran Luo, Guangwei Zhang, Meina Song. ***CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning***. In ACM Multimedia, 2024. [Paper](http://arxiv.org/abs/2407.21043) [Code](https://github.com/dannis97500/CP_Prompt)
 
@@ -266,6 +270,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
   - 论文专精（需要CCF-C类、中科院2区以上学生一作的论文支撑）
   - 编程专精（需要提供Python、Web开发等主流编程项目演示作为支撑）
   - 文档专精（需要提供LaTeX、Markdown等文档项目演示，或者提供自己曾经写作的公文、项目申请书、商业企划书、各类PPT作为支撑）
+
 其中“XX专精”是指我们所关注的核心技能，强烈建议申请同学在邮件中注明自己掌握以上的技能点，满足其一的申请将被优先处理（如果不满足也不用太担心，以```$709394```开头的邮件都会被及时处理）。
 
 ### Class of 2025
@@ -289,8 +294,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ### Class before 2023
 - ***PhD students***: 
-  - Dr. Yu Feng (Co-advised with Prof. Meina Song), Research Scientist @ China Mobile Research Institute, 
+  - Dr. Yu Feng (Co-advised with Prof. Meina Song), Research Scientist @ China Mobile Research Institute
   - Jiangfeng Sun (Co-advised with Prof. Meina Song)
 - ***Master students***: 
-  - Gen Shi (Co-advised with Prof. Xuesong Li), PhD student @ BUAA, 
-  - Weibin Liao (Co-advised with Prof. Xuesong Li)-PhD student @ PKU
+  - Gen Shi (Co-advised with Prof. Xuesong Li), PhD student @ BUAA
+  - Weibin Liao (Co-advised with Prof. Xuesong Li), PhD student @ PKU
