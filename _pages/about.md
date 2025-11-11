@@ -29,11 +29,13 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
-- *2025.09* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper HyperGraphRAG been accepted by NeurIPS'25!
+- *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award by China Institute of Communications [(中国通信学会科技进步一等奖)](https://www.china-cic.cn/Detail/24/6768/6768)!
+- *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26!
+- *2025.09* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper HyperGraphRAG has been accepted by NeurIPS'25!
 - *2025.07* : &nbsp; Congratulations to Guoxin! One paper has been accepted by ACM MM'25!
 - *2025.07* : &nbsp; We have lunached a special issue on "Generative Computational Social Intelligence: Modeling, Simulation, and Applications" in [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2025/06/GENERA1.pdf) which leaded by [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and co-editored with [Prof. Xiaohui Tao](https://tao-xiaohui.com/), [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu), and [Prof. Qi Zhang](https://iip.tongji.edu.cn/info/1044/2610.htm).
-- *2025.05* : &nbsp; Congratulations to Shigen! Our study "Heterogeneous Graph-Based Multimodal Brain Network Learning" has been accepted by IEEE TKDE!
-- *2025.05* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/) and Mengyang! Two papers have been accepted by ICML'25!
+<!-- - *2025.05* : &nbsp; Congratulations to Shigen! Our study "Heterogeneous Graph-Based Multimodal Brain Network Learning" has been accepted by IEEE TKDE! -->
+<!-- - *2025.05* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/) and Mengyang! Two papers have been accepted by ICML'25! -->
 <!-- - *2025.05* : &nbsp; Congratulations to Jiangfeng! our study Stella to understand emotion revealed by EEG network has been accepted by IJCAI'25! -->
 <!-- - *2025.04*: &nbsp; Congratulations to [Qika](https://qikalin.github.io/)!, our co-worked study "Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA" has been accepted by IEEE TIP! -->
 <!-- - *2025.03*: &nbsp; I have been nominated as an associate editor of the [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing). -->
@@ -71,8 +73,17 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+## 2026
+
+- ```AAAI 2026``` Kaiwen Xue, Li Chenglong, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Shuai Lyu, ***Yifan Zhu***, Zong Ping, Junpeng Ding, Xinyu Liu, Qunlin Chen, Weiwei Qin, Yiran Shen, Jiayi Cen. ***CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), 2026. [Paper (To Be Released)](#)
+
+- ```AAAI 2026``` Ziwei Liu, Borui Kang, Wei Li, Hangjie Yuan, Yanbing Yang, Wenbin Li, Jun Luo, ***Yifan Zhu***, Tao Feng. ***Branch, or Layer? Zeroth-Order Optimization for Continual Learning of Vision-Language Models***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), 2026. [Paper (To Be Released)](#)
+
+- ``INFFUS`` Feifei Kou, Ziyan Zhang, Yuhan Yao, Yuxian Zhu, Jiahao Wang, Ruiping Yuan, Yifan Zhu. ***A survey on long-term traffic prediction from the information fusion perspective: Requirements, methods, applications, and outlooks***. Information Fusion, 2026, 127(A):103677. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007493)
 
 ## 2025
+
+- ```BESC 2025``` Zheng He, Jiawei Li, Zhonghong Ou, Meina Song, Qika Lin, Kaize Shi, Yifan Zhu. ***Early Detection of Multimodal Hot-Topic Misinformation in User-Generated Content***. In Proceedings of the International Conference on Behavioural and Social Computing (BESC'25), 2025. [Paper (To be released)](#) (***Best Special Session Paper Award***)
 
 - ```NeurIPS 2025``` Haoran Luo, Haihong E, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, Qika Lin, Yu Feng, Zemin Kuang, Meina Song, ***Yifan Zhu***, Anh Tuan Luu. ***HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation***. In Advances in Neural Information Processing Systems (NeurIPS'25), 2025. [Paper](https://arxiv.org/pdf/2503.21322v2) [Code](https://github.com/BUPT-CAD-Lab/HyperGraphRAG)
 
@@ -209,6 +220,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
+- *2025.12* First Prize of Science and Technology Advancement Award by China Institute of Communications [(中国通信学会科技进步一等奖)](https://www.china-cic.cn/Detail/24/6768/6768)
+- *2025.11* Best Special Session Paper Award, BESC 2025.
 - *2024.12* First Prize of Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
 - *2023.10* Best Student Paper Award, ECML-PKDD 2023.
 
@@ -254,7 +267,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
 - ***Program Committee Member*** of KDD'25-26, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
-- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
+- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
 
 # Students (with post-graduation position)
 <span class='anchor' id='-students'></span>
