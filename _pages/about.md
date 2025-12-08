@@ -29,11 +29,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
-- *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award by China Institute of Communications [(中国通信学会科技进步一等奖)](https://www.china-cic.cn/Detail/24/6768/6768)!
+- *2025.12* : &nbsp; We have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration.
+- *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award by China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)!
 - *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26!
 - *2025.09* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper HyperGraphRAG has been accepted by NeurIPS'25!
 - *2025.07* : &nbsp; Congratulations to Guoxin! One paper has been accepted by ACM MM'25!
-- *2025.07* : &nbsp; We have lunached a special issue on "Generative Computational Social Intelligence: Modeling, Simulation, and Applications" in [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2025/06/GENERA1.pdf) which leaded by [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and co-editored with [Prof. Xiaohui Tao](https://tao-xiaohui.com/), [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu), and [Prof. Qi Zhang](https://iip.tongji.edu.cn/info/1044/2610.htm).
+<!-- - *2025.07* : &nbsp; We have lunached a special issue on "Generative Computational Social Intelligence: Modeling, Simulation, and Applications" in [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2025/06/GENERA1.pdf) which leaded by [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and co-editored with [Prof. Xiaohui Tao](https://tao-xiaohui.com/), [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu), and [Prof. Qi Zhang](https://iip.tongji.edu.cn/info/1044/2610.htm). -->
 <!-- - *2025.05* : &nbsp; Congratulations to Shigen! Our study "Heterogeneous Graph-Based Multimodal Brain Network Learning" has been accepted by IEEE TKDE! -->
 <!-- - *2025.05* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/) and Mengyang! Two papers have been accepted by ICML'25! -->
 <!-- - *2025.05* : &nbsp; Congratulations to Jiangfeng! our study Stella to understand emotion revealed by EEG network has been accepted by IJCAI'25! -->
@@ -83,15 +84,17 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2025
 
-- ```BESC 2025``` Zheng He, Jiawei Li, Zhonghong Ou, Meina Song, Qika Lin, Kaize Shi, Yifan Zhu. ***Early Detection of Multimodal Hot-Topic Misinformation in User-Generated Content***. In Proceedings of the International Conference on Behavioural and Social Computing (BESC'25), 2025. [Paper (To be released)](#) (***Best Special Session Paper Award***)
+- ```BIBM 2025``` Bin Pu, Jiewen Yang, Hangcheng Cao, Xingguo Lv, Lei Zhao, Qika Lin, Zhan Gao, ***Yifan Zhu***, Haiyan Chen, and Kenli Li. ***Direct Cardiovascular Disease Diagnosis from Multi-Modal Multi-View Ultrasound via Unified Vision-Language Modeling***. In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM'25), 2025. [Paper (To be released)](#)
+
+- ```BESC 2025``` Zheng He, Jiawei Li, Zhonghong Ou, Meina Song, Qika Lin, Kaize Shi, ***Yifan Zhu***. ***Early Detection of Multimodal Hot-Topic Misinformation in User-Generated Content***. In Proceedings of the International Conference on Behavioural and Social Computing (BESC'25), 2025. [Paper (To be released)](#) (***Best Special Session Paper Award***)
 
 - ```NeurIPS 2025``` Haoran Luo, Haihong E, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, Qika Lin, Yu Feng, Zemin Kuang, Meina Song, ***Yifan Zhu***, Anh Tuan Luu. ***HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation***. In Advances in Neural Information Processing Systems (NeurIPS'25), 2025. [Paper](https://arxiv.org/pdf/2503.21322v2) [Code](https://github.com/BUPT-CAD-Lab/HyperGraphRAG)
 
-- ```EMNLP 2025``` Jun Zhang, Haihong E, Tianyi Hu, ***Yifan Zhu***, Meina Song, Haoran Luo. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper](https://openreview.net/pdf?id=1epaSm9QRs) 
+- ```EMNLP 2025``` Jun Zhang, Haihong E, Tianyi Hu, ***Yifan Zhu***, Meina Song, Haoran Luo. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper](https://aclanthology.org/2025.emnlp-main.782.pdf) 
 
-- ```EMNLP 2025``` Kechen Jiao, Zhirui Fang, Jiahao Liu, Bei Li, Qifan Wang, Xinyu Liu, Junhao Ruan, Zhongjian Qiao, ***Yifan Zhu***, Yaxin Xu, Jingang Wang, Xiu Li. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper (To be released)](#)
+- ```EMNLP 2025``` Kechen Jiao, Zhirui Fang, Jiahao Liu, Bei Li, Qifan Wang, Xinyu Liu, Junhao Ruan, Zhongjian Qiao, ***Yifan Zhu***, Yaxin Xu, Jingang Wang, Xiu Li. ***TCPO: Thought-Centric Preference Optimization for Effective Embodied Decision-making***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper](https://aclanthology.org/2025.emnlp-main.484.pdf)
 
-- ```MM 2025``` Guoxin Zhang, Zhonghong Ou, Kaiwen Xue, Jiangfeng Sun, Siyuan Yao, Yiran Shen, Meina Song,  ***Yifan Zhu***. ***DGFSD: Bridging the Gap between Dense and Sparse for FullySparse 3D Object Detection***. In ACM Multimedia, 2025. [Paper (To be released)](#) [Code](https://github.com/Raiden-cn/DGFSD)
+- ```MM 2025``` Guoxin Zhang, Zhonghong Ou, Kaiwen Xue, Jiangfeng Sun, Siyuan Yao, Yiran Shen, Meina Song,  ***Yifan Zhu***. ***DGFSD: Bridging the Gap between Dense and Sparse for FullySparse 3D Object Detection***. In ACM Multimedia, 2025. [Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755552) [Code](https://github.com/Raiden-cn/DGFSD)
 
 - ```IEEE TKDE``` Gen Shi, ***Yifan Zhu***, Wenjing Liu, Quanmin Yao, Xuesong Li. ***Heterogeneous Graph-Based Multimodal Brain Network Learning***. IEEE Transactions on Knowledge and Data Engineering, 2025. [Paper](https://ieeexplore.ieee.org/document/11003156) [Code](https://github.com/shigen97/HeBrainGNN)
 
@@ -220,7 +223,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
-- *2025.12* First Prize of Science and Technology Advancement Award by China Institute of Communications [(中国通信学会科技进步一等奖)](https://www.china-cic.cn/Detail/24/6768/6768)
+- *2025.12* First Prize of Science and Technology Advancement Award by China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)
 - *2025.11* Best Special Session Paper Award, BESC 2025.
 - *2024.12* First Prize of Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
 - *2023.10* Best Student Paper Award, ECML-PKDD 2023.
@@ -231,7 +234,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - *2023.09 - (now)*, Assistant professor at School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China. 
 - *2021.10 - 2023.09*, Postdoc research fellow at Department of Computer Science and Technology, Tsinghua University, Beijing, China. (Supervisor: [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) )
-- *2016.09 - 2021.06*, Ph.D. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
+- *2016.09 - 2021.06*, Ph.D. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml2/rjznyrjgcyjs2/22092bcf20214631a66541a276d19b5d.htm))
 - *2012.09 - 2016.06*, B.E. at Computer School, Beijing Information Science & Technology University, Beijing, China. 
 
 # 🎤 Lecture, Talk, and Services
@@ -267,7 +270,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
 - ***Program Committee Member*** of KDD'25-26, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
-- ***Reviewer*** of IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
+- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
 
 # Students (with post-graduation position)
 <span class='anchor' id='-students'></span>
