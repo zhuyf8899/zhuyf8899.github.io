@@ -29,6 +29,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2026.01* : &nbsp; Congratulations to Huiqiang and Weibin, two paper have been accepted by ICLR'26!
 - *2025.12* : &nbsp; We have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration.
 - *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award by China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)!
 - *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26!
@@ -75,10 +76,15 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 ## 2026
+- ```ICLR 2026``` *Yifan Zhu*, Huiqiang Rong, Haoran Luo. ***Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper)](https://arxiv.org/abs/2601.21969) [Code](https://github.com/rhq945/Token-Guard)
 
-- ```AAAI 2026``` Kaiwen Xue, Li Chenglong, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Shuai Lyu, ***Yifan Zhu***, Zong Ping, Junpeng Ding, Xinyu Liu, Qunlin Chen, Weiwei Qin, Yiran Shen, Jiayi Cen. ***CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), 2026. [Paper (To Be Released)](#)
+- ```ICLR 2026``` Weibin Liao, Xin Gao, Tianyu Jia, Rihong Qiu, *Yifan Zhu*, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang. ***LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://openreview.net/pdf?id=q6kXd8Gpfj)
 
-- ```AAAI 2026``` Ziwei Liu, Borui Kang, Wei Li, Hangjie Yuan, Yanbing Yang, Wenbin Li, Jun Luo, ***Yifan Zhu***, Tao Feng. ***Branch, or Layer? Zeroth-Order Optimization for Continual Learning of Vision-Language Models***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), 2026. [Paper (To Be Released)](#)
+- ```WWW 2026``` Shiyao Peng, Qianhe Zheng, Zhuodi Hao, Zichen Tang, Rongjin Li, Qing Huang, Jiayu Huang, Jiacheng Liu, Yifan Zhu and Haihong. ***Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains***. In Proceedings of the Web Conference (WWW'26), 2026. [Paper (To Be Released)](#) [Code](https://github.com/BUPT-Reasoning-Lab/NeocorRAG)
+
+- ```AAAI 2026``` Kaiwen Xue, Li Chenglong, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Shuai Lyu, ***Yifan Zhu***, Zong Ping, Junpeng Ding, Xinyu Liu, Qunlin Chen, Weiwei Qin, Yiran Shen, Jiayi Cen. ***CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), 2026. [Paper](https://arxiv.org/pdf/2511.13626) [Benchmark](https://kaixuewen.github.io/Crebench)
+
+- ```AAAI 2026``` Ziwei Liu, Borui Kang, Wei Li, Hangjie Yuan, Yanbing Yang, Wenbin Li, Jun Luo, ***Yifan Zhu***, Tao Feng. ***Branch, or Layer? Zeroth-Order Optimization for Continual Learning of Vision-Language Models***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), 2026. [Paper](https://arxiv.org/pdf/2506.12409)
 
 - ``INFFUS`` Feifei Kou, Ziyan Zhang, Yuhan Yao, Yuxian Zhu, Jiahao Wang, Ruiping Yuan, Yifan Zhu. ***A survey on long-term traffic prediction from the information fusion perspective: Requirements, methods, applications, and outlooks***. Information Fusion, 2026, 127(A):103677. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007493)
 
@@ -96,7 +102,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```MM 2025``` Guoxin Zhang, Zhonghong Ou, Kaiwen Xue, Jiangfeng Sun, Siyuan Yao, Yiran Shen, Meina Song,  ***Yifan Zhu***. ***DGFSD: Bridging the Gap between Dense and Sparse for FullySparse 3D Object Detection***. In ACM Multimedia, 2025. [Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755552) [Code](https://github.com/Raiden-cn/DGFSD)
 
-- ```IEEE TKDE``` Gen Shi, ***Yifan Zhu***, Wenjing Liu, Quanmin Yao, Xuesong Li. ***Heterogeneous Graph-Based Multimodal Brain Network Learning***. IEEE Transactions on Knowledge and Data Engineering, 2025. [Paper](https://ieeexplore.ieee.org/document/11003156) [Code](https://github.com/shigen97/HeBrainGNN)
+- ```IEEE TKDE``` Gen Shi, ***Yifan Zhu***, Wenjing Liu, Quanmin Yao, Xuesong Li. ***Heterogeneous Graph-Based Multimodal Brain Network Learning***. IEEE Transactions on Knowledge and Data Engineering, 2025, 37(8):4664-4676. [Paper](https://ieeexplore.ieee.org/document/11003156) [Code](https://github.com/shigen97/HeBrainGNN)
 
 - ```ICML 2025``` Haoran Luo, Haihong E, Yikai Guo, Qika Lin, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, ***Yifan Zhu***, Luu Anh Tuan. ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2501.18922) [Code](https://github.com/BUPT-CAD-Lab/KBQA-o1)
 
@@ -128,7 +134,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ``NeurIPS 2024`` Haoran Luo, Haihong E, Yuhao Yang, Tianyu Yao, Yikai Guo, Zichen Tang, Wentai Zhang, Shiyao Peng, Kaiyang Wan, Meina Song, Wei Lin, ***Yifan Zhu***, Anh Tuan Luu. ***Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction***. In Advances in Neural Information Processing Systems (NeurIPS'24), 2024. [Paper](https://arxiv.org/pdf/2310.05185) [Code](https://github.com/LHRLAB/Text2NKG)
 
-- ```ACM TOIS``` Dan Zhang, Shaojie Zhen, ***Yifan Zhu***, Huihui Yuan, Jibing Gong, Jie Tang.  ***MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations***. ACM Transactions on Information Systems, 2024. [Paper](https://dl.acm.org/doi/10.1145/3698193) [Data](https://github.com/THUDM/MCAP) 
+- ```ACM TOIS``` Dan Zhang, Shaojie Zhen, ***Yifan Zhu***, Huihui Yuan, Jibing Gong, Jie Tang.  ***MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations***. ACM Transactions on Information Systems, 2024， 43(1): 1-26. [Paper](https://dl.acm.org/doi/10.1145/3698193) [Data](https://github.com/THUDM/MCAP) 
 
 - ``MM 2024`` Yu Feng, Zhen Tian, ***Yifan Zhu***, Zongfu Han, Haoran Luo, Guangwei Zhang, Meina Song. ***CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning***. In ACM Multimedia, 2024. [Paper](http://arxiv.org/abs/2407.21043) [Code](https://github.com/dannis97500/CP_Prompt)
 
@@ -265,12 +271,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## Program Committee & Reviewer Service
 
-- ***Area Chair*** of ICLR'26, NeurIPS'25, CCKS'25
+- ***Area Chair/Senior Program Committee Member*** of ICLR'26, NeurIPS'25, IJCAI'26, CCKS'25
 - ***Local Chair*** of CAIBDA'25
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
 - ***Program Committee Member*** of KDD'25-26, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
-- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
+- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, IEEE TPDS, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, IEEE TCE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
 
 # Students (with post-graduation position)
 <span class='anchor' id='-students'></span>
@@ -306,12 +312,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
   - Guanting Chen
 - ***Undergraduate students***: 
   - Yihao Wang (visiting student from BISTU), Master student @ ZJU
-  - Xinyu Mu (visiting student from BISTU)
+  - Xinyu Mu (visiting student from BISTU), Master student @ BUPT
 
 ### Class before 2023
 - ***PhD students***: 
+  - [Dr. Haoran Luo](https://lhrlab.github.io/) (Co-advised with Prof. Haihong E), PostDoc @ NTU
   - Dr. Yu Feng (Co-advised with Prof. Meina Song), Research Scientist @ China Mobile Research Institute
-  - Jiangfeng Sun (Co-advised with Prof. Meina Song)
 - ***Master students***: 
   - Gen Shi (Co-advised with Prof. Xuesong Li), PhD student @ BUAA
   - Weibin Liao (Co-advised with Prof. Xuesong Li), PhD student @ PKU
