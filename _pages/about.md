@@ -32,10 +32,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2026.01* : &nbsp; We have been awarded by the First Prize of Wu Wenjun AI Award from Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf)
 - *2026.01* : &nbsp; Congratulations to Huiqiang and Weibin, two paper have been accepted by ICLR'26!
 - *2025.12* : &nbsp; We have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration.
+
 <!-- - *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award from China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)! -->
-<!-- - *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26!
-- *2025.09* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper HyperGraphRAG has been accepted by NeurIPS'25!
-- *2025.07* : &nbsp; Congratulations to Guoxin! One paper has been accepted by ACM MM'25! -->
+<!-- - *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26! -->
+<!--  - *2025.09* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper HyperGraphRAG has been accepted by NeurIPS'25! -->
+<!--  - *2025.07* : &nbsp; Congratulations to Guoxin! One paper has been accepted by ACM MM'25! -->
 <!-- - *2025.07* : &nbsp; We have lunached a special issue on "Generative Computational Social Intelligence: Modeling, Simulation, and Applications" in [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2025/06/GENERA1.pdf) which leaded by [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and co-editored with [Prof. Xiaohui Tao](https://tao-xiaohui.com/), [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu), and [Prof. Qi Zhang](https://iip.tongji.edu.cn/info/1044/2610.htm). -->
 <!-- - *2025.05* : &nbsp; Congratulations to Shigen! Our study "Heterogeneous Graph-Based Multimodal Brain Network Learning" has been accepted by IEEE TKDE! -->
 <!-- - *2025.05* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/) and Mengyang! Two papers have been accepted by ICML'25! -->
@@ -278,7 +279,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Local Chair*** of CAIBDA'25
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
-- ***Program Committee Member*** of KDD'25-26, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
+- ***Program Committee Member*** of KDD'25-26, WWW'24-26, ICLR'25, ICML'26, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
 - ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, IEEE TPDS, IEEE TMM, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, IEEE TCE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
 
 # Students (with post-graduation position)
@@ -286,15 +287,17 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## Messages for applying students
 - I am looking for ***self-motivated and team-worked*** students to work on the following topics: 
-  - **LoRA and Mixture of Experts**
+  - **LLM Agents**
+  - **Graph RAG**
   - **Graph-based recommendation and data mining**
   - **Graph-based social network analysis**
   - **Graph-based brain activity analysis for medical use**
 - However, I received a lot of applications, and I am sorry that I cannot reply to all of them. Thus, I will set a priority queue to whom ***really cares aboout*** his/her application. To be specific, the applicant who place the number ```$709394``` ahead of the application email title will be given the priority of consideration.
-- 我们欢迎对大模型低秩微调、混合专家、图RAG、推荐系统、脑网络分析等领域感兴趣，且有着**自律与团队意识**的同学加入。遗憾的是，我们每次会收到大量的申请，无法一一回复。因此，为了照顾真正想来而非刷楼的申请，我们将优先考虑在申请邮件标题前面添加了字符```$709394-XX专精```的同学（例如：$709394-论文专精-研究生申请-张三-克莱登大学）：
+- 我们欢迎对大模型智能体、图RAG、推荐系统、脑网络分析等领域感兴趣，且有着**自律与团队意识**的同学加入。遗憾的是，我们每次会收到大量的申请，无法一一回复。因此，为了照顾真正想来而非刷楼的申请，我们将优先考虑在申请邮件标题前面添加了字符```$709394-XX专精```的同学（例如：$709394-论文专精-研究生申请-张三-克莱登大学）：
   - 论文专精（需要CCF-C类、中科院2区以上学生一作的论文支撑）
   - 编程专精（需要提供Python、Web开发等主流编程项目演示作为支撑）
   - 文档专精（需要提供LaTeX、Markdown等文档项目演示，或者提供自己曾经写作的公文、项目申请书、商业企划书、各类PPT作为支撑）
+
 
 其中“XX专精”是指我们所关注的核心技能，强烈建议申请同学在邮件中注明自己掌握以上的技能点，满足其一的申请将被优先处理（如果不满足也不用太担心，以```$709394```开头的邮件都会被及时处理）。
 
