@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor at Beijing University of Posts and Telecommunications. Before that, I was a postdoc research fellow with Department of Computer Science and Technology, Tsinghua University from 2021 to 2023. I received the PhD degree at Beijing Institute of Technology in 2021, and received the bachelor degree at Beijing Information Science & Technology University, in 2016. 
+I am an ~~assistant~~ associate professor at Beijing University of Posts and Telecommunications. Before that, I was a postdoc research fellow with Department of Computer Science and Technology, Tsinghua University from 2021 to 2023. I received the PhD degree at Beijing Institute of Technology in 2021, and received the bachelor degree at Beijing Information Science & Technology University, in 2016. 
 
 My research interests include AIGC-powered datamining, Safety on LLM, parameter-efficent finetune on LLM, graph representation learning, recommendation systems, etc.
 For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=pAfNfScAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -29,12 +29,13 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2026.01* : &nbsp; We have been awarded by the First Prize of Wu Wenjun AI Award from Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf)
 - *2026.01* : &nbsp; Congratulations to Huiqiang and Weibin, two paper have been accepted by ICLR'26!
 - *2025.12* : &nbsp; We have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration.
-- *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award by China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)!
-- *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26!
+<!-- - *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award from China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)! -->
+<!-- - *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26!
 - *2025.09* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper HyperGraphRAG has been accepted by NeurIPS'25!
-- *2025.07* : &nbsp; Congratulations to Guoxin! One paper has been accepted by ACM MM'25!
+- *2025.07* : &nbsp; Congratulations to Guoxin! One paper has been accepted by ACM MM'25! -->
 <!-- - *2025.07* : &nbsp; We have lunached a special issue on "Generative Computational Social Intelligence: Modeling, Simulation, and Applications" in [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2025/06/GENERA1.pdf) which leaded by [Dr. Kaize Shi](https://profiles.uts.edu.au/kaize.shi) and co-editored with [Prof. Xiaohui Tao](https://tao-xiaohui.com/), [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu), and [Prof. Qi Zhang](https://iip.tongji.edu.cn/info/1044/2610.htm). -->
 <!-- - *2025.05* : &nbsp; Congratulations to Shigen! Our study "Heterogeneous Graph-Based Multimodal Brain Network Learning" has been accepted by IEEE TKDE! -->
 <!-- - *2025.05* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/) and Mengyang! Two papers have been accepted by ICML'25! -->
@@ -229,6 +230,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
+- *2026.01* First Prize of Wu Wenjun AI Award by Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf)
 - *2025.12* First Prize of Science and Technology Advancement Award by China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)
 - *2025.11* Best Special Session Paper Award, BESC 2025.
 - *2024.12* First Prize of Safety Science and Technology Advancement Award by China Association of Work Safety [(中国安全生产协会安全科学科技进步一等奖)](https://www.china-safety.org.cn/api/file/20241218/1869300991283826688.pdf).
@@ -238,7 +240,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 <span class='anchor' id='-educations'></span>
 
-- *2023.09 - (now)*, Assistant professor at School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China. 
+- *2026.01 - (Now)*, Associate professor at School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China. 
+- *2023.09 - 2025.12*, Assistant professor at School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China. 
 - *2021.10 - 2023.09*, Postdoc research fellow at Department of Computer Science and Technology, Tsinghua University, Beijing, China. (Supervisor: [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) )
 - *2016.09 - 2021.06*, Ph.D. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml2/rjznyrjgcyjs2/22092bcf20214631a66541a276d19b5d.htm))
 - *2012.09 - 2016.06*, B.E. at Computer School, Beijing Information Science & Technology University, Beijing, China. 
@@ -276,7 +279,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
 - ***Program Committee Member*** of KDD'25-26, WWW'24-25, ICLR'25, ICML'25, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
-- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, IEEE TPDS, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, IEEE TCE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
+- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, IEEE TPDS, IEEE TMM, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, IEEE TCE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
 
 # Students (with post-graduation position)
 <span class='anchor' id='-students'></span>
