@@ -19,7 +19,7 @@ redirect_from:
 
 I am an ~~assistant~~ associate professor at Beijing University of Posts and Telecommunications. Before that, I was a postdoc research fellow with Department of Computer Science and Technology, Tsinghua University from 2021 to 2023. I received the PhD degree at Beijing Institute of Technology in 2021, and received the bachelor degree at Beijing Information Science & Technology University, in 2016. 
 
-My research interests include AIGC-powered datamining, Safety on LLM, parameter-efficent finetune on LLM, graph representation learning, recommendation systems, etc.
+My research interests include Agentic AI, Safety on LLM, Graph Mining, Brain-Inspired AI, Recommendation Systems, etc.
 For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=pAfNfScAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <!-- https://img.shields.io/badge/Google%20Scholar-Yifan%20Zhu-blue?logo=Google%20Scholar -->
@@ -29,11 +29,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2026.02* : &nbsp; Congratulations to Wentai,the FlashEKGR paper has been accepted by ICDE'26!
 - *2026.01* : &nbsp; We have been awarded by the First Prize of Wu Wenjun AI Award from Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf)
 - *2026.01* : &nbsp; Congratulations to Huiqiang and Weibin, two paper have been accepted by ICLR'26!
-- *2025.12* : &nbsp; We have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration.
-
-<!-- - *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award from China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)! -->
+- *2025.12* : &nbsp; I have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration.
+- *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award from China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)!
 <!-- - *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26! -->
 <!--  - *2025.09* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper HyperGraphRAG has been accepted by NeurIPS'25! -->
 <!--  - *2025.07* : &nbsp; Congratulations to Guoxin! One paper has been accepted by ACM MM'25! -->
@@ -78,13 +78,18 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 ## 2026
-- ```ICLR 2026``` *Yifan Zhu*, Huiqiang Rong, Haoran Luo. ***Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper)](https://arxiv.org/abs/2601.21969) [Code](https://github.com/rhq945/Token-Guard)
 
-- ```ICLR 2026``` Weibin Liao, Xin Gao, Tianyu Jia, Rihong Qiu, *Yifan Zhu*, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang. ***LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://openreview.net/pdf?id=q6kXd8Gpfj)
+- ```ICDE 2026``` Wentai Zhang, Teng Xu, Weiguang Wang, Junxing Li, Jun Zhang, ***Yifan Zhu***, Haihong E. FlashEKGR: Fast EKGR Models Training. In Proceedings of the 2026 IEEE 32nd International Conference on Data Engineering (ICDE'26), 2026. [Paper (To Be Released)](#)
+
+- ```ICLR 2026``` ***Yifan Zhu***, Huiqiang Rong, Haoran Luo. ***Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://arxiv.org/abs/2601.21969) [Code](https://github.com/rhq945/Token-Guard)
+
+- ```ICLR 2026``` Weibin Liao, Xin Gao, Tianyu Jia, Rihong Qiu, ***Yifan Zhu***, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang. ***LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://openreview.net/pdf?id=q6kXd8Gpfj)
 
 - ```WWW 2026``` Shiyao Peng, Qianhe Zheng, Zhuodi Hao, Zichen Tang, Rongjin Li, Qing Huang, Jiayu Huang, Jiacheng Liu, Yifan Zhu and Haihong. ***Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains***. In Proceedings of the Web Conference (WWW'26), 2026. [Paper (To Be Released)](#) [Code](https://github.com/BUPT-Reasoning-Lab/NeocorRAG)
 
-- ```AAAI 2026``` Kaiwen Xue, Li Chenglong, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Shuai Lyu, ***Yifan Zhu***, Zong Ping, Junpeng Ding, Xinyu Liu, Qunlin Chen, Weiwei Qin, Yiran Shen, Jiayi Cen. ***CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), 2026. [Paper](https://arxiv.org/pdf/2511.13626) [Benchmark](https://kaixuewen.github.io/Crebench)
+- ```IEEE TAI``` Xingguo Lv, Ningshu Li, Lei Zhao, Kai Xu, Qika Lin, ***Yifan Zhu***, Chuan Zhang, Bin Pu. ***TiPE-SAM: Tiny and Parameter-Efficient SAM for Edge Medical Image Segmentation with Mixture-of-Shape-Experts Priors***. IEEE Transactions on Artificial Intelligence, 2026. [Paper (To Be Released)](#)
+
+- ```AAAI 2026``` Kaiwen Xue, Chenglong Li, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Shuai Lyu, ***Yifan Zhu***, Zong Ping, Junpeng Ding, Xinyu Liu, Qunlin Chen, Weiwei Qin, Yiran Shen, Jiayi Cen. ***CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), 2026. [Paper](https://arxiv.org/pdf/2511.13626) [Benchmark](https://kaixuewen.github.io/Crebench)
 
 - ```AAAI 2026``` Ziwei Liu, Borui Kang, Wei Li, Hangjie Yuan, Yanbing Yang, Wenbin Li, Jun Luo, ***Yifan Zhu***, Tao Feng. ***Branch, or Layer? Zeroth-Order Optimization for Continual Learning of Vision-Language Models***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), 2026. [Paper](https://arxiv.org/pdf/2506.12409)
 
