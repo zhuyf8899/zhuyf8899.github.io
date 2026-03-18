@@ -115,7 +115,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```ICML 2025``` Mengyang Sun, Yihao Wang, Tao Feng, Dan Zhang, ***Yifan Zhu***, Jie Tang. ***A Stronger Mixture of Low-rank Experts for Fine-Tuning Foundation Models***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2502.15828) [Code](https://github.com/THUDM/MoELoRA_Riemannian)
 
-- ```IJCAI 2025``` Jiangfeng Sun, Kaiwen Xue, Qika Lin, Yufei Qiao, ***Yifan Zhu***, Zhonghong Ou, Meina Song. ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'25), 2025. [Paper (To be released)](#)  [Code](https://github.com/BUPT-CAD-Lab/EEGBrainNetwork)
+- ```IJCAI 2025``` Jiangfeng Sun, Kaiwen Xue, Qika Lin, Yufei Qiao, ***Yifan Zhu***, Zhonghong Ou, Meina Song. ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'25), 2025. [Paper](https://www.ijcai.org/proceedings/2025/367)  [Code](https://github.com/BUPT-CAD-Lab/EEGBrainNetwork)
 
 - ```IEEE TIP``` Qika Lin, Kai He, ***Yifan Zhu***, Fangzhi Xu, Erik Cambria, Mengling Feng. ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. IEEE Transactions on Image Processing, 2025. [Paper](https://ieeexplore.ieee.org/document/10964089)
 
@@ -277,6 +277,10 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - Executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/)
 - Executive member of [CCF Data Governance Development Committee](https://www.ccf.org.cn/sjzlfzwyh/)
+- Member of [CGS Youth Working Committee](https://www.cgn.net.cn/cms/news/100000/0000000067/0000000067.shtml)
+- Member of [CIPS Social Media Processing Technical Committee](http://www.cips-smp.org/smp_member/)
+- Standing member of [CICC Technical Committee on Medical-Engineering Integration](https://www.c2.org.cn/h-pd-43.html)
+
 
 ## Program Committee & Reviewer Service
 
@@ -285,7 +289,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
 - ***Program Committee Member*** of KDD'25-26, WWW'24-26, ICLR'25, ICML'26, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
-- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, IEEE TPDS, IEEE TMM, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, IEEE TCE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
+- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, IEEE TPDS, IEEE TMM, IEEE ToN, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, IEEE TCE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
 
 # Students (with post-graduation position)
 <span class='anchor' id='-students'></span>
