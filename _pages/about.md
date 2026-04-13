@@ -29,11 +29,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2026.04* : &nbsp; I have attained the distinction of CCF Senior Membership.
 - *2026.02* : &nbsp; Congratulations to Wentai,the FlashEKGR paper has been accepted by ICDE'26!
 - *2026.01* : &nbsp; We have been awarded by the First Prize of Wu Wenjun AI Award from Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf)
 - *2026.01* : &nbsp; Congratulations to Huiqiang and Weibin, two paper have been accepted by ICLR'26!
 - *2025.12* : &nbsp; I have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration.
-- *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award from China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)!
+<!-- - *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award from China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)! -->
 <!-- - *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26! -->
 <!--  - *2025.09* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper HyperGraphRAG has been accepted by NeurIPS'25! -->
 <!--  - *2025.07* : &nbsp; Congratulations to Guoxin! One paper has been accepted by ACM MM'25! -->
@@ -79,7 +80,10 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2026
 
-- ```ICDE 2026``` Wentai Zhang, Teng Xu, Weiguang Wang, Junxing Li, Jun Zhang, ***Yifan Zhu***, Haihong E. FlashEKGR: Fast EKGR Models Training. In Proceedings of the 2026 IEEE 32nd International Conference on Data Engineering (ICDE'26), 2026. [Paper (To Be Released)](#)
+- ```IEEE TITS``` Ping Zong, Zhonghong Ou, Member, IEEE, Ran An, Qingnan Zhao, Guoxin Zhang, Kaiwen Xue, Zijing Tian,
+Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing***. IEEE Transactions on Intelligent Transportation Systems, 2026. [Paper (To Be Released)](#)
+
+- ```ICDE 2026``` Wentai Zhang, Teng Xu, Weiguang Wang, Junxing Li, Jun Zhang, ***Yifan Zhu***, Haihong E. ***FlashEKGR: Fast EKGR Models Training***. In Proceedings of the 2026 IEEE 32nd International Conference on Data Engineering (ICDE'26), 2026. [Paper (To Be Released)](#)
 
 - ```ICLR 2026``` ***Yifan Zhu***, Huiqiang Rong, Haoran Luo. ***Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://arxiv.org/abs/2601.21969) [Code](https://github.com/rhq945/Token-Guard)
 
@@ -286,10 +290,10 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ***Area Chair/Senior Program Committee Member*** of ICLR'26, NeurIPS'25, IJCAI'26, CCKS'25
 - ***Local Chair*** of CAIBDA'25
-- ***Track Chair*** of BESC'25
+- ***Track Chair*** of BESC'25-26
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
-- ***Program Committee Member*** of KDD'25-26, WWW'24-26, ICLR'25, ICML'26, NeurIPS'24, CVPR'25, ICCV'25, MM'24-25, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
-- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, IEEE TPDS, IEEE TMM, IEEE ToN, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, IEEE TCE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
+- ***Program Committee Member*** of KDD'25-26, WWW'24-26, ICLR'25, ICML'26, NeurIPS'24, CVPR'25, ICCV'25, MM'24-26, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
+- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, IEEE TPDS, IEEE TMM, IEEE ToN, Science China: Information Sciences,AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, IEEE TCE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
 
 # Students (with post-graduation position)
 <span class='anchor' id='-students'></span>
