@@ -29,7 +29,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
-- *2026.04* : &nbsp; I have attained the distinction of CCF Senior Membership.
+- *2026.04* : &nbsp; I have attained the distinction of both IEEE Senior and CCF Senior Membership.
 - *2026.02* : &nbsp; Congratulations to Wentai,the FlashEKGR paper has been accepted by ICDE'26!
 - *2026.01* : &nbsp; We have been awarded by the First Prize of Wu Wenjun AI Award from Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf)
 - *2026.01* : &nbsp; Congratulations to Huiqiang and Weibin, two paper have been accepted by ICLR'26!
@@ -81,7 +81,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 ## 2026
 
 - ```IEEE TITS``` Ping Zong, Zhonghong Ou, Member, IEEE, Ran An, Qingnan Zhao, Guoxin Zhang, Kaiwen Xue, Zijing Tian,
-Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing***. IEEE Transactions on Intelligent Transportation Systems, 2026. [Paper (To Be Released)](#)
+Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing***. IEEE Transactions on Intelligent Transportation Systems, 2026. [Paper](https://ieeexplore.ieee.org/document/11466345)
 
 - ```ICDE 2026``` Wentai Zhang, Teng Xu, Weiguang Wang, Junxing Li, Jun Zhang, ***Yifan Zhu***, Haihong E. ***FlashEKGR: Fast EKGR Models Training***. In Proceedings of the 2026 IEEE 32nd International Conference on Data Engineering (ICDE'26), 2026. [Paper (To Be Released)](#)
 
@@ -89,9 +89,9 @@ Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Inte
 
 - ```ICLR 2026``` Weibin Liao, Xin Gao, Tianyu Jia, Rihong Qiu, ***Yifan Zhu***, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang. ***LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://openreview.net/pdf?id=q6kXd8Gpfj)
 
-- ```WWW 2026``` Shiyao Peng, Qianhe Zheng, Zhuodi Hao, Zichen Tang, Rongjin Li, Qing Huang, Jiayu Huang, Jiacheng Liu, Yifan Zhu and Haihong. ***Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains***. In Proceedings of the Web Conference (WWW'26), 2026. [Paper (To Be Released)](#) [Code](https://github.com/BUPT-Reasoning-Lab/NeocorRAG)
+- ```WWW 2026``` Shiyao Peng, Qianhe Zheng, Zhuodi Hao, Zichen Tang, Rongjin Li, Qing Huang, Jiayu Huang, Jiacheng Liu, Yifan Zhu and Haihong. ***NeocorRAG: Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains***. In Proceedings of the Web Conference (WWW'26), 2026. [Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792093) [Code](https://github.com/BUPT-Reasoning-Lab/NeocorRAG)
 
-- ```IEEE TAI``` Xingguo Lv, Ningshu Li, Lei Zhao, Kai Xu, Qika Lin, ***Yifan Zhu***, Chuan Zhang, Bin Pu. ***TiPE-SAM: Tiny and Parameter-Efficient SAM for Edge Medical Image Segmentation with Mixture-of-Shape-Experts Priors***. IEEE Transactions on Artificial Intelligence, 2026. [Paper (To Be Released)](#)
+- ```IEEE TAI``` Xingguo Lv, Ningshu Li, Lei Zhao, Kai Xu, Qika Lin, ***Yifan Zhu***, Chuan Zhang, Bin Pu. ***TiPE-SAM: Tiny and Parameter-Efficient SAM for Edge Medical Image Segmentation with Mixture-of-Shape-Experts Priors***. IEEE Transactions on Artificial Intelligence, 2026. [Paper](https://www.computer.org/csdl/journal/ai/5555/01/11397662/2ebvLqzCGqc)
 
 - ```AAAI 2026``` Kaiwen Xue, Chenglong Li, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Shuai Lyu, ***Yifan Zhu***, Zong Ping, Junpeng Ding, Xinyu Liu, Qunlin Chen, Weiwei Qin, Yiran Shen, Jiayi Cen. ***CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26), 2026. [Paper](https://arxiv.org/pdf/2511.13626) [Benchmark](https://kaixuewen.github.io/Crebench)
 
@@ -101,7 +101,7 @@ Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Inte
 
 ## 2025
 
-- ```BIBM 2025``` Bin Pu, Jiewen Yang, Hangcheng Cao, Xingguo Lv, Lei Zhao, Qika Lin, Zhan Gao, ***Yifan Zhu***, Haiyan Chen, and Kenli Li. ***Direct Cardiovascular Disease Diagnosis from Multi-Modal Multi-View Ultrasound via Unified Vision-Language Modeling***. In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM'25), 2025. [Paper (To be released)](#)
+- ```BIBM 2025``` Bin Pu, Jiewen Yang, Hangcheng Cao, Xingguo Lv, Lei Zhao, Qika Lin, Zhan Gao, ***Yifan Zhu***, Haiyan Chen, and Kenli Li. ***Direct Cardiovascular Disease Diagnosis from Multi-Modal Multi-View Ultrasound via Unified Vision-Language Modeling***. In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM'25), 2025. [Paper](https://ieeexplore.ieee.org/abstract/document/11357223)
 
 - ```BESC 2025``` Zheng He, Jiawei Li, Zhonghong Ou, Meina Song, Qika Lin, Kaize Shi, ***Yifan Zhu***. ***Early Detection of Multimodal Hot-Topic Misinformation in User-Generated Content***. In Proceedings of the International Conference on Behavioural and Social Computing (BESC'25), 2025. [Paper (To be released)](#) (***Best Special Session Paper Award***)
 
@@ -314,6 +314,15 @@ Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Inte
 
 其中“XX专精”是指我们所关注的核心技能，强烈建议申请同学在邮件中注明自己掌握以上的技能点，满足其一的申请将被优先处理（如果不满足也不用太担心，以```$709394```开头的邮件都会被及时处理）。
 
+### Class of 2026
+- ***Master students***: 
+  - Xinyu Mu
+  - Dezhi Cui
+- ***Undergraduate students***: 
+  - Maochuan Dou (visiting student from BISTU)
+  - Mohan Zhu (visiting student from BISTU)
+  - Yueran Ding
+
 ### Class of 2025
 - ***Master students***: 
   - Can Lin
@@ -330,7 +339,7 @@ Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Inte
   - Huiqiang Rong
   - Guanting Chen
 - ***Undergraduate students***: 
-  - Yihao Wang (visiting student from BISTU), Master student @ ZJU
+  - Yihao Wang (visiting student from BISTU), PhD student @ ZJU
   - Xinyu Mu (visiting student from BISTU), Master student @ BUPT
 
 ### Class before 2023
