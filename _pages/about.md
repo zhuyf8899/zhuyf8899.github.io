@@ -29,6 +29,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2026.05* : &nbsp; Congratulations to Yu, Haoran, Kevien and Tao for their outstanding works have been accepted by ICML'26!
 - *2026.04* : &nbsp; I have attained the distinction of both IEEE Senior and CCF Senior Membership.
 - *2026.02* : &nbsp; Congratulations to Wentai,the FlashEKGR paper has been accepted by ICDE'26!
 - *2026.01* : &nbsp; We have been awarded by the First Prize of Wu Wenjun AI Award from Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf)
@@ -79,6 +80,14 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 ## 2026
+
+- ```ICML 2026``` Yu Feng, Zhen Tian, Haoran Luo, Xie Yu, Diancheng Cheng, Haoyue Zheng, Shuai Lyu, Ping Zong, Lianyuan Li, Xin Ge, ***Yifan Zhu***. ***Continual GUI Agents***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper (To be released)](#)  [Code (To be released)](#)
+
+- ```ICML 2026``` Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, ***Yifan Zhu***, Tao Feng. ***Continual GUI Agents***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](https://arxiv.org/pdf/2601.20732) [Code](https://github.com/xavierliu34/GUI-AiF)
+
+- ```ICML 2026``` Haoran Luo, Haihong E, Guanting Chen, Qika Lin, Yikai Guo, Fangzhi Xu, Zemin Kuang, Meina Song, Xiaobao Wu, ***Yifan Zhu***, Anh Tuan Luu. ***Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](https://arxiv.org/pdf/2507.21892v1) [Code](https://github.com/LHRLAB/Graph-R1)
+
+- ```ICML 2026``` Kaiwen Xue, Tao Wei, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Yu Feng, ***Yifan Zhu***, Haoran Luo. ***ERGeoBench: A Comprehensive Benchmark for Embodied Reasoning and Geo-localization in Multimodal Large Language Models***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper (To be released)](#)
 
 - ```IEEE TITS``` Ping Zong, Zhonghong Ou, Member, IEEE, Ran An, Qingnan Zhao, Guoxin Zhang, Kaiwen Xue, Zijing Tian,
 Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing***. IEEE Transactions on Intelligent Transportation Systems, 2026. [Paper](https://ieeexplore.ieee.org/document/11466345)
