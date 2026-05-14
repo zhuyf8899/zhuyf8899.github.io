@@ -34,7 +34,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2026.02* : &nbsp; Congratulations to Wentai,the FlashEKGR paper has been accepted by ICDE'26!
 - *2026.01* : &nbsp; We have been awarded by the First Prize of Wu Wenjun AI Award from Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf)
 - *2026.01* : &nbsp; Congratulations to Huiqiang and Weibin, two paper have been accepted by ICLR'26!
-- *2025.12* : &nbsp; I have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration.
+<!-- - *2025.12* : &nbsp; I have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration. -->
 <!-- - *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award from China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)! -->
 <!-- - *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26! -->
 <!--  - *2025.09* : &nbsp; Congratulations to [Haoran](https://lhrlab.github.io/), the paper HyperGraphRAG has been accepted by NeurIPS'25! -->
@@ -81,7 +81,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## 2026
 
-- ```ICML 2026``` Yu Feng, Zhen Tian, Haoran Luo, Xie Yu, Diancheng Cheng, Haoyue Zheng, Shuai Lyu, Ping Zong, Lianyuan Li, Xin Ge, ***Yifan Zhu***. ***Continual GUI Agents***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper (To be released)](#)  [Code (To be released)](#)
+- ```ICML 2026``` Yu Feng, Zhen Tian, Haoran Luo, Xie Yu, Diancheng Cheng, Haoyue Zheng, Shuai Lyu, Ping Zong, Lianyuan Li, Xin Ge, ***Yifan Zhu***. ***HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](http://arxiv.org/abs/2605.05776)  [Code](https://github.com/BUPT-CAD-Lab/HEDP)
 
 - ```ICML 2026``` Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, ***Yifan Zhu***, Tao Feng. ***Continual GUI Agents***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](https://arxiv.org/pdf/2601.20732) [Code](https://github.com/xavierliu34/GUI-AiF)
 
