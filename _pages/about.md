@@ -68,32 +68,32 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 <details open>
 <summary><strong>2026</strong></summary>
 
-### Conference Papers
+## Conference Papers
 
-- `ICML 2026` Yu Feng, Zhen Tian, Haoran Luo, Xie Yu, Diancheng Cheng, Haoyue Zheng, Shuai Lyu, Ping Zong, Lianyuan Li, Xin Ge, ***Yifan Zhu***. ***HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](http://arxiv.org/abs/2605.05776)  [Code](https://github.com/BUPT-CAD-Lab/HEDP)
+- ```ICML 2026``` Yu Feng, Zhen Tian, Haoran Luo, Xie Yu, Diancheng Cheng, Haoyue Zheng, Shuai Lyu, Ping Zong, Lianyuan Li, Xin Ge, ***Yifan Zhu***. ***HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](http://arxiv.org/abs/2605.05776)  [Code](https://github.com/BUPT-CAD-Lab/HEDP)
 
-- `ICML 2026` Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, ***Yifan Zhu***, Tao Feng. ***Continual GUI Agents***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](https://arxiv.org/pdf/2601.20732) [Code](https://github.com/xavierliu34/GUI-AiF)
+- ```ICML 2026``` Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, ***Yifan Zhu***, Tao Feng. ***Continual GUI Agents***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](https://arxiv.org/pdf/2601.20732) [Code](https://github.com/xavierliu34/GUI-AiF)
 
-- `ICML 2026` Haoran Luo, Haihong E, Guanting Chen, Qika Lin, Yikai Guo, Fangzhi Xu, Zemin Kuang, Meina Song, Xiaobao Wu, ***Yifan Zhu***, Anh Tuan Luu. ***Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](https://arxiv.org/pdf/2507.21892v1) [Code](https://github.com/LHRLAB/Graph-R1)
+- ```ICML 2026``` Haoran Luo, Haihong E, Guanting Chen, Qika Lin, Yikai Guo, Fangzhi Xu, Zemin Kuang, Meina Song, Xiaobao Wu, ***Yifan Zhu***, Anh Tuan Luu. ***Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](https://arxiv.org/pdf/2507.21892v1) [Code](https://github.com/LHRLAB/Graph-R1)
 
-- `ICML 2026` Kaiwen Xue, Tao Wei, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Yu Feng, ***Yifan Zhu***, Haoran Luo. ***ERGeoBench: A Comprehensive Benchmark for Embodied Reasoning and Geo-localization in Multimodal Large Language Models***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper (To be released)](#)
+- ```ICML 2026``` Kaiwen Xue, Tao Wei, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Yu Feng, ***Yifan Zhu***, Haoran Luo. ***ERGeoBench: A Comprehensive Benchmark for Embodied Reasoning and Geo-localization in Multimodal Large Language Models***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper (To be released)](#)
 
-- `ICDE 2026` Wentai Zhang, Teng Xu, Weiguang Wang, Junxing Li, Jun Zhang, ***Yifan Zhu***, Haihong E. ***FlashEKGR: Fast EKGR Models Training***. In Proceedings of the 2026 IEEE 32nd International Conference on Data Engineering (ICDE'26), 2026. [Paper (To Be Released)](#)
+- ```ICDE 2026``` Wentai Zhang, Teng Xu, Weiguang Wang, Junxing Li, Jun Zhang, ***Yifan Zhu***, Haihong E. ***FlashEKGR: Fast EKGR Models Training***. In Proceedings of the 2026 IEEE 32nd International Conference on Data Engineering (ICDE'26), 2026. [Paper (To Be Released)](#)
 
-- `ICLR 2026` ***Yifan Zhu***, Huiqiang Rong, Haoran Luo. ***Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://arxiv.org/abs/2601.21969) [Code](https://github.com/rhq945/Token-Guard)
+- ```ICLR 2026``` ***Yifan Zhu***, Huiqiang Rong, Haoran Luo. ***Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://arxiv.org/abs/2601.21969) [Code](https://github.com/rhq945/Token-Guard)
 
-- `ICLR 2026` Weibin Liao, Xin Gao, Tianyu Jia, Rihong Qiu, ***Yifan Zhu***, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang. ***LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://openreview.net/pdf?id=q6kXd8Gpfj)
+- ```ICLR 2026``` Weibin Liao, Xin Gao, Tianyu Jia, Rihong Qiu, ***Yifan Zhu***, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang. ***LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://openreview.net/pdf?id=q6kXd8Gpfj)
 
-- `WWW 2026` Shiyao Peng, Qianhe Zheng, Zhuodi Hao, Zichen Tang, Rongjin Li, Qing Huang, Jiayu Huang, Jiacheng Liu, Yifan Zhu and Haihong. ***NeocorRAG: Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains***. In Proceedings of the Web Conference (WWW'26), 2026. [Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792093) [Code](https://github.com/BUPT-Reasoning-Lab/NeocorRAG)
+- ```WWW 2026``` Shiyao Peng, Qianhe Zheng, Zhuodi Hao, Zichen Tang, Rongjin Li, Qing Huang, Jiayu Huang, Jiacheng Liu, Yifan Zhu and Haihong. ***NeocorRAG: Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains***. In Proceedings of the Web Conference (WWW'26), 2026. [Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792093) [Code](https://github.com/BUPT-Reasoning-Lab/NeocorRAG)
 
 
-### Journal Papers
+## Journal Papers
 
-- `IEEE TITS` Ping Zong, Zhonghong Ou, Member, IEEE, Ran An, Qingnan Zhao, Guoxin Zhang, Kaiwen Xue, Zijing Tian, Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing***. IEEE TITS, 2026. [Paper](https://ieeexplore.ieee.org/document/11466345)
+- ```IEEE TITS``` Ping Zong, Zhonghong Ou, Member, IEEE, Ran An, Qingnan Zhao, Guoxin Zhang, Kaiwen Xue, Zijing Tian, Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing***. IEEE TITS, 2026. [Paper](https://ieeexplore.ieee.org/document/11466345)
 
-- `IEEE TAI` Xingguo Lv, Ningshu Li, Lei Zhao, Kai Xu, Qika Lin, ***Yifan Zhu***, Chuan Zhang, Bin Pu. ***TiPE-SAM: Tiny and Parameter-Efficient SAM for Edge Medical Image Segmentation with Mixture-of-Shape-Experts Priors***. IEEE TAI, 2026. [Paper](https://www.computer.org/csdl/journal/ai/5555/01/11397662/2ebvLqzCGqc)
+- ```IEEE TAI``` Xingguo Lv, Ningshu Li, Lei Zhao, Kai Xu, Qika Lin, ***Yifan Zhu***, Chuan Zhang, Bin Pu. ***TiPE-SAM: Tiny and Parameter-Efficient SAM for Edge Medical Image Segmentation with Mixture-of-Shape-Experts Priors***. IEEE TAI, 2026. [Paper](https://www.computer.org/csdl/journal/ai/5555/01/11397662/2ebvLqzCGqc)
 
-- `INFFUS` Feifei Kou, Ziyan Zhang, Yuhan Yao, Yuxian Zhu, Jiahao Wang, Ruiping Yuan, Yifan Zhu. ***A survey on long-term traffic prediction from the information fusion perspective: Requirements, methods, applications, and outlooks***. Information Fusion, 2026, 127(A):103677. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007493)
+- ```INFFUS``` Feifei Kou, Ziyan Zhang, Yuhan Yao, Yuxian Zhu, Jiahao Wang, Ruiping Yuan, Yifan Zhu. ***A survey on long-term traffic prediction from the information fusion perspective: Requirements, methods, applications, and outlooks***. Information Fusion, 2026, 127(A):103677. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007493)
 
 
 </details>
@@ -101,15 +101,15 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 <details open>
 <summary><strong>2025</strong></summary>
 
-### Conference Papers
+## Conference Papers
 
-- `MM 2025` Guoxin Zhang, Zhonghong Ou, Kaiwen Xue, Jiangfeng Sun, Siyuan Yao, Yiran Shen, Meina Song,  ***Yifan Zhu***. ***DGFSD: Bridging the Gap between Dense and Sparse for FullySparse 3D Object Detection***. In ACM Multimedia, 2025. [Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755552) [Code](https://github.com/Raiden-cn/DGFSD)
+- ```MM 2025``` Guoxin Zhang, Zhonghong Ou, Kaiwen Xue, Jiangfeng Sun, Siyuan Yao, Yiran Shen, Meina Song,  ***Yifan Zhu***. ***DGFSD: Bridging the Gap between Dense and Sparse for FullySparse 3D Object Detection***. In ACM Multimedia, 2025. [Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755552) [Code](https://github.com/Raiden-cn/DGFSD)
 
-- `ICML 2025` Haoran Luo, Haihong E, Yikai Guo, Qika Lin, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, ***Yifan Zhu***, Luu Anh Tuan. ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2501.18922) [Code](https://github.com/BUPT-CAD-Lab/KBQA-o1)
+- ```ICML 2025``` Haoran Luo, Haihong E, Yikai Guo, Qika Lin, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, ***Yifan Zhu***, Luu Anh Tuan. ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2501.18922) [Code](https://github.com/BUPT-CAD-Lab/KBQA-o1)
 
 - ```ICML 2025``` Mengyang Sun, Yihao Wang, Tao Feng, Dan Zhang, ***Yifan Zhu***, Jie Tang. ***A Stronger Mixture of Low-rank Experts for Fine-Tuning Foundation Models***. In Proceedings of the International Conference on Machine Learning (ICML'25), 2025. [Paper](https://arxiv.org/abs/2502.15828) [Code](https://github.com/THUDM/MoELoRA_Riemannian)
 
-- `NeurIPS 2025` Haoran Luo, Haihong E, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, Qika Lin, Yu Feng, Zemin Kuang, Meina Song, ***Yifan Zhu***, Anh Tuan Luu. ***HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation***. In Advances in Neural Information Processing Systems (NeurIPS'25), 2025. [Paper](https://arxiv.org/pdf/2503.21322v2) [Code](https://github.com/BUPT-CAD-Lab/HyperGraphRAG)
+- ```NeurIPS 2025``` Haoran Luo, Haihong E, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, Qika Lin, Yu Feng, Zemin Kuang, Meina Song, ***Yifan Zhu***, Anh Tuan Luu. ***HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation***. In Advances in Neural Information Processing Systems (NeurIPS'25), 2025. [Paper](https://arxiv.org/pdf/2503.21322v2) [Code](https://github.com/BUPT-CAD-Lab/HyperGraphRAG)
 
 - ```IJCAI 2025``` Jiangfeng Sun, Kaiwen Xue, Qika Lin, Yufei Qiao, ***Yifan Zhu***, Zhonghong Ou, Meina Song. ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'25), 2025. [Paper](https://www.ijcai.org/proceedings/2025/367)  [Code](https://github.com/BUPT-CAD-Lab/EEGBrainNetwork)
 
@@ -123,22 +123,22 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```AAAI 2025``` Wenwen Gong, Yangliao Geng, Dan Zhang, ***Yifan Zhu***, Xiaolong Xu, Haolong Xiang, Amin Beheshti, Xuyun Zhang, Lianyong Qi. ***DivGCL: A Graph Contrastive Learning Model for Diverse Recommendation***. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25), 2025, 6(2025): 82-92. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33852) [Code](https://github.com/submission-6077/DivGCL/tree/main)
 
-- `BIBM 2025` Bin Pu, Jiewen Yang, Hangcheng Cao, Xingguo Lv, Lei Zhao, Qika Lin, Zhan Gao, ***Yifan Zhu***, Haiyan Chen, and Kenli Li. ***Direct Cardiovascular Disease Diagnosis from Multi-Modal Multi-View Ultrasound via Unified Vision-Language Modeling***. In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM'25), 2025. [Paper](https://ieeexplore.ieee.org/abstract/document/11357223)
+- ```BIBM 2025``` Bin Pu, Jiewen Yang, Hangcheng Cao, Xingguo Lv, Lei Zhao, Qika Lin, Zhan Gao, ***Yifan Zhu***, Haiyan Chen, and Kenli Li. ***Direct Cardiovascular Disease Diagnosis from Multi-Modal Multi-View Ultrasound via Unified Vision-Language Modeling***. In Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM'25), 2025. [Paper](https://ieeexplore.ieee.org/abstract/document/11357223)
 
-- `EMNLP 2025` Jun Zhang, Haihong E, Tianyi Hu, ***Yifan Zhu***, Meina Song, Haoran Luo. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper](https://aclanthology.org/2025.emnlp-main.782.pdf)
+- ```EMNLP 2025``` Jun Zhang, Haihong E, Tianyi Hu, ***Yifan Zhu***, Meina Song, Haoran Luo. ***Complex Numerical Reasoning with Numerical Semantic Pre-training Framework***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper](https://aclanthology.org/2025.emnlp-main.782.pdf)
 
-- `EMNLP 2025` Kechen Jiao, Zhirui Fang, Jiahao Liu, Bei Li, Qifan Wang, Xinyu Liu, Junhao Ruan, Zhongjian Qiao, ***Yifan Zhu***, Yaxin Xu, Jingang Wang, Xiu Li. ***TCPO: Thought-Centric Preference Optimization for Effective Embodied Decision-making***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper](https://aclanthology.org/2025.emnlp-main.484.pdf)
+- ```EMNLP 2025``` Kechen Jiao, Zhirui Fang, Jiahao Liu, Bei Li, Qifan Wang, Xinyu Liu, Junhao Ruan, Zhongjian Qiao, ***Yifan Zhu***, Yaxin Xu, Jingang Wang, Xiu Li. ***TCPO: Thought-Centric Preference Optimization for Effective Embodied Decision-making***. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25), 2025. [Paper](https://aclanthology.org/2025.emnlp-main.484.pdf)
 
-- `BESC 2025` Zheng He, Jiawei Li, Zhonghong Ou, Meina Song, Qika Lin, Kaize Shi, ***Yifan Zhu***. ***Early Detection of Multimodal Hot-Topic Misinformation in User-Generated Content***. In Proceedings of the International Conference on Behavioural and Social Computing (BESC'25), 2025. [Paper (To be released)](#) (***Best Special Session Paper Award***)
+- ```BESC 2025``` Zheng He, Jiawei Li, Zhonghong Ou, Meina Song, Qika Lin, Kaize Shi, ***Yifan Zhu***. ***Early Detection of Multimodal Hot-Topic Misinformation in User-Generated Content***. In Proceedings of the International Conference on Behavioural and Social Computing (BESC'25), 2025. [Paper (To be released)](#) (***Best Special Session Paper Award***)
 
 
-### Journal Papers
+## Journal Papers
 
-- `IEEE TKDE` Gen Shi, ***Yifan Zhu***, Wenjing Liu, Quanmin Yao, Xuesong Li. ***Heterogeneous Graph-Based Multimodal Brain Network Learning***. IEEE TKDE, 2025, 37(8):4664-4676. [Paper](https://ieeexplore.ieee.org/document/11003156) [Code](https://github.com/shigen97/HeBrainGNN)
+- ```IEEE TKDE``` Gen Shi, ***Yifan Zhu***, Wenjing Liu, Quanmin Yao, Xuesong Li. ***Heterogeneous Graph-Based Multimodal Brain Network Learning***. IEEE TKDE, 2025, 37(8):4664-4676. [Paper](https://ieeexplore.ieee.org/document/11003156) [Code](https://github.com/shigen97/HeBrainGNN)
 
 - ```IEEE TIP``` Qika Lin, Kai He, ***Yifan Zhu***, Fangzhi Xu, Erik Cambria, Mengling Feng. ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. IEEE Transactions on Image Processing, 2025. [Paper](https://ieeexplore.ieee.org/document/10964089)
 
-- ``INFFUS`` Qika Lin, ***Yifan Zhu***, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. ***Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey***. Information Fusion, 2025, 116: 102795. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
+- ```INFFUS``` Qika Lin, ***Yifan Zhu***, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. ***Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey***. Information Fusion, 2025, 116: 102795. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
 
 - ```AI Open``` Zongfu Han, Yu Feng, ***Yifan Zhu***, Zhen Tian, Fangyu Hao, Meina Song. ***FedGPA: Federated Learning with Global Personalized Aggregation***. AI Open, 2025. [Paper](https://www.sciencedirect.com/science/article/pii/S2666651025000063/pdfft?md5=4c47cbd49280b9b7ebb4f813ed5de38f&pid=1-s2.0-S2666651025000063-main.pdf) [Code](https://github.com/BUPT-CAD-Lab/fedgpa2025)
 
@@ -147,7 +147,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ```IEEE TCE``` Kaize Shi, Xueping Peng, ***Yifan Zhu***, Hui He, Kun Yi, Zhendong Niu. ***Multi-KGS: Generating Social Network-Based Meteorological Decision Reports Fusing With Multiple Knowledge***. IEEE Transactions on Consumer Electronics, 2025. [Paper](https://ieeexplore.ieee.org/document/11104825) 
 
 
-### Books
+## Books
 
 - 鄂海红, 朱一凡, 宋美娜, 欧中洪. ***大数据技术基础（第2版）***. 北京邮电大学出版社, 2025. [Book](https://item.jd.com/14943768.html)
 
@@ -156,25 +156,25 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 <details>
 <summary><strong>2024</strong></summary>
 
-### Conference Papers
+## Conference Papers
 
-- `MM 2024` Yu Feng, Zhen Tian, ***Yifan Zhu***, Zongfu Han, Haoran Luo, Guangwei Zhang, Meina Song. ***CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning***. In ACM Multimedia, 2024. [Paper](http://arxiv.org/abs/2407.21043) [Code](https://github.com/dannis97500/CP_Prompt)
+- ```MM 2024``` Yu Feng, Zhen Tian, ***Yifan Zhu***, Zongfu Han, Haoran Luo, Guangwei Zhang, Meina Song. ***CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning***. In ACM Multimedia, 2024. [Paper](http://arxiv.org/abs/2407.21043) [Code](https://github.com/dannis97500/CP_Prompt)
 
-- `NeurIPS 2024` Haoran Luo, Haihong E, Yuhao Yang, Tianyu Yao, Yikai Guo, Zichen Tang, Wentai Zhang, Shiyao Peng, Kaiyang Wan, Meina Song, Wei Lin, ***Yifan Zhu***, Anh Tuan Luu. ***Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction***. In Advances in Neural Information Processing Systems (NeurIPS'24), 2024. [Paper](https://arxiv.org/pdf/2310.05185) [Code](https://github.com/LHRLAB/Text2NKG)
+- ```NeurIPS 2024``` Haoran Luo, Haihong E, Yuhao Yang, Tianyu Yao, Yikai Guo, Zichen Tang, Wentai Zhang, Shiyao Peng, Kaiyang Wan, Meina Song, Wei Lin, ***Yifan Zhu***, Anh Tuan Luu. ***Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction***. In Advances in Neural Information Processing Systems (NeurIPS'24), 2024. [Paper](https://arxiv.org/pdf/2310.05185) [Code](https://github.com/LHRLAB/Text2NKG)
 
-- `ACL 2024` Haoran Luo, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, Guanting Dong, Meina Song, Wei Lin, ***Yifan Zhu***, Luu Anh Tuan. ***ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models***. In Fingdings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24), 2024. [Paper](https://arxiv.org/pdf/2310.08975) [Code](https://github.com/LHRLAB/ChatKBQA) 
+- ```ACL 2024``` Haoran Luo, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, Guanting Dong, Meina Song, Wei Lin, ***Yifan Zhu***, Luu Anh Tuan. ***ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models***. In Fingdings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24), 2024. [Paper](https://arxiv.org/pdf/2310.08975) [Code](https://github.com/LHRLAB/ChatKBQA) 
 
-- `KDD 2024` Fanjin Zhang, Shijie Shi, ***Yifan Zhu***, Bo Chen, Yukuo Cen, Jifan Yu, Yelin Chen, Lulu Wang, Qingfei Zhao, Yuqing Cheng, Tianyi Han, Yuwei An, Dan Zhang, Weng Lam Tam, Kun Cao, Yunhe Pang, Xinyu Guan, Huihui Yuan, Jian Song, XiaoYan Li, Yuxiao Dong, Jie Tang.  ***OAG-Bench: A Human-Curated Benchmark for Academic Graph Mining***. In 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'24), 2024. [Paper](https://arxiv.org/pdf/2402.15810) [Data](https://www.aminer.cn/data/) 
+- ```KDD 2024``` Fanjin Zhang, Shijie Shi, ***Yifan Zhu***, Bo Chen, Yukuo Cen, Jifan Yu, Yelin Chen, Lulu Wang, Qingfei Zhao, Yuqing Cheng, Tianyi Han, Yuwei An, Dan Zhang, Weng Lam Tam, Kun Cao, Yunhe Pang, Xinyu Guan, Huihui Yuan, Jian Song, XiaoYan Li, Yuxiao Dong, Jie Tang.  ***OAG-Bench: A Human-Curated Benchmark for Academic Graph Mining***. In 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'24), 2024. [Paper](https://arxiv.org/pdf/2402.15810) [Data](https://www.aminer.cn/data/) 
 
-### Journal Papers
+## Journal Papers
 
-- `ACM TOIS` Weibin Liao, ***Yifan Zhu***, Yanyan Li, Zhonghong Ou, Xuesong Li.  ***RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation***. ACM Transactions on Information Systems, 2024, 43(1):168. [Paper](https://arxiv.org/pdf/2407.20684) [Data](https://www.aminer.cn/data/) 
+- ```ACM TOIS``` Weibin Liao, ***Yifan Zhu***, Yanyan Li, Zhonghong Ou, Xuesong Li.  ***RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation***. ACM Transactions on Information Systems, 2024, 43(1):168. [Paper](https://arxiv.org/pdf/2407.20684) [Data](https://www.aminer.cn/data/) 
 
-- `ACM TOIS` Dan Zhang, Shaojie Zhen, ***Yifan Zhu***, Huihui Yuan, Jibing Gong, Jie Tang.  ***MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations***. ACM Transactions on Information Systems, 2024， 43(1): 1-26. [Paper](https://dl.acm.org/doi/10.1145/3698193) [Data](https://github.com/THUDM/MCAP) 
+- ```ACM TOIS``` Dan Zhang, Shaojie Zhen, ***Yifan Zhu***, Huihui Yuan, Jibing Gong, Jie Tang.  ***MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations***. ACM Transactions on Information Systems, 2024， 43(1): 1-26. [Paper](https://dl.acm.org/doi/10.1145/3698193) [Data](https://github.com/THUDM/MCAP) 
 
-- `IEEE TCSS` Gen Shi, Yuxiang Yao, ***Yifan Zhu***, Xinyue Lin, Lanxin Ji, Wenjin Liu, Xuesong Li. ***Contrastive Hierarchical Augmentation Learning for Modeling Cognitive and Multimodal Brain Network***. IEEE Transactions on Computational Social Systems, 2024. [Paper](https://doi.org/10.1109/TCSS.2024.3402328) [Code](https://github.com/LeifYaoYuXiang/BrainNetworkCL) 
+- ```IEEE TCSS``` Gen Shi, Yuxiang Yao, ***Yifan Zhu***, Xinyue Lin, Lanxin Ji, Wenjin Liu, Xuesong Li. ***Contrastive Hierarchical Augmentation Learning for Modeling Cognitive and Multimodal Brain Network***. IEEE Transactions on Computational Social Systems, 2024. [Paper](https://doi.org/10.1109/TCSS.2024.3402328) [Code](https://github.com/LeifYaoYuXiang/BrainNetworkCL) 
 
-### Books
+## Books
 
 - 鄂海红, 王冀彬, ***朱一凡***, 尚晶, 宋美娜, 陈乐. ***大数据技术原理与案例应用***. 人民邮电出版社, 2024. [Book](https://item.jd.com/14738174.html)
 
@@ -185,36 +185,36 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ### Conference Papers
 
-- `KDD 2023` ***Yifan Zhu***, Fangpeng Cong, Dan Zhang, Wenwen Gong, Qika Lin, Wenzheng Feng, Yuxiao Dong, and Jie Tang.  ***WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window***. In 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23), 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599551) [Code](https://github.com/THUDM/WinGNN) 
+- ```KDD 2023``` ***Yifan Zhu***, Fangpeng Cong, Dan Zhang, Wenwen Gong, Qika Lin, Wenzheng Feng, Yuxiao Dong, and Jie Tang.  ***WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window***. In 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23), 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599551) [Code](https://github.com/THUDM/WinGNN) 
 
-- `WWW 2023` Dan Zhang, ***Yifan Zhu***, Yuxiao Dong, Yuandong Wang, Wenzheng Feng, Evgeny Kharlamov, Jie Tang. ***ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation***. In Proceedings of the Web Conference 2023 (WWW'23), 759--769. [Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583530) [Code](https://github.com/THUDM/ApeGNN)
+- ```WWW 2023``` Dan Zhang, ***Yifan Zhu***, Yuxiao Dong, Yuandong Wang, Wenzheng Feng, Evgeny Kharlamov, Jie Tang. ***ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation***. In Proceedings of the Web Conference 2023 (WWW'23), 759--769. [Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583530) [Code](https://github.com/THUDM/ApeGNN)
 
-- `ECML-PKDD 2023` Ming Zhou, Wenzheng Feng, ***Yifan Zhu***, Dan Zhang, Yuxiao Dong and Jie Tang. ***Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks***. In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML PKDD), 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_13) (Best student paper award)
+- ```ECML-PKDD 2023``` Ming Zhou, Wenzheng Feng, ***Yifan Zhu***, Dan Zhang, Yuxiao Dong and Jie Tang. ***Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks***. In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML PKDD), 2023. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_13) (Best student paper award)
 
-- `ICDM 2023` Zongzhi Han, Zhonghong Ou, ***Yifan Zhu***, Xiaodong Li, and Meina Song. ***FM-IGNN: Interaction Graph Neural Network with Fine-grained Matching for Session-based Recommendation***. In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2023. [Paper](https://ieeexplore.ieee.org/document/10415758/)
+- ```ICDM 2023``` Zongzhi Han, Zhonghong Ou, ***Yifan Zhu***, Xiaodong Li, and Meina Song. ***FM-IGNN: Interaction Graph Neural Network with Fine-grained Matching for Session-based Recommendation***. In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2023. [Paper](https://ieeexplore.ieee.org/document/10415758/)
 
-### Journal Papers
+## Journal Papers
 
-- `IEEE TKDE` ***Yifan Zhu***, Qika Lin, Hao Lu, Kaize Shi, Donglei Liu, James Chambua, Shanshan Wan, and Zhendong Niu. ***Recommending Learning Objects through Attentive Heterogeneous Graph Convolution and Operation-Aware Neural Network***. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(4):4178-4189. [Paper](https://ieeexplore.ieee.org/doi/abs/10.1109/TKDE.2022.3176813) [Poster](https://ieeexplore.ieee.org/document/10598126)
+- ```IEEE TKDE``` ***Yifan Zhu***, Qika Lin, Hao Lu, Kaize Shi, Donglei Liu, James Chambua, Shanshan Wan, and Zhendong Niu. ***Recommending Learning Objects through Attentive Heterogeneous Graph Convolution and Operation-Aware Neural Network***. IEEE Transactions on Knowledge and Data Engineering, 2023, 35(4):4178-4189. [Paper](https://ieeexplore.ieee.org/doi/abs/10.1109/TKDE.2022.3176813) [Poster](https://ieeexplore.ieee.org/document/10598126)
 
-- `IEEE TNNLS` Gen Shi, ***Yifan Zhu***, Jian K. Liu, Xuesong Li. ***HeGCL: Advance Self-Supervised Learning in Heterogeneous Graph-level Representation***, IEEE Transactions on Neural Networks and Learning Systems, 2023, 35(10): 13914-13925. [Paper](https://ieeexplore.ieee.org/document/10135109)
+- ```IEEE TNNLS``` Gen Shi, ***Yifan Zhu***, Jian K. Liu, Xuesong Li. ***HeGCL: Advance Self-Supervised Learning in Heterogeneous Graph-level Representation***, IEEE Transactions on Neural Networks and Learning Systems, 2023, 35(10): 13914-13925. [Paper](https://ieeexplore.ieee.org/document/10135109)
 
 </details>
 
 <details>
 <summary><strong>2022</strong></summary>
 
-### Conference Papers
+## Conference Papers
 
-- `BIBM 2022` Gen Shi, ***Yifan Zhu***, Fuquan Zhang, Wenjin Liu, Yuxiang Yao, Xuesong Li. ***Fusion Learning of Multimodal Neuroimaging with Weighted Graph AutoEncoder***. In proceedings of the International Conference on Bioinformatics and Biomedicine (BIBM'2022), 2467-2473. [Paper](https://ieeexplore.ieee.org/abstract/document/9995243)
+- ```BIBM 2022``` Gen Shi, ***Yifan Zhu***, Fuquan Zhang, Wenjin Liu, Yuxiang Yao, Xuesong Li. ***Fusion Learning of Multimodal Neuroimaging with Weighted Graph AutoEncoder***. In proceedings of the International Conference on Bioinformatics and Biomedicine (BIBM'2022), 2467-2473. [Paper](https://ieeexplore.ieee.org/abstract/document/9995243)
 
-- `SIGIR 2022` Qika Lin, Jun Liu, Fangzhi Xu, Yudai Pan, ***Yifan Zhu***, Lingling Zhang and Tianzhe Zhao. ***Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction***. In 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'22), 893-903. [Paper](https://dl.acm.org/doi/10.1145/3477495.3531996)
+- ```SIGIR 2022``` Qika Lin, Jun Liu, Fangzhi Xu, Yudai Pan, ***Yifan Zhu***, Lingling Zhang and Tianzhe Zhao. ***Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction***. In 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'22), 893-903. [Paper](https://dl.acm.org/doi/10.1145/3477495.3531996)
 
-- `CIKM 2022` Zepeng Huai, Zhe Wang, ***Yifan Zhu***, Peng Zhang. ***AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query***. In 31st ACM International Conference on Information & Knowledge Management (CIKM'22), 4039-4043. [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557544)
+- ```CIKM 2022``` Zepeng Huai, Zhe Wang, ***Yifan Zhu***, Peng Zhang. ***AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query***. In 31st ACM International Conference on Information & Knowledge Management (CIKM'22), 4039-4043. [Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557544)
 
-### Journal Papers
+## Journal Papers
 
-- `IEEE TITS` Hao Lu, ***Yifan Zhu***, Qika Lin, Tan Wang, Zhendong Niu, Enrique Herrera-Viedma. ***Heterogeneous knowledge learning of predictive academic intelligence in transportation***. IEEE Transactions on Intelligent Transportation Systems, 2022, 23(4):3737-3755. [Paper](https://ieeexplore.ieee.org/abstract/document/9298476/)
+- ```IEEE TITS``` Hao Lu, ***Yifan Zhu***, Qika Lin, Tan Wang, Zhendong Niu, Enrique Herrera-Viedma. ***Heterogeneous knowledge learning of predictive academic intelligence in transportation***. IEEE Transactions on Intelligent Transportation Systems, 2022, 23(4):3737-3755. [Paper](https://ieeexplore.ieee.org/abstract/document/9298476/)
 
 - ```IEEE TCSS``` Tan Wang, ***Yifan Zhu***, Peijun Ye, Weichao Gong, Hao Lu, Hong Mo, Fei-Yue Wang. ***A New Perspective for Computational Systems: Fuzzy Modeling and Reasoning for Social Computing in CPSS***. IEEE Transactions on Computational Social Systems, 2022, 11(1): 101-116. [Paper](https://ieeexplore.ieee.org/abstract/document/9894383)
 
@@ -222,14 +222,14 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 - ```IEEE TCSS``` Donglei Liu, Yong Yuan, Rui Qin, ***Yifan Zhu***, Chunxia Zhang, Zhendong Niu. ***A Local Self-Attention Sentence Model for Answer Selection Task in CQA Systems***. IEEE Transactions on Computational Social Systems, 2022, 10(6): 3283-3294. [Paper](https://ieeexplore.ieee.org/abstract/document/9861392)
 
-- `IEEE TCDS` Gen Shi, ***Yifan Zhu***, Zhensen Chen, Jinyan Liu, Xuesong Li. ***Are Non-image Data Really Necessary for Disease Prediction with Graph Convolutional Networks?***. IEEE Transactions on Cognitive and Developmental Systems, 2022, 15(1):252-260. [Paper](https://ieeexplore.ieee.org/abstract/document/9717290)
+- ```IEEE TCDS``` Gen Shi, ***Yifan Zhu***, Zhensen Chen, Jinyan Liu, Xuesong Li. ***Are Non-image Data Really Necessary for Disease Prediction with Graph Convolutional Networks?***. IEEE Transactions on Cognitive and Developmental Systems, 2022, 15(1):252-260. [Paper](https://ieeexplore.ieee.org/abstract/document/9717290)
 
 </details>
 
 <details>
 <summary><strong>2021</strong></summary>
 
-### Journal Papers
+## Journal Papers
 
 - ```MIA``` ***Yifan Zhu***, Xuesong Li, Yufei Qiao, Ruihong Shang, Gen Shi, Yingying Shang, and Hua Guo. ***Widespread Plasticity of Cognition-Related Brain Networks in Single-Sided Deafness Revealed by Randomized Window-Based Dynamic Functional Connectivity***. Medical Image Analysis, 2021, 73(474):102163. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521002097)
 
@@ -253,32 +253,32 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 <details>
 <summary><strong>2020</strong></summary>
 
-### Journal Papers
+## Journal Papers
 
 - ***Yifan Zhu***, Hao Lu, Ping Qiu, Kaize Shi, James Chambua, Zhendong Niu. ***Heterogeneous teaching evaluation network based offline course recommendation with graph learning and tensor factorization***. Neurocomputing 415, 84-95. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220311723)
 
 - ***Yifan Zhu***, Sifan Zhang, Yinan Li, Hao Lu, Kaize Shi, Zhendong Niu. ***Social weather: A review of crowdsourcing‐assisted meteorological knowledge services through social cyberspace***. Geoscience Data Journal, 2020, 7(1): 61-79. [Paper](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.85)
 
-- `KBS` Kaize Shi, Hao Lu, ***Yifan Zhu***, Zhendong Niu. ***Automatic generation of meteorological briefing by event knowledge guided summarization model***. Knowledge-Based Systems, 2020, 192: 105379. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119306276)
+- ```KBS``` Kaize Shi, Hao Lu, ***Yifan Zhu***, Zhendong Niu. ***Automatic generation of meteorological briefing by event knowledge guided summarization model***. Knowledge-Based Systems, 2020, 192: 105379. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119306276)
 
 </details>
 
 <details>
 <summary><strong>2019</strong></summary>
 
-### Conference Papers
+## Conference Papers
 
-- `ISPA 2019` Yu Mao, ***Yifan Zhu***, Sifan Zhang, Dexiu Zhang, Fuquan Zhang, Xiaozhong Fan. ***Detecting interest-factor influenced abnormal evaluation of teaching via multimodal embedding and priori knowledge based neural network***. In IEEE-ISPA 2019, 1201-1209. [Paper](https://ieeexplore.ieee.org/abstract/document/9047381)
+- ```ISPA 2019``` Yu Mao, ***Yifan Zhu***, Sifan Zhang, Dexiu Zhang, Fuquan Zhang, Xiaozhong Fan. ***Detecting interest-factor influenced abnormal evaluation of teaching via multimodal embedding and priori knowledge based neural network***. In IEEE-ISPA 2019, 1201-1209. [Paper](https://ieeexplore.ieee.org/abstract/document/9047381)
 
 - `ISPA 2019` Yinan Li, Fuquan Zhang, ***Y. Zhu***, S. Zhang, Y. Mao, Z. Niu. ***Chinese Lexical Based Sentiment Analysis Framework in Meteorology***, IEEE-ISPA 2019, 1652-1658. [Paper](https://ieeexplore.ieee.org/abstract/document/9047329)
 
-### Journal Papers
+## Journal Papers
 
 - ***Yifan Zhu***, James Chambua, Hao Lu, Kaize Shi, Zhendong Niu. ***An opinion based cross‐regional meteorological event detection model***. Weather, 2019, 74(2): 51-55. [Paper](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/wea.3295)
 
-- `FGCS` Kaize Shi, Changjin Gong, Hao Lu, ***Yifan Zhu***, Zhendong Niu. ***Wide-grained capsule network with sentence-level feature to detect meteorological event in social network***. Future Generation Computer Systems, 2020, 102:323-332. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19310908)
+- ```FGCS``` Kaize Shi, Changjin Gong, Hao Lu, ***Yifan Zhu***, Zhendong Niu. ***Wide-grained capsule network with sentence-level feature to detect meteorological event in social network***. Future Generation Computer Systems, 2020, 102:323-332. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19310908)
 
-- `ESWA` James Chambua, Zhendong Niu, ***Yifan Zhu***. ***User preferences prediction approach based on embedded deep summaries***. Expert Systems with Applications, 2019, 132: 87-98. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419302775)
+- ```ESWA``` James Chambua, Zhendong Niu, ***Yifan Zhu***. ***User preferences prediction approach based on embedded deep summaries***. Expert Systems with Applications, 2019, 132: 87-98. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419302775)
 
 - Yubing Nie, ***Yifan Zhu***, Qika Lin, Sifan Zhang, Pengfei Shi, Zhendong Niu. ***Academic rising star prediction via scholar’s evaluation model and machine learning techniques***. Scientometrics, 2019, 120(2): 461-476. [Paper](https://link.springer.com/article/10.1007/s11192-019-03131-x)
 
