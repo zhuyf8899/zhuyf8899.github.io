@@ -39,3 +39,22 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+/* Student table: low-key, aligned style used on About page */
+.stu-table{
+  width:100%;
+  border-collapse:collapse;
+  font-size:0.95em;
+  margin-bottom:1rem;
+}
+.stu-table th{
+  background:#f7f7f7;
+  text-align:left;
+  padding:6px 8px;
+  border-bottom:1px solid #e5e5e5;
+}
+.stu-table td{
+  padding:6px 8px;
+  border-bottom:1px solid #f0f0f0;
+}
+.stu-table tr:last-child td{border-bottom:none}
