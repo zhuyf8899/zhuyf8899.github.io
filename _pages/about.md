@@ -378,9 +378,11 @@ However, I received a lot of applications, and I am sorry that I cannot reply to
   <tbody>
     <tr><td>Xinyu Mu</td><td>2026</td><td>Master</td><td></td></tr>
     <tr><td>Dezhi Cui</td><td>2026</td><td>Master</td><td></td></tr>
+    <tr><td>Yifan Zhang</td><td>2026</td><td>Master</td><td></td></tr>
     <tr><td>Maochuan Dou</td><td>2026</td><td>Undergraduate (visiting, BISTU)</td><td></td></tr>
     <tr><td>Mohan Zhu</td><td>2026</td><td>Undergraduate (visiting, BISTU)</td><td></td></tr>
     <tr><td>Yueran Ding</td><td>2026</td><td>Undergraduate</td><td></td></tr>
+    <tr><td>Yichen Xin</td><td>2026</td><td>Undergraduate (visiting, BISTU)</td><td></td></tr>
     <tr><td>Can Lin</td><td>2025</td><td>Master</td><td></td></tr>
     <tr><td>Xu Zeng</td><td>2025</td><td>Master</td><td></td></tr>
     <tr><td>Jiawei Li</td><td>2025</td><td>Master</td><td></td></tr>
@@ -392,6 +394,7 @@ However, I received a lot of applications, and I am sorry that I cannot reply to
     <tr><td>Guanting Chen</td><td>2024</td><td>Master</td><td></td></tr>
     <tr><td>Yihao Wang</td><td>2024</td><td>Undergraduate (visiting, BISTU)</td><td>PhD student @ ZJU</td></tr>
     <tr><td>Xinyu Mu</td><td>2024</td><td>Undergraduate (visiting, BISTU)</td><td>Master student @ BUPT</td></tr>
+    <tr><td>Fangyu Hao</td><td>Before 2023</td><td>PhD (co-advised with Prof. Meina Song)</td><td></td></tr>
     <tr><td><a href="https://lhrlab.github.io/">Dr. Haoran Luo</a></td><td>Before 2023</td><td>PhD (co-advised with Prof. Haihong E)</td><td>PostDoc @ NTU</td></tr>
     <tr><td>Dr. Yu Feng</td><td>Before 2023</td><td>PhD (co-advised with Prof. Meina Song)</td><td>Research Scientist @ China Mobile Research Institute</td></tr>
     <tr><td>Dr. Gen Shi</td><td>Before 2023</td><td>Master (co-advised with Prof. Xuesong Li)</td><td>PhD student @ BUAA → PostDoc @ HUST</td></tr>
