@@ -29,11 +29,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2026.01* : &nbsp; Congratulations to Fangyu and Lyushuai, two paper have been accepted by MM'26!
 - *2026.05* : &nbsp; Congratulations to Yu, Haoran, Kevien and Tao for their outstanding works have been accepted by ICML'26!
 - *2026.04* : &nbsp; I have attained the distinction of both IEEE Senior and CCF Senior Membership.
 - *2026.02* : &nbsp; Congratulations to Wentai,the FlashEKGR paper has been accepted by ICDE'26!
 - *2026.01* : &nbsp; We have been awarded by the First Prize of Wu Wenjun AI Award from Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf)
-- *2026.01* : &nbsp; Congratulations to Huiqiang and Weibin, two paper have been accepted by ICLR'26!
+<!-- - *2026.01* : &nbsp; Congratulations to Huiqiang and Weibin, two paper have been accepted by ICLR'26! -->
 <!-- - *2025.12* : &nbsp; I have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration. -->
 <!-- - *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award from China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)! -->
 <!-- - *2025.09* : &nbsp; Congratulations to Kaiwen and Tao Feng, two paper have been accepted by AAAI'26! -->
@@ -70,30 +71,34 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ### Conference Papers
 
+- ```ACM MM 2026``` Fangyu Hao, Jiayu Yang, ***Yifan Zhu***, Zijun Yu, Qicen Wu, Wang Yunlong, Jiawei Li, Yulin Liu, Xu Zeng, Guanting Chen, Shihao Li, Zhonghong Ou, Meina Song, Mengyang Sun, Haoran Luo, Yu Shi, Yingyi Wang. ***LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment***. In Proceedings of the 34th ACM International Conference on Multimedia. [Paper](https://arxiv.org/abs/2604.06925) [Code](https://github.com/Joker-hfy/LungCURE)
+
+- ```ACM MM 2026``` Shuai Lyu, Yuning Gong, Ruiling Gao, Xiaoran Shang, Zhonghong Ou, Ping Zong, ***Yifan Zhu***, Yuan Sun, Yang Qin, Peng Hu. ***Multi-Branch Policy Optimization for Multimodal Large Language Models***. In Proceedings of the 34th ACM International Conference on Multimedia. [Paper (to be released)](#)
+
 - ```ICML 2026``` Yu Feng, Zhen Tian, Haoran Luo, Xie Yu, Diancheng Cheng, Haoyue Zheng, Shuai Lyu, Ping Zong, Lianyuan Li, Xin Ge, ***Yifan Zhu***. ***HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](http://arxiv.org/abs/2605.05776)  [Code](https://github.com/BUPT-CAD-Lab/HEDP)
 
 - ```ICML 2026``` Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, ***Yifan Zhu***, Tao Feng. ***Continual GUI Agents***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](https://arxiv.org/pdf/2601.20732) [Code](https://github.com/xavierliu34/GUI-AiF)
 
 - ```ICML 2026``` Haoran Luo, Haihong E, Guanting Chen, Qika Lin, Yikai Guo, Fangzhi Xu, Zemin Kuang, Meina Song, Xiaobao Wu, ***Yifan Zhu***, Anh Tuan Luu. ***Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](https://arxiv.org/pdf/2507.21892v1) [Code](https://github.com/LHRLAB/Graph-R1)
 
-- ```ICML 2026``` Kaiwen Xue, Tao Wei, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Yu Feng, ***Yifan Zhu***, Haoran Luo. ***ERGeoBench: A Comprehensive Benchmark for Embodied Reasoning and Geo-localization in Multimodal Large Language Models***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper (To be released)](#)
+- ```ICML 2026``` Kaiwen Xue, Tao Wei, Zhonghong Ou, Guoxin Zhang, Kaoyan Lu, Yu Feng, ***Yifan Zhu***, Haoran Luo. ***ERGeoBench: A Comprehensive Benchmark for Embodied Reasoning and Geo-localization in Multimodal Large Language Models***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](https://arxiv.org/abs/2605.31251) [Data](https://kaixuewen.github.io/ERGeoBench/)
 
-- ```ICDE 2026``` Wentai Zhang, Teng Xu, Weiguang Wang, Junxing Li, Jun Zhang, ***Yifan Zhu***, Haihong E. ***FlashEKGR: Fast EKGR Models Training***. In Proceedings of the 2026 IEEE 32nd International Conference on Data Engineering (ICDE'26), 2026. [Paper (To Be Released)](#)
+- ```ICDE 2026``` Wentai Zhang, Teng Xu, Weiguang Wang, Junxing Li, Jun Zhang, ***Yifan Zhu***, Haihong E. ***FlashEKGR: Fast EKGR Models Training***. In Proceedings of the 2026 IEEE 32nd International Conference on Data Engineering (ICDE'26), 2026. [Paper (To Be Released)](#) [Code](https://github.com/ZHANGWENTAI/FlashEKGR)
 
 - ```ICLR 2026``` ***Yifan Zhu***, Huiqiang Rong, Haoran Luo. ***Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://arxiv.org/abs/2601.21969) [Code](https://github.com/rhq945/Token-Guard)
 
 - ```ICLR 2026``` Weibin Liao, Xin Gao, Tianyu Jia, Rihong Qiu, ***Yifan Zhu***, Yang Lin, Xinyu Ma, Junfeng Zhao, Yasha Wang. ***LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models***. In Proceedings of the International Conference on Learning Representations (ICLR'26), 2026. [Paper](https://openreview.net/pdf?id=q6kXd8Gpfj)
 
-- ```WWW 2026``` Shiyao Peng, Qianhe Zheng, Zhuodi Hao, Zichen Tang, Rongjin Li, Qing Huang, Jiayu Huang, Jiacheng Liu, Yifan Zhu and Haihong. ***NeocorRAG: Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains***. In Proceedings of the Web Conference (WWW'26), 2026. [Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792093) [Code](https://github.com/BUPT-Reasoning-Lab/NeocorRAG)
+- ```WWW 2026``` Shiyao Peng, Qianhe Zheng, Zhuodi Hao, Zichen Tang, Rongjin Li, Qing Huang, Jiayu Huang, Jiacheng Liu, ***Yifan Zhu*** and Haihong. ***NeocorRAG: Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains***. In Proceedings of the Web Conference (WWW'26), 2026. [Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792093) [Code](https://github.com/BUPT-Reasoning-Lab/NeocorRAG)
 
 
 ### Journal Papers
 
-- ```IEEE TITS``` Ping Zong, Zhonghong Ou, Member, IEEE, Ran An, Qingnan Zhao, Guoxin Zhang, Kaiwen Xue, Zijing Tian, Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing***. IEEE TITS, 2026. [Paper](https://ieeexplore.ieee.org/document/11466345)
+- ```IEEE TITS``` Ping Zong, Zhonghong Ou, ***Yifan Zhu***, Ran An, Qingnan Zhao, Guoxin Zhang, Kaiwen Xue, Zijing Tian, Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing***. IEEE TITS, 2026. [Paper](https://ieeexplore.ieee.org/document/11466345)
 
 - ```IEEE TAI``` Xingguo Lv, Ningshu Li, Lei Zhao, Kai Xu, Qika Lin, ***Yifan Zhu***, Chuan Zhang, Bin Pu. ***TiPE-SAM: Tiny and Parameter-Efficient SAM for Edge Medical Image Segmentation with Mixture-of-Shape-Experts Priors***. IEEE TAI, 2026. [Paper](https://www.computer.org/csdl/journal/ai/5555/01/11397662/2ebvLqzCGqc)
 
-- ```INFFUS``` Feifei Kou, Ziyan Zhang, Yuhan Yao, Yuxian Zhu, Jiahao Wang, Ruiping Yuan, Yifan Zhu. ***A survey on long-term traffic prediction from the information fusion perspective: Requirements, methods, applications, and outlooks***. Information Fusion, 2026, 127(A):103677. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007493)
+- ```INFFUS``` Feifei Kou, Ziyan Zhang, Yuhan Yao, Yuxian Zhu, Jiahao Wang, Ruiping Yuan, ***Yifan Zhu***. ***A survey on long-term traffic prediction from the information fusion perspective: Requirements, methods, applications, and outlooks***. Information Fusion, 2026, 127(A):103677. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007493)
 
 
 </details>
@@ -327,7 +332,6 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2025.01 - 2025.12*, ***Guest Editor*** of [Applied Sciences](https://www.mdpi.com/journal/applsci/special_issues/2A91X6650R)
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7)
 - *2022.03 - 2022.12*, ***Guest Editor*** of [Wireless Communications and Mobile Computing](https://www.hindawi.com/journals/wcmc/si/149297/)
-- *2021.10 - 2022.02*, ***Guest Editor*** of [International Journal of Distributed Sensor Networks](https://journals.sagepub.com/page/dsn/collections/special-issues/intelligent-sensing-fusion-and-processing-in-cyber-physical-social-systems)
 
 ## Social Service
 
@@ -365,6 +369,8 @@ However, I received a lot of applications, and I am sorry that I cannot reply to
 - 文档专精（需要提供LaTeX、Markdown等文档项目演示，或者提供自己曾经写作的公文、项目申请书、商业企划书、各类PPT作为支撑）
 其中“XX专精”是指我们所关注的核心技能，强烈建议申请同学在邮件中注明自己掌握以上的技能点，满足其一的申请将被优先处理（如果不满足也不用太担心，以```$709394```开头的邮件都会被优先处理）。
 
+## Students supervised by me
+
 <table class="stu-table">
   <thead>
     <tr><th>Name</th><th>Class</th><th>Role</th><th>Graduation destination</th></tr>
@@ -388,7 +394,7 @@ However, I received a lot of applications, and I am sorry that I cannot reply to
     <tr><td>Xinyu Mu</td><td>2024</td><td>Undergraduate (visiting, BISTU)</td><td>Master student @ BUPT</td></tr>
     <tr><td><a href="https://lhrlab.github.io/">Dr. Haoran Luo</a></td><td>Before 2023</td><td>PhD (co-advised with Prof. Haihong E)</td><td>PostDoc @ NTU</td></tr>
     <tr><td>Dr. Yu Feng</td><td>Before 2023</td><td>PhD (co-advised with Prof. Meina Song)</td><td>Research Scientist @ China Mobile Research Institute</td></tr>
-    <tr><td>Gen Shi</td><td>Before 2023</td><td>Master (co-advised with Prof. Xuesong Li)</td><td>PhD student @ BUAA</td></tr>
-    <tr><td>Weibin Liao</td><td>Before 2023</td><td>Master (co-advised with Prof. Xuesong Li)</td><td>PhD student @ PKU</td></tr>
+    <tr><td>Dr. Gen Shi</td><td>Before 2023</td><td>Master (co-advised with Prof. Xuesong Li)</td><td>PhD student @ BUAA → PostDoc @ HUST</td></tr>
+    <tr><td><a href="https://mrblankness.github.io/">Weibin Liao</a></td><td>Before 2023</td><td>Master (co-advised with Prof. Xuesong Li)</td><td>PhD student @ PKU</td></tr>
   </tbody>
 </table>
