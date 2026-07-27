@@ -1,0 +1,147 @@
+.bibtex-trigger {
+  appearance: none;
+  margin: 0 0 0 0.3rem;
+  padding: 0;
+  border: 0;
+  border-bottom: 1px dotted currentColor;
+  background: transparent;
+  color: #224b8d;
+  font: inherit;
+  line-height: inherit;
+  vertical-align: baseline;
+  cursor: pointer;
+}
+
+.bibtex-trigger:hover,
+.bibtex-trigger:focus-visible {
+  color: #1a386a;
+  border-bottom-style: solid;
+}
+
+.bibtex-trigger:focus-visible,
+.bibtex-copy:focus-visible,
+.bibtex-close:focus-visible {
+  outline: 2px solid #224b8d;
+  outline-offset: 2px;
+}
+
+.bibtex-modal[hidden] {
+  display: none;
+}
+
+.bibtex-modal {
+  position: fixed;
+  z-index: 10000;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+}
+
+.bibtex-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(25, 29, 33, 0.62);
+}
+
+.bibtex-panel {
+  position: relative;
+  width: min(46rem, 100%);
+  max-height: min(80vh, 42rem);
+  overflow: auto;
+  padding: 1.25rem;
+  border-radius: 0.5rem;
+  background: #fff;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.24);
+}
+
+.bibtex-panel__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+.bibtex-panel__title {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.bibtex-close {
+  flex: 0 0 auto;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: #f1f3f4;
+  color: #494e52;
+  font-size: 1.35rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.bibtex-code {
+  display: block;
+  max-height: 50vh;
+  margin: 0;
+  padding: 1rem;
+  overflow: auto;
+  border: 1px solid #d7dadd;
+  border-radius: 0.35rem;
+  background: #f7f8f9;
+  color: #24292f;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.bibtex-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.bibtex-copy {
+  padding: 0.48rem 0.85rem;
+  border: 1px solid #224b8d;
+  border-radius: 0.3rem;
+  background: #224b8d;
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+
+.bibtex-copy:hover {
+  background: #1a386a;
+}
+
+.bibtex-status {
+  min-height: 1.4em;
+  color: #5f666d;
+  font-size: 0.85rem;
+}
+
+body.bibtex-modal-open {
+  overflow: hidden;
+}
+
+@media (max-width: 37.5em) {
+  .bibtex-panel {
+    padding: 1rem;
+  }
+
+  .bibtex-code {
+    font-size: 0.72rem;
+  }
+}
+
+@media print {
+  .bibtex-trigger,
+  .bibtex-modal {
+    display: none !important;
+  }
+}
