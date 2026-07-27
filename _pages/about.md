@@ -319,8 +319,9 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 <span class='anchor' id='-social'></span>
 
 ## Lectures
-- *2025.02-2025.07*, 大数据技术与应用(本科生)
-- *2024.09-2025.01*, *2025.09-2026.01* 大数据与数字经济前沿应用(研究生)
+- *2025.02-*, 大数据技术与应用(本科生)
+- *2024.09-*, 大数据与数字经济前沿应用(研究生)
+- *2025.06-*, Introduction to Big Data (International Program, High School Students)
 - *2024.06*, 推荐系统基础(继续教育生)
 
 
@@ -378,7 +379,6 @@ However, I received a lot of applications, and I am sorry that I cannot reply to
     <tr><th>Name</th><th>Class</th><th>Role</th><th>Graduation destination</th></tr>
   </thead>
   <tbody>
-    <tr><td>Xinyu Mu</td><td>2026</td><td>Master</td><td></td></tr>
     <tr><td>Dezhi Cui</td><td>2026</td><td>Master</td><td></td></tr>
     <tr><td>Yifan Zhang</td><td>2026</td><td>Master</td><td></td></tr>
     <tr><td>Maochuan Dou</td><td>2026</td><td>Undergraduate (visiting, BISTU)</td><td></td></tr>
@@ -390,12 +390,18 @@ However, I received a lot of applications, and I am sorry that I cannot reply to
     <tr><td>Jiawei Li</td><td>2025</td><td>Master</td><td></td></tr>
     <tr><td>Ashish Dotel</td><td>2025</td><td>Master</td><td></td></tr>
     <tr><td>Gharsallah Yassine</td><td>2025</td><td>Master</td><td></td></tr>
-    <tr><td>Xingmin Hu</td><td>2025</td><td>Undergraduate (visiting, CUFE)</td><td></td></tr>
+    <tr><td>Zijun Yu</td><td>2024</td><td>Master (co-advised with Prof. Meina Song)</td><td></td></tr>
+    <tr><td>Xingmin Hu</td><td>2025</td><td>Undergraduate (visiting, CUFE)</td><td>Master Student @ Cornell</td></tr>
     <tr><td>Qingzhi Yu</td><td>2024</td><td>Master</td><td></td></tr>
     <tr><td>Huiqiang Rong</td><td>2024</td><td>Master</td><td></td></tr>
     <tr><td>Guanting Chen</td><td>2024</td><td>Master</td><td></td></tr>
+    <tr><td>Jiayu Yang</td><td>2024</td><td>Master (co-advised with Prof. Meina Song)</td><td></td></tr>
     <tr><td>Yihao Wang</td><td>2024</td><td>Undergraduate (visiting, BISTU)</td><td>PhD student @ ZJU</td></tr>
-    <tr><td>Xinyu Mu</td><td>2024</td><td>Undergraduate (visiting, BISTU)</td><td>Master student @ BUPT</td></tr>
+    <tr><td>Xinyu Mu</td><td>2024</td><td>Undergraduate (visiting, BISTU), Master</td><td></td></tr>
+    <tr><td>Xinyue Lin</td><td>2023</td><td>Master (co-advised with Prof. Meina Song)</td><td>Engineer @ NCET</td></tr>
+    <tr><td>Jingjing Guo</td><td>Before 2023</td><td>Master (co-advised with Prof. Meina Song)</td><td>Engineer @ Second Institute of CASTC</td></tr>
+    <tr><td>Zongfu Han</td><td>Before 2023</td><td>Master (co-advised with Prof. Meina Song)</td><td>Algorithm Engineer @ Meituan</td></tr>
+    <tr><td>Zheng He</td><td>Before 2023</td><td>Master (co-advised with Prof. Meina Song)</td><td>Officer @ Beijing Police</td></tr>
     <tr><td>Fangyu Hao</td><td>Before 2023</td><td>PhD (co-advised with Prof. Meina Song)</td><td></td></tr>
     <tr><td><a href="https://lhrlab.github.io/">Dr. Haoran Luo</a></td><td>Before 2023</td><td>PhD (co-advised with Prof. Haihong E)</td><td>PostDoc @ NTU</td></tr>
     <tr><td>Dr. Yu Feng</td><td>Before 2023</td><td>PhD (co-advised with Prof. Meina Song)</td><td>Research Scientist @ China Mobile Research Institute</td></tr>
