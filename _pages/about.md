@@ -71,9 +71,13 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ### Conference Papers
 
-- ```ACM MM 2026``` Fangyu Hao, Jiayu Yang, ***Yifan Zhu***, Zijun Yu, Qicen Wu, Wang Yunlong, Jiawei Li, Yulin Liu, Xu Zeng, Guanting Chen, Shihao Li, Zhonghong Ou, Meina Song, Mengyang Sun, Haoran Luo, Yu Shi, Yingyi Wang. ***LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment***. In Proceedings of the 34th ACM International Conference on Multimedia. [Paper](https://arxiv.org/abs/2604.06925) [Code](https://github.com/Joker-hfy/LungCURE) <button type="button" class="bibtex-trigger" data-bibtex-trigger>BibTeX</button>
+- ```EMNLP 2026``` Weibin Liao, Jingwen Liu, Rihong Qiu, Xin Gao, Xinyu Ma, Hongxin Ding, Yue Fang, ***Yifan Zhu***, Yuheng Huang, Junfeng Zhao, Yasha Wang. SchemaToken: Tokenizing Database Schemas for Efficient and Robust Text-to-SQL Linking. In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26), 2026. [Paper (to be released)](#) <button type="button" class="bibtex-trigger" data-bibtex-trigger>BibTeX</button>
 
-- ```ACM MM 2026``` Shuai Lyu, Yuning Gong, Ruiling Gao, Xiaoran Shang, Zhonghong Ou, Ping Zong, ***Yifan Zhu***, Yuan Sun, Yang Qin, Peng Hu. ***Multi-Branch Policy Optimization for Multimodal Large Language Models***. In Proceedings of the 34th ACM International Conference on Multimedia. [Paper (to be released)](#) <button type="button" class="bibtex-trigger" data-bibtex-trigger>BibTeX</button>
+- ```ICDM 2026``` Wenqi Xue, ***Yifan Zhu***, Can Lin, Yuanjian Zhang, Zhonghong Ou, and Meina Song. FedAsym: Modality Asymmetric Federated Cross Modal Representation Mining from Heterogeneous Image Text Data. In Proceedings of the 2026 IEEE International Conference on Data Mining (ICDM'26), 2026. [Paper (to be released)](#) <button type="button" class="bibtex-trigger" data-bibtex-trigger>BibTeX</button>
+
+- ```MM 2026``` Fangyu Hao, Jiayu Yang, ***Yifan Zhu***, Zijun Yu, Qicen Wu, Wang Yunlong, Jiawei Li, Yulin Liu, Xu Zeng, Guanting Chen, Shihao Li, Zhonghong Ou, Meina Song, Mengyang Sun, Haoran Luo, Yu Shi, Yingyi Wang. ***LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment***. In Proceedings of the 34th ACM International Conference on Multimedia. [Paper](https://arxiv.org/abs/2604.06925) [Code](https://github.com/Joker-hfy/LungCURE) <button type="button" class="bibtex-trigger" data-bibtex-trigger>BibTeX</button>
+
+- ```MM 2026``` Shuai Lyu, Yuning Gong, Ruiling Gao, Xiaoran Shang, Zhonghong Ou, Ping Zong, ***Yifan Zhu***, Yuan Sun, Yang Qin, Peng Hu. ***Multi-Branch Policy Optimization for Multimodal Large Language Models***. In Proceedings of the 34th ACM International Conference on Multimedia. [Paper (to be released)](#) <button type="button" class="bibtex-trigger" data-bibtex-trigger>BibTeX</button>
 
 - ```ICML 2026``` Yu Feng, Zhen Tian, Haoran Luo, Xie Yu, Diancheng Cheng, Haoyue Zheng, Shuai Lyu, Ping Zong, Lianyuan Li, Xin Ge, ***Yifan Zhu***. ***HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning***. In Proceedings of the Forty-third International Conference on Machine Learning (ICML'26), 2026. [Paper](http://arxiv.org/abs/2605.05776)  [Code](https://github.com/BUPT-CAD-Lab/HEDP) <button type="button" class="bibtex-trigger" data-bibtex-trigger>BibTeX</button>
 
@@ -95,6 +99,8 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 
 ### Journal Papers
+
+- ```IJCV``` Wei Li, Hangjie Yuan, Zixiang Zhao, ***Yifan Zhu***, Aojun Lu, Tao Feng, Yanan Sun. C-Flat++: Towards a More Efficient and Powerful Framework for Continual Learning. International Journal of Computer Vision, 2026. [Paper](https://arxiv.org/abs/2508.18860) [Code](https://github.com/WanNaa/C-Flat) <button type="button" class="bibtex-trigger" data-bibtex-trigger>BibTeX</button>
 
 - ```IEEE TITS``` Ping Zong, Zhonghong Ou, ***Yifan Zhu***, Ran An, Qingnan Zhao, Guoxin Zhang, Kaiwen Xue, Zijing Tian, Shuai Lyu, Yiran Shen, Sihao He, ***Yifan Zhu***. ***Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing***. IEEE Transactions on Intelligent Transportation Systems, 2026. [Paper](https://ieeexplore.ieee.org/document/11466345) <button type="button" class="bibtex-trigger" data-bibtex-trigger>BibTeX</button>
 
@@ -315,7 +321,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - *2016.09 - 2021.06*, Ph.D. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml2/rjznyrjgcyjs2/22092bcf20214631a66541a276d19b5d.htm))
 - *2012.09 - 2016.06*, B.E. at Computer School, Beijing Information Science & Technology University, Beijing, China. 
 
-# 🎤 Lecture, Talk, and Services
+# 🎤 Lecture and Services
 <span class='anchor' id='-social'></span>
 
 ## Lectures
@@ -347,12 +353,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 
 ## Program Committee & Reviewer Service
 
-- ***Area Chair/Senior Program Committee Member*** of ICLR'26, NeurIPS'25, IJCAI'26, CCKS'25
-- ***Local Chair*** of CAIBDA'25
-- ***Track Chair*** of BESC'25-26
+- ***Area Chair/Senior Program Committee Member*** of ICLR'26-27, NeurIPS'25-26, IJCAI'26, CCKS'25
+- ***Local Chair and Steering Committee Member*** of CAIBDA'25, BESC'26
+- ***Track Chair*** of BESC'25
 - ***Session Chair*** of IEEE-ISPA'19, BESC'24.
-- ***Program Committee Member*** of KDD'25-26, WWW'24-26, ICLR'25-26, ICML'26, NeurIPS'24, CVPR'25, ICCV'25, MM'24-26, AAAI'22-26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25
-- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, IEEE TPDS, IEEE TMM, IEEE ToN, Science China: Information Sciences,AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, IEEE TCE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
+- ***Program Committee Member*** of KDD'25-26, WWW'24-26, ICLR'25-26, ICML'26, NeurIPS'24, CVPR'25, ICCV'25, MM'24-26, AAAI'22-27, ACL'25-26, EMNLP'26, IJCAI'23-25, ECML-PKDD'22, ICWSM'24-25, AISTATS'25, EAAI'25, PRCV'25-26
+- ***Reviewer*** of IEEE TPAMI, IEEE TDSC, ACM TOIS, IEEE TKDE, IEEE TMC, IEEE TIFS, IEEE TPDS, IEEE TMM, IEEE ToN, Science China: Information Sciences, AI Open, IEEE TITS, ACM TKDD, IEEE TNNLS, IEEE TSMC, IEEE TII, IEEE TEVC, Information Sciences, IEEE TAFFC, ACM ToMM, IEEE TASLP, IP&M, Human Brain Mapping, IEEE TBD, IEEE TCSS, IEEE IoTJ, IEEE TNSE, IEEE TCDS, IEEE TALLIP, IEEE TLT, ACM TALLIP, IEEE TETCI, IEEE TNSRE, IEEE TCE, Expert System with Applications, Computational Intelligence, Scientometics, Neurocomputing, Network: Computation in Neural Systems, Frontiers of Computer Science, IEEE Journal of Biomedical and Health Informatics, IEEE Communications Magazine.
 
 # Students (Graduation destinations)
 <span class='anchor' id='-students'></span>
@@ -380,6 +386,7 @@ However, I received a lot of applications, and I am sorry that I cannot reply to
   </thead>
   <tbody>
     <tr><td>Dezhi Cui</td><td>2026</td><td>Master</td><td></td></tr>
+    <tr><td>Junwei Zhao</td><td>2026</td><td>Master</td><td></td></tr>
     <tr><td>Yifan Zhang</td><td>2026</td><td>Master</td><td></td></tr>
     <tr><td>Maochuan Dou</td><td>2026</td><td>Undergraduate (visiting, BISTU)</td><td></td></tr>
     <tr><td>Mohan Zhu</td><td>2026</td><td>Undergraduate (visiting, BISTU)</td><td></td></tr>
