@@ -1,0 +1,803 @@
+# Human-editable BibTeX records used by the buttons on _pages/about.md.
+# Keep each YAML key in sync with the corresponding data-bibtex-key.
+# Use the literal block format below so every BibTeX field stays readable.
+# The sync script preserves existing records and only generates missing ones.
+
+Liao2026SchemaToken: |-
+  @inproceedings{Liao2026SchemaToken,
+    author = {Weibin Liao and Jingwen Liu and Rihong Qiu and Xin Gao and Xinyu Ma and Hongxin Ding and Yue Fang and Yifan Zhu and Yuheng Huang and Junfeng Zhao and Yasha Wang},
+    title = {{SchemaToken: Tokenizing Database Schemas for Efficient and Robust Text-to-SQL Linking}},
+    booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP'26)},
+    year = {2026}
+  }
+
+Xue2026FedAsym: |-
+  @inproceedings{Xue2026FedAsym,
+    author = {Wenqi Xue and Yifan Zhu and Can Lin and Yuanjian Zhang and Zhonghong Ou and Meina Song},
+    title = {{FedAsym: Modality Asymmetric Federated Cross Modal Representation Mining from Heterogeneous Image Text Data}},
+    booktitle = {Proceedings of the 2026 IEEE International Conference on Data Mining (ICDM'26)},
+    year = {2026}
+  }
+
+Hao2026LungCURE: |-
+  @inproceedings{Hao2026LungCURE,
+    author = {Fangyu Hao and Jiayu Yang and Yifan Zhu and Zijun Yu and Qicen Wu and Wang Yunlong and Jiawei Li and Yulin Liu and Xu Zeng and Guanting Chen and Shihao Li and Zhonghong Ou and Meina Song and Mengyang Sun and Haoran Luo and Yu Shi and Yingyi Wang},
+    title = {{LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment}},
+    booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
+    year = {2026},
+    url = {https://arxiv.org/abs/2604.06925}
+  }
+
+Lyu2026Multi: |-
+  @inproceedings{Lyu2026Multi,
+    author = {Shuai Lyu and Yuning Gong and Ruiling Gao and Xiaoran Shang and Zhonghong Ou and Ping Zong and Yifan Zhu and Yuan Sun and Yang Qin and Peng Hu},
+    title = {{Multi-Branch Policy Optimization for Multimodal Large Language Models}},
+    booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
+    year = {2026}
+  }
+
+Feng2026HEDP: |-
+  @inproceedings{Feng2026HEDP,
+    author = {Yu Feng and Zhen Tian and Haoran Luo and Xie Yu and Diancheng Cheng and Haoyue Zheng and Shuai Lyu and Ping Zong and Lianyuan Li and Xin Ge and Yifan Zhu},
+    title = {{HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning}},
+    booktitle = {Proceedings of the Forty-third International Conference on Machine Learning (ICML'26)},
+    year = {2026},
+    url = {http://arxiv.org/abs/2605.05776}
+  }
+
+Liu2026Continual: |-
+  @inproceedings{Liu2026Continual,
+    author = {Ziwei Liu and Borui Kang and Hangjie Yuan and Zixiang Zhao and Wei Li and Yifan Zhu and Tao Feng},
+    title = {{Continual GUI Agents}},
+    booktitle = {Proceedings of the Forty-third International Conference on Machine Learning (ICML'26)},
+    year = {2026},
+    url = {https://arxiv.org/pdf/2601.20732}
+  }
+
+Luo2026Graph: |-
+  @inproceedings{Luo2026Graph,
+    author = {Haoran Luo and Haihong E and Guanting Chen and Qika Lin and Yikai Guo and Fangzhi Xu and Zemin Kuang and Meina Song and Xiaobao Wu and Yifan Zhu and Anh Tuan Luu},
+    title = {{Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning}},
+    booktitle = {Proceedings of the Forty-third International Conference on Machine Learning (ICML'26)},
+    year = {2026},
+    url = {https://arxiv.org/pdf/2507.21892v1}
+  }
+
+Xue2026ERGeoBench: |-
+  @inproceedings{Xue2026ERGeoBench,
+    author = {Kaiwen Xue and Tao Wei and Zhonghong Ou and Guoxin Zhang and Kaoyan Lu and Yu Feng and Yifan Zhu and Haoran Luo},
+    title = {{ERGeoBench: A Comprehensive Benchmark for Embodied Reasoning and Geo-localization in Multimodal Large Language Models}},
+    booktitle = {Proceedings of the Forty-third International Conference on Machine Learning (ICML'26)},
+    year = {2026},
+    url = {https://arxiv.org/abs/2605.31251}
+  }
+
+Zhang2026FlashEKGR: |-
+  @inproceedings{Zhang2026FlashEKGR,
+    author = {Wentai Zhang and Teng Xu and Weiguang Wang and Junxing Li and Jun Zhang and Yifan Zhu and Haihong E},
+    title = {{FlashEKGR: Fast EKGR Models Training}},
+    booktitle = {Proceedings of the 2026 IEEE 32nd International Conference on Data Engineering (ICDE'26)},
+    year = {2026}
+  }
+
+Zhu2026Token: |-
+  @inproceedings{Zhu2026Token,
+    author = {Yifan Zhu and Huiqiang Rong and Haoran Luo},
+    title = {{Token-Guard: Towards Token-Level Hallucination Control via Self-Checking Decoding}},
+    booktitle = {Proceedings of the International Conference on Learning Representations (ICLR'26)},
+    year = {2026},
+    url = {https://arxiv.org/abs/2601.21969}
+  }
+
+Liao2026LearNAT: |-
+  @inproceedings{Liao2026LearNAT,
+    author = {Weibin Liao and Xin Gao and Tianyu Jia and Rihong Qiu and Yifan Zhu and Yang Lin and Xinyu Ma and Junfeng Zhao and Yasha Wang},
+    title = {{LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models}},
+    booktitle = {Proceedings of the International Conference on Learning Representations (ICLR'26)},
+    year = {2026},
+    url = {https://openreview.net/pdf?id=q6kXd8Gpfj}
+  }
+
+Peng2026NeocorRAG: |-
+  @inproceedings{Peng2026NeocorRAG,
+    author = {Shiyao Peng and Qianhe Zheng and Zhuodi Hao and Zichen Tang and Rongjin Li and Qing Huang and Jiayu Huang and Jiacheng Liu and Yifan Zhu and Haihong E},
+    title = {{NeocorRAG: Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains}},
+    booktitle = {Proceedings of the Web Conference (WWW'26)},
+    year = {2026},
+    doi = {10.1145/3774904.3792093},
+    url = {https://dl.acm.org/doi/abs/10.1145/3774904.3792093}
+  }
+
+Xue2026CreBench: |-
+  @inproceedings{Xue2026CreBench,
+    author = {Kaiwen Xue and Chenglong Li and Zhonghong Ou and Guoxin Zhang and Kaoyan Lu and Shuai Lyu and Yifan Zhu and Ping Zong and Junpeng Ding and Xinyu Liu and Qunlin Chen and Weiwei Qin and Yiran Shen and Jiayi Cen},
+    title = {{CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product}},
+    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'26)},
+    year = {2026},
+    url = {https://arxiv.org/pdf/2511.13626}
+  }
+
+Li2026C: |-
+  @article{Li2026C,
+    author = {Wei Li and Hangjie Yuan and Zixiang Zhao and Yifan Zhu and Aojun Lu and Tao Feng and Yanan Sun},
+    title = {{C-Flat++: Towards a More Efficient and Powerful Framework for Continual Learning}},
+    journal = {International Journal of Computer Vision},
+    year = {2026},
+    url = {https://arxiv.org/abs/2508.18860}
+  }
+
+Zong2026Satellite: |-
+  @article{Zong2026Satellite,
+    author = {Ping Zong and Zhonghong Ou and Yifan Zhu and Ran An and Qingnan Zhao and Guoxin Zhang and Kaiwen Xue and Zijing Tian and Shuai Lyu and Yiran Shen and Sihao He},
+    title = {{Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing}},
+    journal = {IEEE Transactions on Intelligent Transportation Systems},
+    year = {2026},
+    url = {https://ieeexplore.ieee.org/document/11466345}
+  }
+
+Lv2026TiPE: |-
+  @article{Lv2026TiPE,
+    author = {Xingguo Lv and Ningshu Li and Lei Zhao and Kai Xu and Qika Lin and Yifan Zhu and Chuan Zhang and Bin Pu},
+    title = {{TiPE-SAM: Tiny and Parameter-Efficient SAM for Edge Medical Image Segmentation with Mixture-of-Shape-Experts Priors}},
+    journal = {IEEE Transactions on Artificial Intelligence},
+    year = {2026},
+    url = {https://www.computer.org/csdl/journal/ai/5555/01/11397662/2ebvLqzCGqc}
+  }
+
+Kou2026survey: |-
+  @article{Kou2026survey,
+    author = {Feifei Kou and Ziyan Zhang and Yuhan Yao and Yuxian Zhu and Jiahao Wang and Ruiping Yuan and Yifan Zhu},
+    title = {{A survey on long-term traffic prediction from the information fusion perspective: Requirements, methods, applications, and outlooks}},
+    journal = {Information Fusion},
+    year = {2026},
+    volume = {127},
+    number = {A},
+    pages = {103677},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S1566253525007493}
+  }
+
+Zhang2025DGFSD: |-
+  @inproceedings{Zhang2025DGFSD,
+    author = {Guoxin Zhang and Zhonghong Ou and Kaiwen Xue and Jiangfeng Sun and Siyuan Yao and Yiran Shen and Meina Song and Yifan Zhu},
+    title = {{DGFSD: Bridging the Gap between Dense and Sparse for FullySparse 3D Object Detection}},
+    booktitle = {ACM Multimedia},
+    year = {2025},
+    doi = {10.1145/3746027.3755552},
+    url = {https://dl.acm.org/doi/abs/10.1145/3746027.3755552}
+  }
+
+Luo2025KBQA: |-
+  @inproceedings{Luo2025KBQA,
+    author = {Haoran Luo and Haihong E and Yikai Guo and Qika Lin and Xiaobao Wu and Xinyu Mu and Wenhao Liu and Meina Song and Yifan Zhu and Luu Anh Tuan},
+    title = {{KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search}},
+    booktitle = {Proceedings of the International Conference on Machine Learning (ICML'25)},
+    year = {2025},
+    url = {https://arxiv.org/abs/2501.18922}
+  }
+
+Sun2025Stronger: |-
+  @inproceedings{Sun2025Stronger,
+    author = {Mengyang Sun and Yihao Wang and Tao Feng and Dan Zhang and Yifan Zhu and Jie Tang},
+    title = {{A Stronger Mixture of Low-rank Experts for Fine-Tuning Foundation Models}},
+    booktitle = {Proceedings of the International Conference on Machine Learning (ICML'25)},
+    year = {2025},
+    url = {https://arxiv.org/abs/2502.15828}
+  }
+
+Luo2025HyperGraphRAG: |-
+  @inproceedings{Luo2025HyperGraphRAG,
+    author = {Haoran Luo and Haihong E and Guanting Chen and Yandan Zheng and Xiaobao Wu and Yikai Guo and Qika Lin and Yu Feng and Zemin Kuang and Meina Song and Yifan Zhu and Anh Tuan Luu},
+    title = {{HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation}},
+    booktitle = {Advances in Neural Information Processing Systems (NeurIPS'25)},
+    year = {2025},
+    url = {https://arxiv.org/pdf/2503.21322v2}
+  }
+
+Sun2025Recognizing: |-
+  @inproceedings{Sun2025Recognizing,
+    author = {Jiangfeng Sun and Kaiwen Xue and Qika Lin and Yufei Qiao and Yifan Zhu and Zhonghong Ou and Meina Song},
+    title = {{Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding}},
+    booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'25)},
+    year = {2025},
+    url = {https://www.ijcai.org/proceedings/2025/367}
+  }
+
+Feng2025PM: |-
+  @inproceedings{Feng2025PM,
+    author = {Yu Feng and Yangliao Geng and Yifan Zhu and Zongfu Han and Xie Yu and Kaiwen Xue and Haoran Luo and Mengyang Sun and Guangwei Zhang and Meina Song},
+    title = {{PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning}},
+    booktitle = {Proceedings of the Web Conference (WWW'25)},
+    year = {2025},
+    url = {https://arxiv.org/abs/2502.00354}
+  }
+
+Li2025INFER: |-
+  @inproceedings{Li2025INFER,
+    author = {Ningyuan Li and Haihong E and Tianyu Yao and Tianyi Hu and Yuhan Li and Haoran Luo and Meina Song and Yifan Zhu},
+    title = {{INFER: A Neural-symbolic Model For Extrapolation Reasoning on Temporal Knowledge Graph}},
+    booktitle = {Proceedings of the International Conference on Learning Representations (ICLR'25)},
+    year = {2025},
+    url = {https://openreview.net/pdf?id=ExHUtB2vnz}
+  }
+
+Ou2025LS: |-
+  @inproceedings{Ou2025LS,
+    author = {Zhonghong Ou and Xiao Zhang and Yifan Zhu and Shuai Lv and Jiahao Liu and Tu Ao},
+    title = {{LS-TGNN: Long and Short-Term Temporal Graph Neural Network for Session-Based Recommendation}},
+    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25)},
+    year = {2025},
+    url = {https://ojs.aaai.org/index.php/AAAI/article/view/33354}
+  }
+
+Lyu2025TSVC: |-
+  @inproceedings{Lyu2025TSVC,
+    author = {Shuai Lyu and Zijing Tian and Zhonghong Ou and Yifan Zhu and Xiao Zhang and HaQiankun and Haoran Luo and Meina Song},
+    title = {{TSVC: Tripartite Learning with Semantic Variation Consistency for Robust Image-Text Retrieval}},
+    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25)},
+    year = {2025},
+    url = {https://ojs.aaai.org/index.php/AAAI/article/view/34121}
+  }
+
+Gong2025DivGCL: |-
+  @inproceedings{Gong2025DivGCL,
+    author = {Wenwen Gong and Yangliao Geng and Dan Zhang and Yifan Zhu and Xiaolong Xu and Haolong Xiang and Amin Beheshti and Xuyun Zhang and Lianyong Qi},
+    title = {{DivGCL: A Graph Contrastive Learning Model for Diverse Recommendation}},
+    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'25)},
+    year = {2025},
+    pages = {82--92},
+    url = {https://ojs.aaai.org/index.php/AAAI/article/view/33852}
+  }
+
+Pu2025Direct: |-
+  @inproceedings{Pu2025Direct,
+    author = {Bin Pu and Jiewen Yang and Hangcheng Cao and Xingguo Lv and Lei Zhao and Qika Lin and Zhan Gao and Yifan Zhu and Haiyan Chen and Kenli Li},
+    title = {{Direct Cardiovascular Disease Diagnosis from Multi-Modal Multi-View Ultrasound via Unified Vision-Language Modeling}},
+    booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM'25)},
+    year = {2025},
+    url = {https://ieeexplore.ieee.org/abstract/document/11357223}
+  }
+
+Zhang2025Complex: |-
+  @inproceedings{Zhang2025Complex,
+    author = {Jun Zhang and Haihong E and Tianyi Hu and Yifan Zhu and Meina Song and Haoran Luo},
+    title = {{Complex Numerical Reasoning with Numerical Semantic Pre-training Framework}},
+    booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25)},
+    year = {2025},
+    url = {https://aclanthology.org/2025.emnlp-main.782.pdf}
+  }
+
+Jiao2025TCPO: |-
+  @inproceedings{Jiao2025TCPO,
+    author = {Kechen Jiao and Zhirui Fang and Jiahao Liu and Bei Li and Qifan Wang and Xinyu Liu and Junhao Ruan and Zhongjian Qiao and Yifan Zhu and Yaxin Xu and Jingang Wang and Xiu Li},
+    title = {{TCPO: Thought-Centric Preference Optimization for Effective Embodied Decision-making}},
+    booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25)},
+    year = {2025},
+    url = {https://aclanthology.org/2025.emnlp-main.484.pdf}
+  }
+
+He2025Early: |-
+  @inproceedings{He2025Early,
+    author = {Zheng He and Jiawei Li and Zhonghong Ou and Meina Song and Qika Lin and Kaize Shi and Yifan Zhu},
+    title = {{Early Detection of Multimodal Hot-Topic Misinformation in User-Generated Content}},
+    booktitle = {Proceedings of the International Conference on Behavioural and Social Computing (BESC'25)},
+    year = {2025},
+    url = {https://books.google.co.jp/books?hl=en\&lr=\&id=zD3bEQAAQBAJ\&oi=fnd\&pg=PA164\&dq=2024YFC3308500\&ots=BW5G6fUxR6\&sig=Yx606-Lk60PYcXD9xdUUqg\_t96E\&redir\_esc=y\#v=onepage\&q=2024YFC3308500\&f=false}
+  }
+
+Shi2025Heterogeneous: |-
+  @article{Shi2025Heterogeneous,
+    author = {Gen Shi and Yifan Zhu and Wenjing Liu and Quanmin Yao and Xuesong Li},
+    title = {{Heterogeneous Graph-Based Multimodal Brain Network Learning}},
+    journal = {IEEE TKDE},
+    year = {2025},
+    volume = {37},
+    number = {8},
+    pages = {4664--4676},
+    url = {https://ieeexplore.ieee.org/document/11003156}
+  }
+
+Lin2025Cross: |-
+  @article{Lin2025Cross,
+    author = {Qika Lin and Kai He and Yifan Zhu and Fangzhi Xu and Erik Cambria and Mengling Feng},
+    title = {{Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA}},
+    journal = {IEEE Transactions on Image Processing},
+    year = {2025},
+    url = {https://ieeexplore.ieee.org/document/10964089}
+  }
+
+Lin2025Has: |-
+  @article{Lin2025Has,
+    author = {Qika Lin and Yifan Zhu and Xin Mei and Ling Huang and Jingying Ma and Kai He and Zhen Peng and Erik Cambria and Mengling Feng},
+    title = {{Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey}},
+    journal = {Information Fusion},
+    year = {2025},
+    volume = {116},
+    pages = {102795},
+    url = {https://www.sciencedirect.com/science/article/pii/S1566253524005736}
+  }
+
+Han2025FedGPA: |-
+  @article{Han2025FedGPA,
+    author = {Zongfu Han and Yu Feng and Yifan Zhu and Zhen Tian and Fangyu Hao and Meina Song},
+    title = {{FedGPA: Federated Learning with Global Personalized Aggregation}},
+    journal = {AI Open},
+    year = {2025},
+    url = {https://www.sciencedirect.com/science/article/pii/S2666651025000063/pdfft?md5=4c47cbd49280b9b7ebb4f813ed5de38f\&pid=1-s2.0-S2666651025000063-main.pdf}
+  }
+
+Tian2025Multi: |-
+  @article{Tian2025Multi,
+    author = {Zijing Tian and Zhonghong Ou and Yifan Zhu and Shuai Lyu and Hanyu Zhang and Jinghua Xiao and Meina Song},
+    title = {{Multi-SEA: Multi-stage Semantic Enhancement and Aggregation for image–text retrieval}},
+    journal = {Information Processing and Management},
+    year = {2025},
+    volume = {62},
+    number = {5},
+    pages = {104165},
+    url = {https://authors.elsevier.com/c/1kx2j15hYd-jbc}
+  }
+
+Shi2025Multi: |-
+  @article{Shi2025Multi,
+    author = {Kaize Shi and Xueping Peng and Yifan Zhu and Hui He and Kun Yi and Zhendong Niu},
+    title = {{Multi-KGS: Generating Social Network-Based Meteorological Decision Reports Fusing With Multiple Knowledge}},
+    journal = {IEEE Transactions on Consumer Electronics},
+    year = {2025},
+    url = {https://ieeexplore.ieee.org/document/11104825}
+  }
+
+Book2025Publication: |-
+  @book{Book2025Publication,
+    author = {鄂海红 and 朱一凡 and 宋美娜 and 欧中洪},
+    title = {{大数据技术基础（第2版）}},
+    publisher = {北京邮电大学出版社},
+    year = {2025},
+    url = {https://item.jd.com/14943768.html}
+  }
+
+Feng2024CP: |-
+  @inproceedings{Feng2024CP,
+    author = {Yu Feng and Zhen Tian and Yifan Zhu and Zongfu Han and Haoran Luo and Guangwei Zhang and Meina Song},
+    title = {{CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning}},
+    booktitle = {ACM Multimedia},
+    year = {2024},
+    url = {http://arxiv.org/abs/2407.21043}
+  }
+
+Luo2024Text2NKG: |-
+  @inproceedings{Luo2024Text2NKG,
+    author = {Haoran Luo and Haihong E and Yuhao Yang and Tianyu Yao and Yikai Guo and Zichen Tang and Wentai Zhang and Shiyao Peng and Kaiyang Wan and Meina Song and Wei Lin and Yifan Zhu and Anh Tuan Luu},
+    title = {{Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction}},
+    booktitle = {Advances in Neural Information Processing Systems (NeurIPS'24)},
+    year = {2024},
+    url = {https://arxiv.org/pdf/2310.05185}
+  }
+
+Luo2024ChatKBQA: |-
+  @inproceedings{Luo2024ChatKBQA,
+    author = {Haoran Luo and Haihong E and Zichen Tang and Shiyao Peng and Yikai Guo and Wentai Zhang and Chenghao Ma and Guanting Dong and Meina Song and Wei Lin and Yifan Zhu and Luu Anh Tuan},
+    title = {{ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models}},
+    booktitle = {Fingdings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24)},
+    year = {2024},
+    url = {https://arxiv.org/pdf/2310.08975}
+  }
+
+Zhang2024OAG: |-
+  @inproceedings{Zhang2024OAG,
+    author = {Fanjin Zhang and Shijie Shi and Yifan Zhu and Bo Chen and Yukuo Cen and Jifan Yu and Yelin Chen and Lulu Wang and Qingfei Zhao and Yuqing Cheng and Tianyi Han and Yuwei An and Dan Zhang and Weng Lam Tam and Kun Cao and Yunhe Pang and Xinyu Guan and Huihui Yuan and Jian Song and XiaoYan Li and Yuxiao Dong and Jie Tang},
+    title = {{OAG-Bench: A Human-Curated Benchmark for Academic Graph Mining}},
+    booktitle = {30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'24)},
+    year = {2024},
+    url = {https://arxiv.org/pdf/2402.15810}
+  }
+
+Liao2024RevGNN: |-
+  @article{Liao2024RevGNN,
+    author = {Weibin Liao and Yifan Zhu and Yanyan Li and Zhonghong Ou and Xuesong Li},
+    title = {{RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation}},
+    journal = {ACM Transactions on Information Systems},
+    year = {2024},
+    volume = {43},
+    number = {1},
+    pages = {168},
+    url = {https://arxiv.org/pdf/2407.20684}
+  }
+
+Zhang2024MCAP: |-
+  @article{Zhang2024MCAP,
+    author = {Dan Zhang and Shaojie Zhen and Yifan Zhu and Huihui Yuan and Jibing Gong and Jie Tang},
+    title = {{MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations}},
+    journal = {ACM Transactions on Information Systems},
+    year = {2024},
+    volume = {43},
+    number = {1},
+    pages = {1--26},
+    doi = {10.1145/3698193},
+    url = {https://dl.acm.org/doi/10.1145/3698193}
+  }
+
+Shi2024Contrastive: |-
+  @article{Shi2024Contrastive,
+    author = {Gen Shi and Yuxiang Yao and Yifan Zhu and Xinyue Lin and Lanxin Ji and Wenjin Liu and Xuesong Li},
+    title = {{Contrastive Hierarchical Augmentation Learning for Modeling Cognitive and Multimodal Brain Network}},
+    journal = {IEEE Transactions on Computational Social Systems},
+    year = {2024},
+    doi = {10.1109/TCSS.2024.3402328},
+    url = {https://doi.org/10.1109/TCSS.2024.3402328}
+  }
+
+Book2024Publication: |-
+  @book{Book2024Publication,
+    author = {鄂海红 and 王冀彬 and 朱一凡 and 尚晶 and 宋美娜 and 陈乐},
+    title = {{大数据技术原理与案例应用}},
+    publisher = {人民邮电出版社},
+    year = {2024},
+    url = {https://item.jd.com/14738174.html}
+  }
+
+Zhu2023WinGNN: |-
+  @inproceedings{Zhu2023WinGNN,
+    author = {Yifan Zhu and Fangpeng Cong and Dan Zhang and Wenwen Gong and Qika Lin and Wenzheng Feng and Yuxiao Dong and Jie Tang},
+    title = {{WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window}},
+    booktitle = {29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23)},
+    year = {2023},
+    doi = {10.1145/3580305.3599551},
+    url = {https://dl.acm.org/doi/abs/10.1145/3580305.3599551}
+  }
+
+Zhang2023ApeGNN: |-
+  @inproceedings{Zhang2023ApeGNN,
+    author = {Dan Zhang and Yifan Zhu and Yuxiao Dong and Yuandong Wang and Wenzheng Feng and Evgeny Kharlamov and Jie Tang},
+    title = {{ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation}},
+    booktitle = {Proceedings of the Web Conference 2023 (WWW'23)},
+    year = {2023},
+    pages = {759--769},
+    doi = {10.1145/3543507.3583530},
+    url = {https://dl.acm.org/doi/abs/10.1145/3543507.3583530}
+  }
+
+Zhou2023Semi: |-
+  @inproceedings{Zhou2023Semi,
+    author = {Ming Zhou and Wenzheng Feng and Yifan Zhu and Dan Zhang and Yuxiao Dong and Jie Tang},
+    title = {{Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks}},
+    booktitle = {Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML PKDD)},
+    year = {2023},
+    doi = {10.1007/978-3-031-43427-3\_13},
+    url = {https://link.springer.com/chapter/10.1007/978-3-031-43427-3\_13}
+  }
+
+Han2023FM: |-
+  @inproceedings{Han2023FM,
+    author = {Zongzhi Han and Zhonghong Ou and Yifan Zhu and Xiaodong Li and Meina Song},
+    title = {{FM-IGNN: Interaction Graph Neural Network with Fine-grained Matching for Session-based Recommendation}},
+    booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},
+    year = {2023},
+    url = {https://ieeexplore.ieee.org/document/10415758/}
+  }
+
+Zhu2023Recommending: |-
+  @article{Zhu2023Recommending,
+    author = {Yifan Zhu and Qika Lin and Hao Lu and Kaize Shi and Donglei Liu and James Chambua and Shanshan Wan and Zhendong Niu},
+    title = {{Recommending Learning Objects through Attentive Heterogeneous Graph Convolution and Operation-Aware Neural Network}},
+    journal = {IEEE Transactions on Knowledge and Data Engineering},
+    year = {2023},
+    volume = {35},
+    number = {4},
+    pages = {4178--4189},
+    doi = {10.1109/TKDE.2022.3176813},
+    url = {https://ieeexplore.ieee.org/doi/abs/10.1109/TKDE.2022.3176813}
+  }
+
+Shi2023HeGCL: |-
+  @article{Shi2023HeGCL,
+    author = {Gen Shi and Yifan Zhu and Jian K. Liu and Xuesong Li},
+    title = {{HeGCL: Advance Self-Supervised Learning in Heterogeneous Graph-level Representation}},
+    journal = {IEEE Transactions on Neural Networks and Learning Systems},
+    year = {2023},
+    volume = {35},
+    number = {10},
+    pages = {13914--13925},
+    url = {https://ieeexplore.ieee.org/document/10135109}
+  }
+
+Shi2022Fusion: |-
+  @inproceedings{Shi2022Fusion,
+    author = {Gen Shi and Yifan Zhu and Fuquan Zhang and Wenjin Liu and Yuxiang Yao and Xuesong Li},
+    title = {{Fusion Learning of Multimodal Neuroimaging with Weighted Graph AutoEncoder}},
+    booktitle = {proceedings of the International Conference on Bioinformatics and Biomedicine (BIBM'2022)},
+    year = {2022},
+    pages = {2467--2473},
+    url = {https://ieeexplore.ieee.org/abstract/document/9995243}
+  }
+
+Lin2022Incorporating: |-
+  @inproceedings{Lin2022Incorporating,
+    author = {Qika Lin and Jun Liu and Fangzhi Xu and Yudai Pan and Yifan Zhu and Lingling Zhang and Tianzhe Zhao},
+    title = {{Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction}},
+    booktitle = {45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'22)},
+    year = {2022},
+    pages = {893--903},
+    doi = {10.1145/3477495.3531996},
+    url = {https://dl.acm.org/doi/10.1145/3477495.3531996}
+  }
+
+Huai2022AMinerGNN: |-
+  @inproceedings{Huai2022AMinerGNN,
+    author = {Zepeng Huai and Zhe Wang and Yifan Zhu and Peng Zhang},
+    title = {{AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query}},
+    booktitle = {31st ACM International Conference on Information \& Knowledge Management (CIKM'22)},
+    year = {2022},
+    pages = {4039--4043},
+    doi = {10.1145/3511808.3557544},
+    url = {https://dl.acm.org/doi/abs/10.1145/3511808.3557544}
+  }
+
+Lu2022Heterogeneous: |-
+  @article{Lu2022Heterogeneous,
+    author = {Hao Lu and Yifan Zhu and Qika Lin and Tan Wang and Zhendong Niu and Enrique Herrera-Viedma},
+    title = {{Heterogeneous knowledge learning of predictive academic intelligence in transportation}},
+    journal = {IEEE Transactions on Intelligent Transportation Systems},
+    year = {2022},
+    volume = {23},
+    number = {4},
+    pages = {3737--3755},
+    url = {https://ieeexplore.ieee.org/abstract/document/9298476/}
+  }
+
+Wang2022New: |-
+  @article{Wang2022New,
+    author = {Tan Wang and Yifan Zhu and Peijun Ye and Weichao Gong and Hao Lu and Hong Mo and Fei-Yue Wang},
+    title = {{A New Perspective for Computational Systems: Fuzzy Modeling and Reasoning for Social Computing in CPSS}},
+    journal = {IEEE Transactions on Computational Social Systems},
+    year = {2022},
+    volume = {11},
+    number = {1},
+    pages = {101--116},
+    url = {https://ieeexplore.ieee.org/abstract/document/9894383}
+  }
+
+Shi2022Application: |-
+  @article{Shi2022Application,
+    author = {Kaize Shi and Hao Lu and Yifan Zhu and Zhendong Niu},
+    title = {{Application of Social Sensors in Natural Disasters Emergency Management: A Review}},
+    journal = {IEEE Transactions on Computational Social Systems},
+    year = {2022},
+    volume = {10},
+    number = {6},
+    pages = {3143--3158},
+    url = {https://ieeexplore.ieee.org/abstract/document/9923419}
+  }
+
+Liu2022Local: |-
+  @article{Liu2022Local,
+    author = {Donglei Liu and Yong Yuan and Rui Qin and Yifan Zhu and Chunxia Zhang and Zhendong Niu},
+    title = {{A Local Self-Attention Sentence Model for Answer Selection Task in CQA Systems}},
+    journal = {IEEE Transactions on Computational Social Systems},
+    year = {2022},
+    volume = {10},
+    number = {6},
+    pages = {3283--3294},
+    url = {https://ieeexplore.ieee.org/abstract/document/9861392}
+  }
+
+Shi2022Are: |-
+  @article{Shi2022Are,
+    author = {Gen Shi and Yifan Zhu and Zhensen Chen and Jinyan Liu and Xuesong Li},
+    title = {{Are Non-image Data Really Necessary for Disease Prediction with Graph Convolutional Networks?}},
+    journal = {IEEE Transactions on Cognitive and Developmental Systems},
+    year = {2022},
+    volume = {15},
+    number = {1},
+    pages = {252--260},
+    url = {https://ieeexplore.ieee.org/abstract/document/9717290}
+  }
+
+Zhu2021Widespread: |-
+  @article{Zhu2021Widespread,
+    author = {Yifan Zhu and Xuesong Li and Yufei Qiao and Ruihong Shang and Gen Shi and Yingying Shang and Hua Guo},
+    title = {{Widespread Plasticity of Cognition-Related Brain Networks in Single-Sided Deafness Revealed by Randomized Window-Based Dynamic Functional Connectivity}},
+    journal = {Medical Image Analysis},
+    year = {2021},
+    volume = {73},
+    number = {474},
+    pages = {102163},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S1361841521002097}
+  }
+
+Zhu2021Recommending: |-
+  @article{Zhu2021Recommending,
+    author = {Yifan Zhu and Qika Lin and Hao Lu and Kaize Shi and Ping Qiu and Zhendong Niu},
+    title = {{Recommending scientific paper via heterogeneous knowledge embedding based attentive recurrent neural networks}},
+    journal = {Knowledge-Based Systems},
+    year = {2021},
+    volume = {215},
+    pages = {106744},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S0950705121000071}
+  }
+
+Zhu2022Investigating: |-
+  @article{Zhu2022Investigating,
+    author = {Yifan Zhu and Xuesong Li and Yang Sun and Haixu Wang and Hua Guo and Jie Sui},
+    title = {{Investigating Neural Substrates of Individual Independence and Interdependence Orientations via Efficiency-based Dynamic Functional Connectivity: A Machine Learning Approach}},
+    journal = {IEEE Transactions on Cognitive and Developmental Systems},
+    year = {2022},
+    volume = {14},
+    number = {2},
+    pages = {761--771},
+    url = {https://ieeexplore.ieee.org/abstract/document/9502838}
+  }
+
+Lin2021Improving: |-
+  @article{Lin2021Improving,
+    author = {Qika Lin and Yifan Zhu and Hao Lu and Kaize Shi and Zhendong Niu},
+    title = {{Improving University Faculty Evaluations via multi-view Knowledge Graph}},
+    journal = {Future Generation Computer Systems},
+    year = {2021},
+    volume = {117},
+    pages = {181--192},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S0167739X20330454}
+  }
+
+Shi2021divided: |-
+  @article{Shi2021divided,
+    author = {Gen Shi and Xuesong Li and Yifan Zhu and Ruihong Shang and Yang Sun and Hua Guo and Jie Sui},
+    title = {{The divided brain: Functional brain asymmetry underlying self-construal}},
+    journal = {NeuroImage},
+    year = {2021},
+    volume = {240},
+    pages = {118382},
+    url = {https://www.sciencedirect.com/science/article/pii/S1053811921006583}
+  }
+
+Shi2021EKGTF: |-
+  @article{Shi2021EKGTF,
+    author = {Kaize Shi and Yuseng Wang and Hao Lu and Yifan Zhu and Zhendong Niu},
+    title = {{EKGTF: A knowledge-enhanced model for optimizing social network-based meteorological briefings}},
+    journal = {Information Processing \& Management},
+    year = {2021},
+    volume = {58},
+    number = {4},
+    pages = {102564},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S0306457321000637}
+  }
+
+Lu2021Social: |-
+  @article{Lu2021Social,
+    author = {Hao Lu and Yifan Zhu and Yong Yuan and Weichao Gong and Juanuan Li and Kaize Shi and Yisheng Lv and Zhendong Niu and Fei-Yue Wang},
+    title = {{Social Signal-Driven Knowledge Automation: A Focus on Social Transportation}},
+    journal = {IEEE Transactions on Computational Social Systems},
+    year = {2021},
+    volume = {8},
+    number = {3},
+    pages = {737--753},
+    url = {https://ieeexplore.ieee.org/abstract/document/9374560}
+  }
+
+Mao2021Classifying: |-
+  @article{Mao2021Classifying,
+    author = {Yu Mao and Yifan Zhu and Yiping Liu and Qika Lin and Hao Lu and Fuquan Zhang},
+    title = {{Classifying user connections through social media avatars and users social activities: a case study in identifying sellers on social media}},
+    journal = {Enterprise Information Systems},
+    year = {2021},
+    volume = {16},
+    number = {8-9},
+    pages = {1856420},
+    doi = {10.1080/17517575.2020.1856420},
+    url = {https://www.tandfonline.com/doi/abs/10.1080/17517575.2020.1856420}
+  }
+
+Zhu2020Heterogeneous: |-
+  @article{Zhu2020Heterogeneous,
+    author = {Yifan Zhu and Hao Lu and Ping Qiu and Kaize Shi and James Chambua and Zhendong Niu},
+    title = {{Heterogeneous teaching evaluation network based offline course recommendation with graph learning and tensor factorization}},
+    journal = {Neurocomputing},
+    year = {2020},
+    volume = {415},
+    pages = {84--95},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S0925231220311723}
+  }
+
+Zhu2020Social: |-
+  @article{Zhu2020Social,
+    author = {Yifan Zhu and Sifan Zhang and Yinan Li and Hao Lu and Kaize Shi and Zhendong Niu},
+    title = {{Social weather: A review of crowdsourcing‐assisted meteorological knowledge services through social cyberspace}},
+    journal = {Geoscience Data Journal},
+    year = {2020},
+    volume = {7},
+    number = {1},
+    pages = {61--79},
+    doi = {10.1002/gdj3.85},
+    url = {https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.85}
+  }
+
+Shi2020Automatic: |-
+  @article{Shi2020Automatic,
+    author = {Kaize Shi and Hao Lu and Yifan Zhu and Zhendong Niu},
+    title = {{Automatic generation of meteorological briefing by event knowledge guided summarization model}},
+    journal = {Knowledge-Based Systems},
+    year = {2020},
+    volume = {192},
+    pages = {105379},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S0950705119306276}
+  }
+
+Mao2019Detecting: |-
+  @inproceedings{Mao2019Detecting,
+    author = {Yu Mao and Yifan Zhu and Sifan Zhang and Dexiu Zhang and Fuquan Zhang and Xiaozhong Fan},
+    title = {{Detecting interest-factor influenced abnormal evaluation of teaching via multimodal embedding and priori knowledge based neural network}},
+    booktitle = {IEEE-ISPA 2019},
+    year = {2019},
+    pages = {1201--1209},
+    url = {https://ieeexplore.ieee.org/abstract/document/9047381}
+  }
+
+Li2019Chinese: |-
+  @inproceedings{Li2019Chinese,
+    author = {Yinan Li and Fuquan Zhang and Y. Zhu and S. Zhang and Y. Mao and Z. Niu},
+    title = {{Chinese Lexical Based Sentiment Analysis Framework in Meteorology}},
+    booktitle = {IEEE-ISPA 2019},
+    year = {2019},
+    pages = {1652--1658},
+    url = {https://ieeexplore.ieee.org/abstract/document/9047329}
+  }
+
+Zhu2019opinion: |-
+  @article{Zhu2019opinion,
+    author = {Yifan Zhu and James Chambua and Hao Lu and Kaize Shi and Zhendong Niu},
+    title = {{An opinion based cross‐regional meteorological event detection model}},
+    journal = {Weather},
+    year = {2019},
+    volume = {74},
+    number = {2},
+    pages = {51--55},
+    doi = {10.1002/wea.3295},
+    url = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/wea.3295}
+  }
+
+Shi2020Wide: |-
+  @article{Shi2020Wide,
+    author = {Kaize Shi and Changjin Gong and Hao Lu and Yifan Zhu and Zhendong Niu},
+    title = {{Wide-grained capsule network with sentence-level feature to detect meteorological event in social network}},
+    journal = {Future Generation Computer Systems},
+    year = {2020},
+    volume = {102},
+    pages = {323--332},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S0167739X19310908}
+  }
+
+Chambua2019User: |-
+  @article{Chambua2019User,
+    author = {James Chambua and Zhendong Niu and Yifan Zhu},
+    title = {{User preferences prediction approach based on embedded deep summaries}},
+    journal = {Expert Systems with Applications},
+    year = {2019},
+    volume = {132},
+    pages = {87--98},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S0957417419302775}
+  }
+
+Nie2019Academic: |-
+  @article{Nie2019Academic,
+    author = {Yubing Nie and Yifan Zhu and Qika Lin and Sifan Zhang and Pengfei Shi and Zhendong Niu},
+    title = {{Academic rising star prediction via scholar’s evaluation model and machine learning techniques}},
+    journal = {Scientometrics},
+    year = {2019},
+    volume = {120},
+    number = {2},
+    pages = {461--476},
+    doi = {10.1007/s11192-019-03131-x},
+    url = {https://link.springer.com/article/10.1007/s11192-019-03131-x}
+  }
+
+Lin2019Lexical: |-
+  @article{Lin2019Lexical,
+    author = {Qika Lin and Yifan Zhu and Sifan Zhang and Pengfei Shi and Qing Guo and Zhendong Niu},
+    title = {{Lexical based automated teaching evaluation via students’ short reviews}},
+    journal = {Computer Applications in Engineering Education},
+    year = {2019},
+    volume = {27},
+    number = {1},
+    pages = {194--205},
+    doi = {10.1002/cae.22068},
+    url = {https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22068}
+  }

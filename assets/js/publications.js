@@ -1,275 +1,12 @@
 (function () {
   "use strict";
 
-  var SECTION_TYPES = {
-    "conference papers": "inproceedings",
-    "journal papers": "article",
-    "books": "book"
-  };
-
-  var keyCounts = {};
   var activeTrigger = null;
   var modal = null;
   var modalCode = null;
   var modalStatus = null;
   var modalCopy = null;
-
-  function normalizeSpace(value) {
-    return (value || "").replace(/\s+/g, " ").trim();
-  }
-
-  function stripEdgePunctuation(value) {
-    return normalizeSpace(value)
-      .replace(/^[\s.,;:，。]+/, "")
-      .replace(/[\s.]+$/, "");
-  }
-
-  function escapeBibTeX(value) {
-    return String(value || "")
-      .replace(/\\/g, "\\textbackslash{}")
-      .replace(/([&%#$])/g, "\\$1")
-      .replace(/~/g, "\\textasciitilde{}")
-      .replace(/\^/g, "\\textasciicircum{}");
-  }
-
-  function textBefore(element, descendant) {
-    var range = document.createRange();
-    range.selectNodeContents(element);
-    range.setEndBefore(descendant);
-    return range.toString();
-  }
-
-  function textAfterUntil(element, descendant, endNode) {
-    var range = document.createRange();
-    range.setStartAfter(descendant);
-    if (endNode) {
-      range.setEndBefore(endNode);
-    } else {
-      range.setEnd(element, element.childNodes.length);
-    }
-    return range.toString();
-  }
-
-  function getTitleNode(item) {
-    var candidates = Array.prototype.slice.call(
-      item.querySelectorAll("strong > em, em > strong")
-    );
-
-    return candidates.sort(function (left, right) {
-      return normalizeSpace(right.textContent).length -
-        normalizeSpace(left.textContent).length;
-    })[0] || null;
-  }
-
-  function getItemContentContainer(item, node) {
-    var container = node;
-    while (container.parentElement && container.parentElement !== item) {
-      container = container.parentElement;
-    }
-
-    return container.tagName === "P" ? container : item;
-  }
-
-  function parseAuthors(value, venueLabel) {
-    var authors = normalizeSpace(value);
-    if (venueLabel) {
-      authors = authors.replace(venueLabel, "");
-    }
-
-    authors = authors
-      .replace(/^[\s.,;:，。]+/, "")
-      .replace(/[\s.,;:，。]+$/, "")
-      .replace(/\s+(?:and|&)\s+/gi, ", ");
-
-    return authors
-      .split(/[,，]/)
-      .map(function (author) { return normalizeSpace(author); })
-      .filter(Boolean)
-      .join(" and ");
-  }
-
-  function getYear(citationText, fallbackYear) {
-    var years = citationText.match(/\b(?:19|20)\d{2}\b/g);
-    return years && years.length ? years[0] : fallbackYear;
-  }
-
-  function getUrl(item) {
-    var links = Array.prototype.slice.call(item.querySelectorAll("a[href]"));
-    var publicationLink = links.find(function (link) {
-      return /paper|book/i.test(normalizeSpace(link.textContent));
-    });
-
-    if (!publicationLink) {
-      return "";
-    }
-
-    var href = publicationLink.getAttribute("href");
-    return href && href !== "#" ? publicationLink.href : "";
-  }
-
-  function getDoi(url) {
-    var decodedUrl;
-    try {
-      decodedUrl = decodeURIComponent(url);
-    } catch (error) {
-      decodedUrl = url;
-    }
-
-    var match = decodedUrl.match(/10\.\d{4,9}\/[^?#\s]+/i);
-    return match ? match[0].replace(/\/$/, "") : "";
-  }
-
-  function getJournalFields(citationText, year) {
-    var text = stripEdgePunctuation(citationText);
-    var fields = {};
-    var journal = text.split(/[,，]/)[0] || "";
-    var compactMatch;
-    var volumeMatch;
-
-    if (year) {
-      journal = journal.replace(new RegExp("\\b" + year + "\\b.*$"), "");
-    }
-
-    compactMatch = journal.match(/^(.+?)\s+(\d+)(?:\(([^)]+)\))?$/);
-    if (compactMatch) {
-      journal = compactMatch[1];
-      fields.volume = compactMatch[2];
-      if (compactMatch[3]) {
-        fields.number = compactMatch[3];
-      }
-
-      volumeMatch = text.match(/[,，]\s*(\d+\s*-\s*\d+)\s*$/);
-      if (volumeMatch) {
-        fields.pages = volumeMatch[1].replace(/\s*-\s*/g, "--");
-      }
-    }
-
-    fields.journal = stripEdgePunctuation(journal);
-
-    volumeMatch = text.match(
-      /(?:^|[,，]\s*)(\d+)(?:\(([^)]+)\))?\s*:\s*([A-Za-z0-9-]+)/
-    );
-    if (volumeMatch) {
-      fields.volume = volumeMatch[1];
-      if (volumeMatch[2]) {
-        fields.number = volumeMatch[2];
-      }
-      fields.pages = volumeMatch[3].replace(/-/g, "--");
-    } else {
-      volumeMatch = text.match(
-        /(?:^|[,，]\s*)(\d+)(?:\(([^)]+)\))?[,，]\s*(\d+\s*-\s*\d+)/
-      );
-      if (volumeMatch) {
-        fields.volume = volumeMatch[1];
-        if (volumeMatch[2]) {
-          fields.number = volumeMatch[2];
-        }
-        fields.pages = volumeMatch[3].replace(/\s*-\s*/g, "--");
-      }
-    }
-
-    return fields;
-  }
-
-  function getConferenceFields(citationText, year, venueLabel) {
-    var text = stripEdgePunctuation(citationText)
-      .replace(/^In\s+/i, "")
-      .replace(new RegExp("[,，]?\\s*" + year + "\\s*[,，.]?\\s*"), ", ")
-      .replace(/[,，]\s*$/, "");
-    var fields = {};
-    var pagesMatch = text.match(/[,，]\s*(\d+\s*(?:--|-)\s*\d+)\s*$/);
-
-    if (pagesMatch) {
-      fields.pages = pagesMatch[1].replace(/\s*(?:--|-)\s*/g, "--");
-      text = text.slice(0, pagesMatch.index);
-    }
-
-    fields.booktitle = stripEdgePunctuation(text)
-      .replace(/[,，]\s*(?=\()/g, " ") || venueLabel;
-    return fields;
-  }
-
-  function makeCitationKey(authors, year, title, type) {
-    var firstAuthor = authors.split(" and ")[0] || "";
-    var authorParts = firstAuthor.match(/[A-Za-z0-9]+/g) || [];
-    var authorKey = authorParts.length ?
-      authorParts[authorParts.length - 1] :
-      (type === "book" ? "Book" : "Publication");
-    var stopWords = /^(a|an|and|for|from|of|on|the|to|towards|via|with)$/i;
-    var titleWords = title.match(/[A-Za-z0-9]+/g) || [];
-    var titleKey = titleWords.find(function (word) {
-      return /[A-Za-z]/.test(word) && !stopWords.test(word);
-    }) || (type === "book" ? "Book" : "Work");
-    var baseKey = authorKey + year + titleKey;
-
-    keyCounts[baseKey] = (keyCounts[baseKey] || 0) + 1;
-    return baseKey + (keyCounts[baseKey] > 1 ? keyCounts[baseKey] : "");
-  }
-
-  function addField(lines, name, value, isTitle) {
-    if (!value) {
-      return;
-    }
-
-    var escaped = escapeBibTeX(value);
-    lines.push(
-      "  " + name + " = {" + (isTitle ? "{" + escaped + "}" : escaped) + "}"
-    );
-  }
-
-  function buildBibTeX(item, type, fallbackYear) {
-    var titleNode = getTitleNode(item);
-    if (!titleNode) {
-      return "";
-    }
-
-    var titleWrapper = titleNode.parentElement;
-    var itemContentWrapper = getItemContentContainer(item, titleWrapper);
-    var venueNode = item.querySelector("code");
-    var venueLabel = venueNode ? normalizeSpace(venueNode.textContent) : "";
-    var resourceLink = Array.prototype.slice.call(item.querySelectorAll("a")).find(
-      function (link) {
-        return /paper|book/i.test(normalizeSpace(link.textContent));
-      }
-    );
-    var authorsText = textBefore(item, titleWrapper);
-    var citationText = textAfterUntil(
-      itemContentWrapper,
-      titleWrapper,
-      resourceLink && itemContentWrapper.contains(resourceLink) ? resourceLink : null
-    );
-    var authors = parseAuthors(authorsText, venueLabel);
-    var title = normalizeSpace(titleNode.textContent);
-    var year = getYear(citationText, fallbackYear);
-    var url = getUrl(item);
-    var doi = getDoi(url);
-    var typeFields = type === "inproceedings" ?
-      getConferenceFields(citationText, year, venueLabel) :
-      type === "article" ?
-        getJournalFields(citationText, year) :
-        { publisher: stripEdgePunctuation(citationText).replace(
-          new RegExp("[,，]?\\s*" + year + "\\s*$"),
-          ""
-        ) };
-    var key = makeCitationKey(authors, year, title, type);
-    var lines = ["@" + type + "{" + key + ","];
-
-    addField(lines, "author", authors);
-    addField(lines, "title", title, true);
-    addField(lines, "booktitle", typeFields.booktitle);
-    addField(lines, "journal", typeFields.journal);
-    addField(lines, "publisher", typeFields.publisher);
-    addField(lines, "year", year);
-    addField(lines, "volume", typeFields.volume);
-    addField(lines, "number", typeFields.number);
-    addField(lines, "pages", typeFields.pages);
-    addField(lines, "doi", doi);
-    addField(lines, "url", url);
-
-    return lines.map(function (line, index) {
-      return index > 0 && index < lines.length - 1 ? line + "," : line;
-    }).join("\n") + "\n}";
-  }
+  var citations = {};
 
   function createModal() {
     var container = document.createElement("div");
@@ -387,102 +124,43 @@
     });
   }
 
-  function decorateSection(sectionHeading, type, year) {
-    var sibling = sectionHeading.nextElementSibling;
-
-    while (sibling && sibling.tagName !== "H3") {
-      if (sibling.tagName === "UL" || sibling.tagName === "OL") {
-        Array.prototype.forEach.call(sibling.children, function (item) {
-          if (item.tagName !== "LI" || item.hasAttribute("data-bibtex-ready")) {
-            return;
-          }
-
-          var bibtex = buildBibTeX(item, type, year);
-          if (!bibtex) {
-            return;
-          }
-
-          var trigger = item.querySelector("[data-bibtex-trigger]");
-          var titleNode = getTitleNode(item);
-
-          if (!trigger) {
-            trigger = document.createElement("button");
-            trigger.type = "button";
-            trigger.className = "bibtex-trigger";
-            trigger.textContent = "BibTeX";
-
-            var contentContainer = titleNode ?
-              getItemContentContainer(item, titleNode) :
-              item;
-            contentContainer.appendChild(document.createTextNode(" "));
-            contentContainer.appendChild(trigger);
-          }
-
-          trigger.setAttribute("aria-haspopup", "dialog");
-          trigger.setAttribute(
-            "aria-label",
-            "Show BibTeX citation" +
-              (titleNode ? " for " + normalizeSpace(titleNode.textContent) : "")
-          );
-          trigger.addEventListener("click", function () {
-            openModal(trigger, bibtex);
-          });
-
-          item.setAttribute("data-bibtex-ready", "true");
-        });
-      }
-
-      sibling = sibling.nextElementSibling;
+  function loadCitations() {
+    var dataElement = document.getElementById("publication-bibtex-data");
+    if (!dataElement) {
+      return false;
     }
-  }
 
-  function decoratePublicationDetails(details) {
-    var summary = details.querySelector("summary");
-    var yearMatch = summary && summary.textContent.match(/\b(?:19|20)\d{2}\b/);
-    var fallbackYear = yearMatch ? yearMatch[0] : "";
-
-    Array.prototype.forEach.call(details.querySelectorAll("h3"), function (heading) {
-      var type = SECTION_TYPES[normalizeSpace(heading.textContent).toLowerCase()];
-      if (type) {
-        decorateSection(heading, type, fallbackYear);
-      }
-    });
+    try {
+      citations = JSON.parse(dataElement.textContent);
+      return true;
+    } catch (error) {
+      return false;
+    }
   }
 
   function initializePublications() {
-    var anchor = document.getElementById("-publications");
-    var contentRoot;
-    var topLevelAnchor;
-    var sibling;
-
-    if (!anchor) {
+    if (!loadCitations()) {
       return;
     }
 
-    contentRoot = anchor.parentElement;
-    while (
-      contentRoot &&
-      !contentRoot.classList.contains("page__content")
-    ) {
-      contentRoot = contentRoot.parentElement;
-    }
+    Array.prototype.forEach.call(
+      document.querySelectorAll("[data-bibtex-trigger][data-bibtex-key]"),
+      function (trigger) {
+        var key = trigger.getAttribute("data-bibtex-key");
+        var bibtex = citations[key];
 
-    topLevelAnchor = anchor;
-    while (
-      contentRoot &&
-      topLevelAnchor.parentElement &&
-      topLevelAnchor.parentElement !== contentRoot
-    ) {
-      topLevelAnchor = topLevelAnchor.parentElement;
-    }
+        if (!bibtex) {
+          trigger.disabled = true;
+          trigger.title = "BibTeX data unavailable";
+          return;
+        }
 
-    sibling = topLevelAnchor.nextElementSibling;
-    while (sibling && sibling.tagName !== "H1") {
-      if (sibling.tagName === "DETAILS") {
-        decoratePublicationDetails(sibling);
+        trigger.setAttribute("aria-haspopup", "dialog");
+        trigger.addEventListener("click", function () {
+          openModal(trigger, bibtex);
+        });
       }
-      sibling = sibling.nextElementSibling;
-    }
+    );
 
     document.addEventListener("keydown", function (event) {
       if (event.key === "Escape") {
