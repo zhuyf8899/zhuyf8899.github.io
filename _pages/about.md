@@ -29,11 +29,12 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🔥 News
 <span class='anchor' id='-news'></span>
 
+- *2026.09* : &nbsp; I have joined the editorial board of [计算机科学（Computer Science）](https://mp.weixin.qq.com/s/UMPdnbZXbLm5Va8rP4KG8A).
 - *2026.07* : &nbsp; Congratulations to Fangyu and Lyushuai, two paper have been accepted by MM'26!
 - *2026.05* : &nbsp; Congratulations to Yu, Haoran, Kevien and Tao for their outstanding works have been accepted by ICML'26!
 - *2026.04* : &nbsp; I have attained the distinction of both IEEE Senior and CCF Senior Membership.
 - *2026.02* : &nbsp; Congratulations to Wentai,the FlashEKGR paper has been accepted by ICDE'26!
-- *2026.01* : &nbsp; We have been awarded by the First Prize of Wu Wenjun AI Award from Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf)
+<!-- - *2026.01* : &nbsp; We have been awarded by the First Prize of Wu Wenjun AI Award from Chinese Association for Artificial Intelligence [(中国人工智能学会吴文俊人工智能科学技术奖（科技进步奖）一等奖)](https://cmsfiles.zhongkefu.com.cn/cmsrengongzhinengoss2025/upload/ueditor/20260203/1770111466728082.pdf) -->
 <!-- - *2026.01* : &nbsp; Congratulations to Huiqiang and Weibin, two paper have been accepted by ICLR'26! -->
 <!-- - *2025.12* : &nbsp; I have been elected as a member of Social Media Processing Technical Committee of the Chinese Information Society, as well as a standing member of CICC Technical Committee on Medical-Engineering Integration. -->
 <!-- - *2025.12* : &nbsp; We have been awarded by the First Prize of Science and Technology Advancement Award from China Institute of Communications [(中国通信学会科学技术奖（科技进步类）一等奖)](https://www.china-cic.cn/Detail/24/6900/6900)! -->
@@ -70,6 +71,11 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 ```
 python3 scripts/sync_publication_bibtex.py
 ```
+此外，可以在本地执行：
+bundle _2.2.19_ exec jekyll build
+bundle _2.2.19_ exec jekyll serve
+到
+localhost:4000看编译效果
 生成BibTex脚本 -->
 
 <details open markdown="1">
@@ -106,13 +112,17 @@ python3 scripts/sync_publication_bibtex.py
 
 ### Journal Papers
 
-- ```IJCV``` Wei Li, Hangjie Yuan, Zixiang Zhao, ***Yifan Zhu***, Aojun Lu, Tao Feng, Yanan Sun. C-Flat++: Towards a More Efficient and Powerful Framework for Continual Learning. International Journal of Computer Vision, 2026. [Paper](https://arxiv.org/abs/2508.18860) [Code](https://github.com/WanNaa/C-Flat) <button type="button" class="bibtex-trigger" data-bibtex-trigger data-bibtex-key="Li2026C" aria-label="Show BibTeX for C-Flat++: Towards a More Efficient and Powerful Framework for Continual Learning">BibTeX</button>
+- ```IJCV``` Wei Li, Hangjie Yuan, Zixiang Zhao, ***Yifan Zhu***, Aojun Lu, Tao Feng, Yanan Sun. ***C-Flat++: Towards a More Efficient and Powerful Framework for Continual Learning***. International Journal of Computer Vision, 2026. [Paper](https://arxiv.org/abs/2508.18860) [Code](https://github.com/WanNaa/C-Flat) <button type="button" class="bibtex-trigger" data-bibtex-trigger data-bibtex-key="Li2026C" aria-label="Show BibTeX for C-Flat++: Towards a More Efficient and Powerful Framework for Continual Learning">BibTeX</button>
 
 - ```IEEE TITS``` Ping Zong, Zhonghong Ou, ***Yifan Zhu***, Ran An, Qingnan Zhao, Guoxin Zhang, Kaiwen Xue, Zijing Tian, Shuai Lyu, Yiran Shen, Sihao He. ***Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing***. IEEE Transactions on Intelligent Transportation Systems, 2026. [Paper](https://ieeexplore.ieee.org/document/11466345) <button type="button" class="bibtex-trigger" data-bibtex-trigger data-bibtex-key="Zong2026Satellite" aria-label="Show BibTeX for Satellite-Enabled Edge Intelligence for Climate-Resilient Emergency Mobility: A Survey of On-Orbit Edge Computing">BibTeX</button>
 
 - ```IEEE TAI``` Xingguo Lv, Ningshu Li, Lei Zhao, Kai Xu, Qika Lin, ***Yifan Zhu***, Chuan Zhang, Bin Pu. ***TiPE-SAM: Tiny and Parameter-Efficient SAM for Edge Medical Image Segmentation with Mixture-of-Shape-Experts Priors***. IEEE Transactions on Artificial Intelligence, 2026. [Paper](https://www.computer.org/csdl/journal/ai/5555/01/11397662/2ebvLqzCGqc) <button type="button" class="bibtex-trigger" data-bibtex-trigger data-bibtex-key="Lv2026TiPE" aria-label="Show BibTeX for TiPE-SAM: Tiny and Parameter-Efficient SAM for Edge Medical Image Segmentation with Mixture-of-Shape-Experts Priors">BibTeX</button>
 
 - ```INFFUS``` Feifei Kou, Ziyan Zhang, Yuhan Yao, Yuxian Zhu, Jiahao Wang, Ruiping Yuan, ***Yifan Zhu***. ***A survey on long-term traffic prediction from the information fusion perspective: Requirements, methods, applications, and outlooks***. Information Fusion, 2026, 127(A):103677. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007493) <button type="button" class="bibtex-trigger" data-bibtex-trigger data-bibtex-key="Kou2026survey" aria-label="Show BibTeX for A survey on long-term traffic prediction from the information fusion perspective: Requirements, methods, applications, and outlooks">BibTeX</button>
+
+### Books
+
+- 欧中洪, 朱一凡, 宋美娜, 鄂海红. ***大数据技术基础实验***. 电子工业出版社, 2026. [Book](https://item.jd.com/10232866723186.html) <button type="button" class="bibtex-trigger" data-bibtex-trigger data-bibtex-key="Book2026Publication" aria-label="Show BibTeX for 大数据技术基础实验">BibTeX</button>
 
 
 </details>

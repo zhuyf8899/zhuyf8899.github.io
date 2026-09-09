@@ -156,6 +156,15 @@ Kou2026survey: |-
     url = {https://www.sciencedirect.com/science/article/abs/pii/S1566253525007493}
   }
 
+Book2026Publication: |-
+  @book{Book2026Publication,
+    author = {欧中洪 and 朱一凡 and 宋美娜 and 鄂海红},
+    title = {{大数据技术基础实验}},
+    publisher = {电子工业出版社},
+    year = {2026},
+    url = {https://item.jd.com/10232866723186.html}
+  }
+
 Zhang2025DGFSD: |-
   @inproceedings{Zhang2025DGFSD,
     author = {Guoxin Zhang and Zhonghong Ou and Kaiwen Xue and Jiangfeng Sun and Siyuan Yao and Yiran Shen and Meina Song and Yifan Zhu},
